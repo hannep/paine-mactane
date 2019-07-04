@@ -5,7 +5,8 @@ date: 2019-07-03
 short_text: The Station Doctor on Tycho is the doctor that Fred Johnson and Camina Drummer go to when they need medical advice or care.
 hero: /assets/images/tycho-station-doctor-hero.jpg
 drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
-author: Thomas Vaeth
+twitter: /assets/images/tycho-station-doctor-twitter.png
+author: Paine×Mactane
 tags: 
   - Expanse Cocktails
   - Belter 
