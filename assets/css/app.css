@@ -622,7 +622,7 @@ h6, cite, .header__title, .header__list > *, .form__message, .post__date, .post_
   font-size: 1.1em; }
   @media (min-width: 32em) {
     .post__author, .post__bio, .posts__text, .related__text {
-      font-size: 1.15em; } }
+      font-size: 1.1em; } }
 
 label, h1,
 h2,
@@ -1737,6 +1737,10 @@ main {
   #markdown img {
     display: block;
     margin-bottom: 1.5rem; }
+  #markdown figure {
+    margin-bottom: 1em; }
+    #markdown figure img {
+      margin-bottom: 1em; }
   #markdown img[src$="#full"] {
     width: 100vw;
     max-width: none; }
