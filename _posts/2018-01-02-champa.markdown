@@ -1,0 +1,54 @@
+---
+layout: post
+number: 18
+name: Champa
+date: 2018-01-03
+short_text: Powerful far beyond his physical strength.
+tweet_text: The brawny man who can get terrified refugees organized with a moving speech reminding Belters of who they are. "You were certain, on the day you were born, our life is hard."
+hero: /assets/images/018-Champa-card.jpg
+drink_crop: /assets/images/018-Champa-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/948231997381541890"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Dark Rum
+  - Liqueur
+  - Character Drink
+  - Belter
+  - Bit Part
+  - Rock
+  - Spirit-Forward
+  - Fruity
+ingredients:
+  - amount: 2
+    unit: parts
+    name: overproof rum
+  - amount: 2
+    unit: parts
+    name: dark rum
+  - amount: 1
+    unit: part
+    name: passionfruit liqueur or syrup
+  - amount: ½
+    unit: part
+    name: scotch whisky
+  - amount: ¼
+    unit: part
+    name: ruby port
+
+---
+
+> "You were certain, on the day you were born, our life is hard." 
+
+Champa uses his imposing physical presence well to manage refugees trying to flee Ganymede on the Weeping Somnambulist. But when there's only enough air for 52 people aboard, he uses his voice to quell people's fears, organize them, and remind them of the Belter way. Finally, he gives his place aboard to Naomi, telling her she isn't "finished yet" in one of the most emotionally moving scenes of the season.
+
+For Champa, we wanted to create a drink that was strong and assertive, but earnest - without bitterness or sourness. He approaches each moment head-on, decisive and adaptable in the best Belter tradition, and with true kindness. This drink is spirit-forward, but warm and intense instead of rough. 
+
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Add all ingredients to a mixing glass and stir briefly with ice until just combined. Strain into a rocks glass over a single large ice cube.
+
+{% include tags.html %}
