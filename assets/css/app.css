@@ -1776,20 +1776,21 @@ main {
       display: table;
       clear: both; }
   .posts__post {
-    padding: 2em 1em; }
+    padding: 1em 1em; }
   .posts__link, .related__link {
     display: block;
     color: #000; }
     .posts__link:hover .posts__img, .related__link:hover .posts__img, .posts__link:hover .related__img, .related__link:hover .related__img {
       transform: translate3d(0, -10px, 0); }
   .posts__img, .related__img {
-    margin-bottom: 1em;
+    margin-bottom: .5em;
     background-color: #f8f8f8;
     transition: transform 400ms ease-in-out; }
     .posts__img img, .related__img img {
       display: block; }
   .posts__text {
-    font-weight: 400; }
+    font-weight: 400;
+    line-height: 1.5; }
   @media (min-width: 32em) {
     .posts__pagination {
       padding-top: 1em; } }
@@ -1892,6 +1893,9 @@ main {
 
 .tags-list {
   list-style: none; }
+  .tags-list li {
+    display: inline-block;
+    margin-right: 2em; }
 
 .zoom-img,
 .zoom-img-wrap {
