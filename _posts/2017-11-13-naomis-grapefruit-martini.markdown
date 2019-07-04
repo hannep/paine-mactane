@@ -1,6 +1,6 @@
 ---
 layout: post
-number: 11
+number: B1
 name: Naomi's Grapefruit Martini
 date: 2017-11-13
 short_text: Our version of Naomi's favorite cocktail.
@@ -12,6 +12,7 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
   - Vodka
+  - Liqueur
   - Book Drink
   - Belter
   - Cocktail Glass
