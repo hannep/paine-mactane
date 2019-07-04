@@ -6,7 +6,7 @@ date: 2019-07-03
 short_text: This role mostly exists to provide medical techspeak & explanation, but Tannis Burnett delivers it all with such personality & style, she becomes a full-fledged character anyway. A treat to watch!
 hero: /assets/images/tycho-station-doctor-hero.jpg
 drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
-twitter: /assets/images/tycho-station-doctor-twitter.png
+twitter: /assets/images/tycho-station-doctor-hero.jpg
 author: Paine×Mactane
 tags: 
   - Expanse Cocktails
