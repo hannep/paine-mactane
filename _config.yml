@@ -3,6 +3,7 @@ email: tu@painemactane.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
+  id: "UA-143299729-1"
 
 title: Paine×MacTane
 description: >
