@@ -3,7 +3,7 @@ layout: post
 heading: "#94: Tycho Station Doctor"
 title: "Tycho Station Doctor Cocktail"
 date: 2019-07-03
-short_text: The Station Doctor on Tycho is the doctor that Fred Johnson and Camina Drummer go to when they need medical advice or care.
+short_text: This role mostly exists to provide medical techspeak & explanation, but Tannis Burnett delivers it all with such personality & style, she becomes a full-fledged character anyway. A treat to watch!
 hero: /assets/images/tycho-station-doctor-hero.jpg
 drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
 twitter: /assets/images/tycho-station-doctor-twitter.png
