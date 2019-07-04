@@ -1,0 +1,50 @@
+---
+layout: post
+number: 10
+name: Lt. Sutton
+date: 2017-11-07
+short_text: Prudent, capable, and an advocate for moderation. 
+tweet_text: A highly professional MCR officer who cares for his troops.
+hero: /assets/images/010-LtSutton-card.jpg
+drink_crop: /assets/images/010-LtSutton-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/927999958099341315"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Rye
+  - Character Drink
+  - Martian
+  - Secondary
+  - Rock
+  - Spirit-Forward
+
+ingredients:
+  - amount: 4
+    unit: parts
+    name: rye
+  - amount: 1
+    unit: part
+    name: sherry
+  - amount: ¼
+    unit: part
+    name: lemon juice
+  - amount: ¼
+    unit: part
+    name: Amaro Nonino
+  - amount: 2
+    unit: dashes
+    name: aromatic bitters
+
+---
+
+Capable and highly professional, Lt. Sutton knows that military action has political aspects and consequences. He tries to moderate his soldiers’ hot-headed tendencies and keep them from being deceived. Though straightforward and no-nonsense, he is not simple.
+
+This drink emphasizes balance above all. Harshness from the rye, sweetness from the sherry, bitterness from the Nonino, and sourness from the lemon moderate one another. Lt. Sutton tries to keep his volatile, diverse troops from fighting amongst themselves while trying to prevent a system-wide war. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Place all ingredients in a mixing glass with ice and stir until chilled. Strain into a rocks glass with one large ice cube. Twist a strip of orange peel to express the oils into the drink, then add the peel as garnish.
+
+{% include tags.html %}
