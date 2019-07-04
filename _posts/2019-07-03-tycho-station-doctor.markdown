@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: "#94: Tycho Station Doctor"
+heading: "Cocktail #94: Tycho Station Doctor"
 title: "Tycho Station Doctor Cocktail"
 date: 2019-07-03
 short_text: This role mostly exists to provide medical techspeak & explanation, but Tannis Burnett delivers it all with such personality & style, she becomes a full-fledged character anyway. A treat to watch!
