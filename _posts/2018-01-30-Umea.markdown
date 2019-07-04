@@ -1,0 +1,47 @@
+---
+layout: post
+number: 22
+name: Umea
+date: 2018-01-30
+short_text: Unrepentant about her horrifying experiments through her last breath.
+tweet_text: Dr. Strickland's assistant and a high-ranking Protogen researcher in Project Caliban, who remains unrepentant about her experiments until her last breath.
+hero: /assets/images/022-Umea-card.jpg
+drink_crop: /assets/images/022-Umea-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/958383198282637312"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - New World Gin
+  - Character Drink
+  - Protogen
+  - Bit Part
+  - Villian
+  - Rock
+  - Sour
+ingredients:
+  - amount: 5
+    unit: parts
+    name: new world gin
+  - amount: 1
+    unit: part
+    name: Bénédictine
+  - amount: 1
+    unit: part
+    name: lime juice
+  - amount: ½
+    unit: part
+    name: simple syrup
+
+---
+
+Umea is one of the highest-ranking operatives in Project Caliban, a top-secret Protogen research project. When one of her super-soldier creations mortally wounds her, she is unrepentant to the last, proudly telling the Roci crew that her team “made the Protomolecule in our own image.”
+
+We always knew this drink needed a bunch of lime; Umea is pretty sour. And we were sure of a clear liquor. There was some debate over tequila, but then the suggestion of specifically New World gin resolved that. So don't use London dry; it hasn't got enough body to portray her ferocity as she dies. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Place all ingredients into a mixing glass with ice. Stir until chilled, then strain into a rocks glass over a single large ice cube. Garnish with a thin, wide slice of Granny Smith apple.
+
+{% include tags.html %}
