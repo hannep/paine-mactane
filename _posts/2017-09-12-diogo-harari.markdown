@@ -44,7 +44,7 @@ No one who knows this young, hot-headed OPA revolutionary can deny that he also 
 
 We enjoyed making a cocktail that tasted fiery, enthusiastic, and a little reckless - like our Diogo. The drink has no garnish, to represent the way Diogo hasn't quite found his place in the world.  
 
-Later, our work paid off in the most awesome way: Andrew Rotilio stopped by our Black Moon popup bar [link: http://twitter.com/BelterBar], and we made a round of Diogo cocktails for everyone in the room! He put us on the spot to tell us about our interpretation of his character, and loved his drink. 
+Later, our work paid off in the most awesome way: Andrew Rotilio stopped by our Black Moon [popup bar](http://twitter.com/BelterBar), and we made a round of Diogo cocktails for everyone in the room! He put us on the spot to tell us about our interpretation of his character, and loved his drink. 
 
 {% include ingredients.html %}
 
