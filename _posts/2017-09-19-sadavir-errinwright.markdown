@@ -2,7 +2,7 @@
 layout: post
 number: 3
 name: Sadavir Errinwright
-date: 2017-09-09
+date: 2017-09-19
 short_text: Smooth and elegant, but complex and ruthless.
 tweet_text: Smooth and elegant, but complex and ruthless.
 twitter_url: "https://twitter.com/Paine_MacTane/status/910168433081405440"
@@ -18,7 +18,7 @@ tags:
   - Secondary
   - Villian
   - Rocks
-  - Spirit-Foward
+  - Spirit-Forward
 ingredients:
   - amount: 4
     unit: parts
