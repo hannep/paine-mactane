@@ -18,6 +18,7 @@ tags:
   - Collins
   - Low Alcohol
   - Refreshing
+  - Easy to Batch
 ingredients:
   - amount: 3
     unit: parts

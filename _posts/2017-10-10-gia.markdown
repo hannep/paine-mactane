@@ -4,40 +4,57 @@ number: 6
 name: Gia
 date: 2017-10-10
 short_text: Tall and slender, with sweetness, street smarts, and strength.
+tweet_text: Tall and slender, with sweetness, street smarts, and strength.
 hero: /assets/images/006-Gia-card.jpg
 drink_crop: /assets/images/006-Gia-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/917791507389829120"
 author: Paine×Mactane
 tags: 
-  - Expanse Cocktails
-  - Belter 
-  - "Difficulty: Medium"
-  - Low ABV 
-  - Spring & Summer
-  - Coupe
-  - Genever
+  - "Difficulty: Easy"
+  - Champagne
+  - Character Drink
+  - Belter
+  - Secondary
+  - Flute
+  - Easy to Batch
 ingredients:
-  - amount: 2
-    unit: ounces
-    name: genever (jonge)
-  - amount: 2
-    unit: ounces
-    name: seltzer water
-  - amount: ½
-    unit: ounce
-    name: quick raspberry shrub (recipe below)
   - amount: 1
-    unit: dash
-    name: chamomile-citrus bitters
+    unit: part
+    name: gin
+  - amount: 1
+    unit: part
+    name: pear brandy
+  - amount: 1
+    unit: part
+    name: elderflower liqueur
+  - amount: 1
+    unit: part
+    name: lemon juice
+  - amount: 1½
+    unit: parts
+    name: ginger liqueur
+  - amount: 6
+    unit: parts
+    name: dry champagne
 
 ---
 
-The Station Doctor on Tycho is the doctor that Fred Johnson and Camina Drummer go to when they need medical advice or care. She proves her capability and cool-headedness in unexpected situations from emergency triage and first aid in low-G to regrowing a spine to analyzing Protogen’s unethical brain treatments. 
+Gia lives and works in Ceres Station’s red-light district. She’s seen gang violence and death, and knows how to keep her head down when riots are imminent. Her heart and mind are open enough to find love with an Earther, and she has the strength to stand up to Miller on behalf of what’s important to her.
+
+We always knew we wanted to serve Gia's drink in a champagne flute - tall and elegant, like her! 
+
+Elderflower seemed to fit her essential gentleness well. Then, we added pear & ginger for their winning combo of crispness & warmth. We thought these reflected her openness & intelligence well. 
+
+Lemon brightened it - Gia's smile when Havelock improves his Lang Belta! Adding gin gave it her strength and complexity.
+
+We tried a couple of New World gins, but the heavy botanicals unbalanced the drink. London Dry worked much better. 
+
+This drink is great to share with friends on a celebratory occasion. Mix a small pitcher with all the ingredients except the champagne, then distribute it among flutes and top them all up with champagne. Yam seng!   
 
 {% include ingredients.html %}
 
 #### Instructions:
 
-Quick Raspberry Shrub: Thoroughly muddle 1 cup raspberries with 1 cup white sugar. Stir in 1 cup white wine vinegar. Allow to sit 1 hour, then strain through cheesecloth. Store in the refrigerator.
-Cocktail: Pour genever, raspberry shrub, and bitters into a mixing glass with ice and stir until cold. Strain into a chilled coupe and top with seltzer. No garnish.
+Stir the first five ingredients briefly over ice in a mixing glass. Strain into a champagne flute and top with champagne. Garnish with a lemon twist.
 
 {% include tags.html %}
