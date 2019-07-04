@@ -1890,6 +1890,9 @@ main {
     margin-bottom: 0;
     color: #f00; }
 
+.tags-list {
+  list-style: none; }
+
 .zoom-img,
 .zoom-img-wrap {
   z-index: 9999; }
