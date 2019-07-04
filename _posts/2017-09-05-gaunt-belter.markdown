@@ -13,6 +13,7 @@ tags:
   - "Difficulty: Medium"
   - Black Rum
   - Bourbon 
+  - Egg White
   - Character Drink
   - Belter 
   - Bit Part

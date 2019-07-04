@@ -1,0 +1,49 @@
+---
+layout: post
+number: 12
+name: Nico
+date: 2017-11-21
+short_text: An Earther who embodies generosity in the face of adversity. 
+tweet_text: Nico. The Earther who helped Bobbie find the ocean in return for medicine he can use to help others on Basic Income.
+hero: /assets/images/012-Nico-card.jpg
+drink_crop: /assets/images/012-Nico-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/933067788708601856"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Gold Rum
+  - Liqueur
+  - Character Drink
+  - Earther
+  - Bit Part
+  - Rock
+  - Spirit-Forward
+  - Dessert
+
+ingredients:
+  - amount: 4
+    unit: parts
+    name: gold rum
+  - amount: 1
+    unit: part
+    name: Amaro Nonino
+  - amount: 1
+    unit: part
+    name: Frangelico
+
+---
+
+Despite living in poverty on the streets on Basic Income, Nico dedicates himself to helping others. His dream of a formal medical education is lost, but he won’t let anything stop him from providing care to those around him. His compassion, ingenuity, and complexity are plain to see, even to a Martian Marine.
+Martian Marine. 
+
+We wanted this to be smooth and kind-feeling, with complexity. We like the Frangelico because hazelnuts are connected with wisdom in Irish Celtic lore.
+
+This is a great drink for ending a cozy evening with sweetness. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all the ingredients into a rocks glass over a single large ice cube and stir briefly to combine them. No garnish. 
+
+{% include tags.html %}
