@@ -1,0 +1,59 @@
+---
+layout: post
+number: 16
+name: Lt. Lopez
+date: 2017-12-19
+short_text: Professional, austere, and occasionally poignantly poetic, he humanizes the Martian cause. 
+tweet_text: A smooth, professional, and occasionally poetic Martian soldier who goes from interrogator to ally.
+hero: /assets/images/016-LtLopez-card.jpg
+drink_crop: /assets/images/016-LtLopez-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/943175074202472448"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Irish Whiskey
+  - Character Drink
+  - Martian
+  - Bit Part
+  - Coupe
+  - Spirit-Forward
+ingredients:
+  - amount: 1
+    unit: part
+    name: irish whiskey
+  - amount: 1
+    unit: part
+    name: applejack
+  - amount: ¼
+    unit: part
+    name: Bénédictine
+  - amount: ¼
+    unit: part
+    name: amaretto
+  - amount: ¼
+    unit: part
+    name: Lillet Blanc
+  - amount: ⅛
+    unit: part
+    name: lemon juice
+  - amount: ⅛
+    unit: part
+    name: orange bitters
+
+---
+
+Lieutenant Lopez is a consummately professional Martian soldier. He moves smoothly from interrogating the Roci crew to  fighting to help them get off the Donnager as the situation shifts around him. In his last moments, he orders the Tachi’s computer to give full access to everyone aboard, ensuring the ex-Cant crew can carry on without him. His dream of an ocean on Mars sustains him through everything.
+
+During development of this cocktail, we both realized how Lopez is one of our favorite characters in the whole series. In a mere 2 episodes, he has a major arc, from creepy interrogator to admirable ally, and also shows a poetic streak ("What does rain taste like?")
+
+We noticed that above all, Lopez is smooth. Whether interrogating captives or saying his last words, he maintains his steady, often elegant, appearance. It proved surprisingly difficult to create a drink as smooth as Lopez; getting the proportion of sweet liqueurs right was a particular challenge. But we didn't want to give up on quality on this one; Lopez deserved the best.
+
+We wanted your experience with this drink to match Lopez's character evolution. It starts with aggressiveness from bitters/lemon, but after that passes, you can taste more sweetness and complexity. Last, there's a slight bitter aftertaste, like his sacrifice for the good of Mars.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Shake all ingredients with ice until cold and strain into a chilled coupe. Garnish with a twist of lemon peel.
+
+{% include tags.html %}
