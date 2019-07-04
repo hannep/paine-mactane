@@ -1,0 +1,10 @@
+<section>
+  <h4>Tags:</h4>
+  <ul class="tags-list">
+    {% for tag in page.tags %}
+      <li>
+        <a href="/tag/{{tag | slugify}}">{{tag}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

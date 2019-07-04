@@ -7,9 +7,13 @@ hero: /assets/images/tycho-station-doctor-hero.jpg
 drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
 author: Thomas Vaeth
 tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
+  - Expanse Cocktails
+  - Belter 
+  - "Difficulty: Medium"
+  - Low ABV 
+  - Spring & Summer
+  - Coupe
+  - Genever
 ingredients:
   - amount: 2
     unit: ounces
@@ -34,3 +38,5 @@ The Station Doctor on Tycho is the doctor that Fred Johnson and Camina Drummer g
 
 Quick Raspberry Shrub: Thoroughly muddle 1 cup raspberries with 1 cup white sugar. Stir in 1 cup white wine vinegar. Allow to sit 1 hour, then strain through cheesecloth. Store in the refrigerator.
 Cocktail: Pour genever, raspberry shrub, and bitters into a mixing glass with ice and stir until cold. Strain into a chilled coupe and top with seltzer. No garnish.
+
+{% include tags.html %}
