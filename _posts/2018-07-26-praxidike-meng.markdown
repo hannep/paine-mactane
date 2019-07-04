@@ -1,12 +1,11 @@
 ---
 layout: post
-heading: "Cocktail #94: Tycho Station Doctor"
-title: "Tycho Station Doctor Cocktail"
-date: 2019-07-03
-short_text: This role mostly exists to provide medical techspeak & explanation, but Tannis Burnett delivers it all with such personality & style, she becomes a full-fledged character anyway. A treat to watch!
-hero: /assets/images/094-StationDoctor-card.jpg
-drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
-twitter: /assets/images/tycho-station-doctor-hero.jpg
+heading: "Cocktail #48: Praxidike Meng"
+title: "Praxidike Meng Cocktail"
+date: 2018-07-26
+short_text: A Ganymede botanist whose life is turned upside-down when his daughter Mei is taken by Protogen during the Battle of Ganymede.
+hero: /assets/images/048-PraxidikeMeng-card.jpg
+drink_crop: /assets/images/048-PraxidikeMeng-drink.jpg
 author: Paine×Mactane
 tags: 
   - Expanse Cocktails

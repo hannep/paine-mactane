@@ -1,12 +1,11 @@
 ---
 layout: post
-heading: "Cocktail #94: Tycho Station Doctor"
-title: "Tycho Station Doctor Cocktail"
-date: 2019-07-03
-short_text: This role mostly exists to provide medical techspeak & explanation, but Tannis Burnett delivers it all with such personality & style, she becomes a full-fledged character anyway. A treat to watch!
-hero: /assets/images/094-StationDoctor-card.jpg
-drink_crop: /assets/images/tycho-station-doctor-drink-crop.jpg
-twitter: /assets/images/tycho-station-doctor-hero.jpg
+heading: "Cocktail #91: Black Sky Guy"
+title: "Black Sky Guy Cocktail"
+date: 2019-06-20
+short_text: Adrian Griffiths takes what could be a formulaic, exposition-heavy role and makes it memorable with facial expressions, vocal mannerisms, and physicality.
+hero: /assets/images/091-BlackSkyGuy-card.jpg
+drink_crop: /assets/images/091-BlackSkyGuy-drink.jpg
 author: Paine×Mactane
 tags: 
   - Expanse Cocktails
