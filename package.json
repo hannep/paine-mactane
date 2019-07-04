@@ -4,9 +4,9 @@
   "demo": "http://barber.samesies.io",
   "version": "1.0.0",
   "scripts": {
-    "start": "bundle exec jekyll serve",
-    "build": "bundle exec jekyll build",
-    "deploy": "gulp build && bundle exec jekyll build && s3-website deploy _site",
+    "start": "./node_modules/.bin/webpack --config webpack.config.js --watch | bundle exec jekyll serve",
+    "build": "webpack --config webpack.config.js && bundle exec jekyll build",
+    "clean": "bundle exec jekyll clean && rm assets/js/app.js",
     "gulp": "gulp"
   },
   "author": {
@@ -50,7 +50,9 @@
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-standard": "^18.3.0",
     "vinyl-buffer": "^1.0.1",
-    "vinyl-source-stream": "^2.0.0"
+    "vinyl-source-stream": "^2.0.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
   },
   "license": "MIT"
 }

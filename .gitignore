@@ -6,3 +6,8 @@ node_modules/
 _site
 .sass-cache
 .jekyll-metadata
+.asset-cache
+
+# These are always compiled:
+assets/css
+assets/js

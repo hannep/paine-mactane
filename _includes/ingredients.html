@@ -1,0 +1,12 @@
+<section>
+  <h4>Ingredients:</h4>
+  <ul>
+    {% for ingredient in page.ingredients %}
+      <li>
+        {{ingredient.amount}}
+        {{ingredient.unit}}
+        {{ingredient.name}}
+      </li>
+    {% endfor %}
+  </ul>
+</section>

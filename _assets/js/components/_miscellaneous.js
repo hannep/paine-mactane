@@ -39,7 +39,7 @@ const miscSocialShare = () => {
 // ----------------------------------------------
 // Exports
 // ----------------------------------------------
-module.exports = {
+export {
   miscFlexVid,
   miscZoom,
   miscSocialShare
