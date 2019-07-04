@@ -1,0 +1,49 @@
+---
+layout: post
+number: 24
+name: Col. Janus
+date: 2018-02-13
+short_text: Disciplined, humorless, and scientifically rigorous, he learns to work with idealist Iturbi.
+tweet_text: As a child, he thought the stars were magic. Now he knows better, and his lifetime of military service informs his scientific rigor.
+hero: /assets/images/024-ColJanus-card.jpg
+drink_crop: /assets/images/024-ColJanus-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/960921449098858498"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Cognac
+  - Sherry
+  - Character Drink
+  - Earther
+  - Bit Part
+  - Cordial
+  - Dessert
+ingredients:
+  - amount: 4
+    unit: parts
+    name: cognac
+  - amount: 1
+    unit: part
+    name: pedro ximénez sherry
+  - amount: 1
+    unit: part
+    name: bourbon
+  - amount: 1
+    unit: part
+    name: allspice dram
+
+---
+
+Dr. Michael Iturbi is a foremost researcher in the field of extrasolar intelligence. When Chrisjen Avasarala selects him for a mission to explore the site of Eros’ crash on Venus, he becomes her eyes and ears aboard the Arboghast. After much debate with Col. Janus, the two come to respect each other.
+
+We always knew we needed to make Janus' and Iturbi's drinks connect to and complement each other, because of the scene where they each say, "this is the part where you'd say...", recognizing out loud how much each understands and grudgingly respects the other, and how their points of view play off one another. 
+
+Not only do both drinks have Allspice Dram, but the fig bitters in Janus call back to the notes of fig in the sherry in Iturbi. They go well together... like the characters.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a rocks glass over ice. Garnish with lemon peel, twisting it first to express the oils.
+
+{% include tags.html %}
