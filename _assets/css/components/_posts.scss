@@ -54,7 +54,7 @@
   }
 
   &__post {
-    padding: 2em 1em;
+    padding: 1em 1em;
 
     // @media (min-width: $mq-small) {
     //   padding: {
@@ -77,7 +77,7 @@
   }
 
   &__img {
-    margin-bottom: 1em;
+    margin-bottom: .5em;
 
     background-color: $color-lightgrey;
     transition: transform 400ms ease-in-out;
@@ -91,6 +91,7 @@
     @extend %font-size;
 
     font-weight: 400;
+    line-height: 1.5;
   }
 
   &__pagination {

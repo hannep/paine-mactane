@@ -1,9 +1,10 @@
 ---
 layout: post
-heading: "Cocktail #3: Sadavir Errinwright"
-title: "Sadavir Errinwright Cocktail"
+number: 3
+name: Sadavir Errinwright
 date: 2017-09-09
 short_text: Smooth and elegant, but complex and ruthless.
+tweet_text: Smooth and elegant, but complex and ruthless.
 hero: /assets/images/003-SadavirErrinwright-card.jpg
 drink_crop: /assets/images/003-SadavirErrinwright-drink.jpg
 author: Paine×Mactane

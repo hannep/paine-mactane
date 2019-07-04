@@ -1,7 +1,7 @@
 ---
 layout: post
-heading: "Cocktail #92: Haggard Belter"
-title: "Haggard Belter Cocktail"
+number: 92
+name: Haggard Belter
 date: 2019-06-21
 short_text: Rescued from Eros by the Roci, he mouths off to Alex while being scanned. J. Adam Brown shows us how a survivor can cover anguish over the fate of his home with cynicism and aggression. 
 hero: /assets/images/092-HaggardBelter-card.jpg

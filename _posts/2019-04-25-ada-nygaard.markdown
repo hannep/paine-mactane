@@ -1,7 +1,7 @@
 ---
 layout: post
-heading: "Cocktail #84: Ade Nygaard"
-title: "Ade Nygaard Cocktail"
+number: 84
+name: Ade Nygaard
 date: 2019-04-25
 short_text: In just a few scenes, Kristen Hager makes Ade's character 3-dimensional by voicing real concerns with a nonchalant mask, showing us why Holden cares about her and why we should.
 hero: /assets/images/084-AdeNygaard-card.jpg

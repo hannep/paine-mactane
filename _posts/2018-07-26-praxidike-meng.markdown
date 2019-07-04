@@ -1,7 +1,7 @@
 ---
 layout: post
-heading: "Cocktail #48: Praxidike Meng"
-title: "Praxidike Meng Cocktail"
+number: 48
+name: Praxidike Meng
 date: 2018-07-26
 short_text: A Ganymede botanist whose life is turned upside-down when his daughter Mei is taken by Protogen during the Battle of Ganymede.
 hero: /assets/images/048-PraxidikeMeng-card.jpg

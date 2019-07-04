@@ -1,7 +1,7 @@
 ---
 layout: post
-heading: "Cocktail #91: Black Sky Guy"
-title: "Black Sky Guy Cocktail"
+number: 91
+name: Black Sky Guy
 date: 2019-06-20
 short_text: Adrian Griffiths takes what could be a formulaic, exposition-heavy role and makes it memorable with facial expressions, vocal mannerisms, and physicality.
 hero: /assets/images/091-BlackSkyGuy-card.jpg
