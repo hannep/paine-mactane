@@ -37,7 +37,7 @@
       }
 
       @media screen and (min-width: $mq-med) and (max-width: $mq-xlarge) {
-        content: '3 .column.posts-half';
+        content: '3 .column.posts-third';
       }
 
       @media screen and (min-width: $mq-xlarge) {
