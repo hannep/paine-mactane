@@ -30,7 +30,7 @@ ingredients:
     name: grapefruit juice
   - amount: 1
     unit: part
-    name: creme de cassis
+    name: créme de cassis
   - amount: ½
     unit: part
     name: grenadine syrup
