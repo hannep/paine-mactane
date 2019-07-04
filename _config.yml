@@ -10,7 +10,7 @@ description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: https://www.painemactane.com
 twitter_username: paine_mactane
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/favicon.ico
 social:
   - name: twitter
     url: https://twitter.com/paine_mactane
