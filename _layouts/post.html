@@ -19,6 +19,16 @@ layout: default
       </div>
     {% endif %}
 
+    {% if page.video_hero %}
+      <div class="post__img">
+        <div>
+          <video class="absolute-bg" autoplay muted loop>
+            <source src="{{page.video_hero}}" type="video/mp4">
+          </video>
+        </div>
+      </div>
+    {% endif %}
+
     <div class="post__content section-padding">
       <div class="grid">
         <div id="markdown" itemprop="articleBody">

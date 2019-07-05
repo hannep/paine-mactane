@@ -1,12 +1,12 @@
 ---
 layout: post
 number: 15
-name: Antony Dresdon
+name: Antony Dresden
 date: 2017-12-12
 short_text: A brilliant sociopath whose icy logic can be difficult to deny. 
 tweet_text: The sociopathic head of research for Protogen, whose disturbing yet seductive logic is difficult to deny, even for normally clear-headed leaders. Drink quickly, before Miller smashes it out of your hand! 
-hero: /assets/images/015-AntonyDresdon-card.jpg
-drink_crop: /assets/images/015-AntonyDresdon-drink.jpg
+hero: /assets/images/015-AntonyDresden-card.jpg
+drink_crop: /assets/images/015-AntonyDresden-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/940633816711954432"
 author: Paine×Mactane
 tags: 
