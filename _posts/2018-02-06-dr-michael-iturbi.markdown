@@ -44,6 +44,5 @@ Not only do both drinks have Allspice Dram, but the fig bitters in Janus call ba
 
 #### Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a rocks glass over ice. Garnish with lemon peel, twisting it first to express the oils.
-
+Stir all ingredients over ice. Serve in a cordial glass garnished with a brandied cherry at the bottom.  
 {% include tags.html %}
