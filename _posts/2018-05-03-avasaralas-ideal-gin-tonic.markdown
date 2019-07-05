@@ -3,8 +3,8 @@ layout: post
 number: B2
 name: Avasarala's Ideal Gin & Tonic
 date: 2018-05-03
-short_text: Uses the children who trust him as tools in his evil experiments.
-tweet_text: The evil genius behind Project Caliban, whose chilling plan uses innocent children as tools in Protogen's Machiavellian schemes.
+short_text: Avasarala's drink of choice for sipping and scheming. 
+tweet_text: Avasarala's drink of choice is the Gin & Tonic. On the Guanshiyin, she schemed and drank fancy gin like there was no tomorrow - and she had reason to worry there might not be. Here's our version of her jet fuel. 
 hero: /assets/images/B2-AvasaralasIdealGinAndTonic-card.jpg
 drink_crop: /assets/images/B2-AvasaralasIdealGinAndTonic-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/994014434082410496"

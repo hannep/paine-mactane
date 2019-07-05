@@ -6,8 +6,8 @@ before_install:
   - nvm install 12.5.0
   - >-
     openssl aes-256-cbc 
-    -K $encrypted_xxxxxxxxxxxx_key 
-    -iv $encrypted_xxxxxxxxxxxx_iv 
+    -K $encrypted_7471ea73a54f_key 
+    -iv $encrypted_7471ea73a54f_iv 
     -in github_deploy_key.enc 
     -out github_deploy_key 
     -d
