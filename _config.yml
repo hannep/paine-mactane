@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: tu@painemactane.com
 baseurl: ""
-permalink: /:year/:month/:day/:title/
+permalink: /cocktails/:year/:month/:day/:title/
 google_analytics: 
   id: "UA-143299729-1"
 
@@ -81,3 +81,6 @@ exclude:
   - README.md
   - github_deploy_key.enc
   - github_deploy_key
+  - LICENSE
+  - package-lock.json
+
