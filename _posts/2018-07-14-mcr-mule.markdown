@@ -1,0 +1,42 @@
+---
+layout: post
+number: 45
+name: MCR Mule
+date: 2018-07-14
+short_text: Mars's people are uniquely unified in their common goal. 
+tweet_text: The Martian Congressional Republic unites its citizens as they work toward their ambitious goal of a Mars with air and water.
+hero: /assets/images/045-MCRMule-card.jpg
+drink_crop: /assets/images/045-MCRMule-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1018216880140636161"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Medium"
+  - Bourbon
+  - Faction Drink
+  - Martian
+  - Tumbler
+ingredients:
+  - amount: 1
+    unit: part
+    name: “Martian dust” bourbon
+  - amount: 1
+    unit: part
+    name: ginger beer
+  - amount: 4
+    unit: dashes
+    name: cherry chai bitters
+
+---
+
+The Mars Congressional Republic was formed as Mars broke away from Earth, at the same time as Solomon Epstein invented his Drive. For the past 150 years, the MCR and UN have been engaged in a cold war diverting Mars’ resources away from its dreams of a habitable surface.
+
+We had fun with food-safe luster dust (available at craft and cake decorating shops) to make this drink look like the surface of Mars. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+<strong>Martian Dust Bourbon:</strong> Put ½ teaspoon orange and ½ teaspoon red food-safe shimmering luster dust in 1 cup bourbon, shake thoroughly.
+<strong>Recipe:<strong> Stir bourbon and bitters with ice. Strain into empty rocks glass and pour in ginger beer.
+
+{% include tags.html %}
