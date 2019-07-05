@@ -12,6 +12,7 @@ author: Paine×Mactane
 tags: 
   - Save The Expanse
   - Shot
+  - Easy to Batch
 ingredients:
   - amount: 3
     unit: parts

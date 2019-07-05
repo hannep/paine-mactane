@@ -39,7 +39,7 @@ Dr. Doris Bourne is a botanist on Ganymede, working to breed more sunlight-effic
 
 Sometimes we get extremely lucky and all our ideas just seem to click - for example, we came up with the Doris Bourne in about a half hour, and it was just perfect. We wanted to combine Doris's pure delight at her first experience of weightlessness with the strength and resilience she uses to care for Prax and survive until then, and the effervescent champagne, spicy, earthy ginger, and comforting fruits just worked. 
 
-We served the Doris Bourne (under the in-universe name "Coriolis") at the Belter Bar at Worldcon 2018 and Greater Philly Comic Con 2019, and it was a favorite there, too! 
+We served the Doris Bourne (under the in-universe name "Coriolis") at the [Belter Bar](http://twitter.com/BelterBar) at Worldcon 2018 and Greater Philly Comic Con 2019, and it was a favorite there, too! 
 
 We often drink them now in place of French 75s or Kir Royales when we feel like celebrating. 
 

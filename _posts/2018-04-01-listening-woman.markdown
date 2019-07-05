@@ -44,7 +44,7 @@ After a hard day as flight controller for the Tycho docks, this woman just wante
 
 At the time, we thought making drinks for extremely minor characters with few lines and no names was a good joke. Now, we've done a whole series of Scene Stealers, and the Listening Woman, with her hilarious facial expressions and deadpan delivery, would definitely make the list.
 
-This drink was later served, with fresh passionfruit and some other modifications, at the Belter Bar [link] at Worldcon 2018! It was very popular as the "Above the Ecliptic," and we smelled like fresh passionfruit for what felt like days. 
+This drink was later served, with fresh passionfruit and some other modifications, at the [Belter Bar](http://twitter.com/BelterBar) at Worldcon 2018! It was very popular as the "Above the Ecliptic," and we smelled like fresh passionfruit for what felt like days. 
 
 {% include ingredients.html %}
 
