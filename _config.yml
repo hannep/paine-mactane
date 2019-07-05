@@ -79,3 +79,4 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
+  - github_deploy_key.enc
