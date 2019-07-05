@@ -11,14 +11,12 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1004776109127421952"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Non-Alcoholic
-  - Save The Expanse
-  - Protogen
-  - Punch Bowl
-  - Punch
-  - Made to Share
-  - Refreshing
-  - Alcohol Optional
+  - Rye
+  - Character Drink
+  - Martian
+  - Bit Part
+  - Nick & Nora
+  - Spirit-Forward
 ingredients:
   - amount: 4
     unit: parts
