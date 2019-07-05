@@ -1,0 +1,41 @@
+---
+layout: post
+number: 31
+name: Staz
+date: 2018-04-05
+short_text: An OPA fighter who finally goes too far in opposing Drummer & Fred Johnson.
+tweet_text: The OPA fighter who participates in the raid on Thoth Station, but eventually goes too far in trying to use Fred Johnson's missiles.
+hero: /assets/images/031-Staz-card.jpg
+drink_crop: /assets/images/031-Staz-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/981924110665166848"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Easy"
+  - Overproof Rum
+  - Character Drink
+  - Belter
+  - Secondary
+  - Shot
+  - Spirit-Forward
+  - Spicy
+ingredients:
+  - amount: 3
+    unit: parts
+    name: overproof rum
+  - amount: 1
+    unit: part
+    name: cinnamon-flavored whiskey
+
+---
+
+A large, imposing man, Staz is an OPA member and leader of a squad in the assault on Thoth Station. He befriends Diogo and even Miller with his friendly barfly demeanor. Eventually, he leads a coup attempt against Fred Johnson, attempting to take over Tycho and use Johnson’s missiles against Earth.
+
+This was a drink we developed on one of the rare occasions we get to see one another in person. We were trying to think of the most intense, painful combination of liquors, and settled on overproof rum and Fireball whiskey. As we looked down at our concoction, Iro announced: "I volunteer as tribute!" And downed it. Kai gave the classic Hunger Games salute (almost like a Belter gesture of respect, but off by one finger), and we're still laughing about it. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Add all ingredients to a large shot glass, then stir briefly with a swizzle stick or stirring rod. No garnish. 
+
+{% include tags.html %}

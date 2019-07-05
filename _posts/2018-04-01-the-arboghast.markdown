@@ -12,7 +12,7 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Liqueur
-  - Character Drink
+  - Ship Drink
   - April Fool's
   - Earther
   - Science Vessel
@@ -24,7 +24,7 @@ ingredients:
     name: Kahlúa
   - amount: 1
     unit: part
-    name: irish cream
+    name: Irish cream
   - amount: 1
     unit: part
     name: Grand Marnier
