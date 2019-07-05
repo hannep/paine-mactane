@@ -80,3 +80,4 @@ exclude:
   - package.json
   - README.md
   - github_deploy_key.enc
+  - github_deploy_key
