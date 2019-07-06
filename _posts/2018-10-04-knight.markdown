@@ -1,0 +1,50 @@
+---
+layout: post
+number: 57
+name: Knight
+date: 2018-10-04
+short_text: A shuttle pushed far beyond its limits. 
+tweet_text: One of the Canterbury's shuttles, called "one leaky lifeboat" by Naomi Nagata - but it carried 5 Cant crew 50,000 km to investigate the Scopuli's distress signal, then thru the Cant's own debris to the Donnager.
+hero: /assets/images/057-Knight-card.jpg
+drink_crop: /assets/images/057-Knight-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1049505199243649024"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Genever
+  - Ship Drink
+  - Earther
+  - Support Ship
+  - Coupe
+  - Sweet
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: genever (jonge)
+  - amount: ½
+    unit: cup
+    name: peeled, finely diced apple (2 oz. by weight)
+  - amount: 2
+    unit: tsp
+    name: sugar
+
+---
+
+The UNN Seung Un was a support ship assigned to the Earth fleet sent to inves-tigate the Ring. An auxiliary vessel, its security was low, and its technical needs were handled by civilian contractors —which allowed an infiltrator to sneak an explosive charge aboard and sacrifice the ship in a plot to frame a personal enemy.
+
+See also the *Hammurabi's* wise, restrained captain, [Sandrine Kirino](/cocktails/2018/06/07/sandrine-kirino/).
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour bourbon and Cynar into a cocktail shaker with ice and shake until chilled. Strain into a rocks glass over ice and top up with ginger ale. Garnish with a twist of lemon peel.
+
+We're going to be using gin for UNN ships (more on why later - or feel free to try to guess!); for a support vessel, genever is nicely related. Also, genever's generally "earthy" tones help it feel like "grounding, support".
+
+For the apples here, we used Braeburns and Honeycrisps, but any sweet-tart, flavorful apple will do. The ones we'd recommend avoiding are Red Delicious (not flavorful enough), Granny Smith (too tart), and similar cultivars.
+
+This is the ship [Ren](/cocktails/2018/08/30/ren-hazuki/) met his terrible, unlucky fate on. 
+
+{% include tags.html %}

@@ -33,18 +33,16 @@ ingredients:
 
 The UNN Seung Un was a support ship assigned to the Earth fleet sent to inves-tigate the Ring. An auxiliary vessel, its security was low, and its technical needs were handled by civilian contractors —which allowed an infiltrator to sneak an explosive charge aboard and sacrifice the ship in a plot to frame a personal enemy.
 
-See also the *Hammurabi's* wise, restrained captain, [Sandrine Kirino](/cocktails/2018/06/07/sandrine-kirino/).
-
-{% include ingredients.html %}
-
-#### Instructions:
-
-Pour bourbon and Cynar into a cocktail shaker with ice and shake until chilled. Strain into a rocks glass over ice and top up with ginger ale. Garnish with a twist of lemon peel.
-
 We're going to be using gin for UNN ships (more on why later - or feel free to try to guess!); for a support vessel, genever is nicely related. Also, genever's generally "earthy" tones help it feel like "grounding, support".
 
 For the apples here, we used Braeburns and Honeycrisps, but any sweet-tart, flavorful apple will do. The ones we'd recommend avoiding are Red Delicious (not flavorful enough), Granny Smith (too tart), and similar cultivars.
 
 This is the ship [Ren](/cocktails/2018/08/30/ren-hazuki/) met his terrible, unlucky fate on. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Macerate apple with sugar for 15 minutes, then muddle thoroughly. Shake genever and apple with ice, then double strain into a chilled coupe. Twist the grapefruit peel over the drink to express its oils, then drop it into the glass.
 
 {% include tags.html %}
