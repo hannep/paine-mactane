@@ -1,0 +1,60 @@
+---
+layout: post
+number: 66
+name: ¿Y Qué?
+date: 2018-12-09
+short_text: A Belter slingshotting pod on its way to making history.
+tweet_text: The slingshot pod Manéo Jung-Espinoza used in his bid to become a slingshot superstar and impress his girlfriend, Evita. His final course in it ensured he would never be forgotten.
+hero: /assets/images/066-YQue-card.jpg
+drink_crop: /assets/images/066-YQue-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1072021673300226048"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Mezcal
+  - Gold Rum
+  - Ship Drink
+  - Belter
+  - Slingshotter
+  - Racer
+  - Coupe
+  - Fruity
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1
+    unit: ounce
+    name: mezcal (joven)
+  - amount: ½
+    unit: ounce
+    name: aged (gold) rum
+  - amount: ¼
+    unit: ounce
+    name: grapefruit juice
+  - amount: ¼
+    unit: ounce
+    name: orange juice
+  - amount: ¼
+    unit: ounce
+    name: orange curaçao
+  - amount: 1
+    unit: ounce
+    name: lime juice
+  - amount: ⅛
+    unit: ounce
+    name: velvet falernum
+
+---
+
+The ¿Y Qué? was a slingshot racing pod, Manéo Jung-Espinoza’s pride and joy. In it, he set new records for close approaches and un-powered transits. When news of the Ring overshadowed Manéo’s slingshot exploits, he decided on the most audacious course ever: through the Ring itself. The unforgettable result ensured his name would live forever.
+
+We enjoyed thinking a lot about the presentation for this drink. It's served in a coupe, which has graceful curves, reminiscent of the orbital curves of a slingshotter's course. The raspberry is also symbolic: it represents Manéo's ultimate fate. (Sorry, Néo.)
+
+![Picture of instructions (text below this image)](/assets/images/064-065-Instructions.jpg)
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into a chilled coupe. Garnish with a fresh raspberry.
+
+{% include tags.html %}
