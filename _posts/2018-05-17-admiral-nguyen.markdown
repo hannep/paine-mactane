@@ -16,6 +16,7 @@ tags:
   - Earther
   - Bit Part
   - Rocks
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

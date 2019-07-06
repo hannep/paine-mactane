@@ -17,6 +17,7 @@ tags:
   - Secondary
   - Rocks
   - Spirit-Forward
+  - Expanse Cocktails Project
 ingredients:
   - amount: 5
     unit: parts

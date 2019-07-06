@@ -19,6 +19,7 @@ tags:
   - Fruity
   - Dessert
   - Sweet
+  - Expanse Cocktails Project
 ingredients:
   - amount: 4
     unit: parts

@@ -18,6 +18,7 @@ tags:
   - Science Vessel
   - Shot
   - Sweet
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

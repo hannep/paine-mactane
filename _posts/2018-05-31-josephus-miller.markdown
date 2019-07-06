@@ -17,6 +17,7 @@ tags:
   - Main
   - Rock
   - Spirit-Forward
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

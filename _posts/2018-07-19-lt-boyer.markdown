@@ -9,7 +9,7 @@ hero: /assets/images/047-LtBoyer-card.jpg
 drink_crop: /assets/images/047-LtBoyer-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1020025374967762945"
 author: Paine×Mactane
-tags: 
+tags:
   - "Difficulty: Medium"
   - Liqueur
   - Character Drink
@@ -18,7 +18,7 @@ tags:
   - Coupe
   - Sweet
   - Egg White
-
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

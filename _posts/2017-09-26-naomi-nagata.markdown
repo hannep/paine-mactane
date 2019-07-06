@@ -19,6 +19,7 @@ tags:
   - Low Alcohol
   - Refreshing
   - Easy to Batch
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

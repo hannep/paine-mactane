@@ -19,6 +19,7 @@ tags:
   - Made to Share
   - Refreshing
   - Alcohol Optional
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: parts

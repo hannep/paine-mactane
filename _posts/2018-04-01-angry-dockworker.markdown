@@ -19,6 +19,7 @@ tags:
   - Bit Part
   - Shot
   - Spirit-Forward
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

@@ -18,6 +18,7 @@ tags:
   - Shot
   - Spirit-Forward
   - Spicy
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

@@ -19,6 +19,7 @@ tags:
   - Refreshing
   - Alcohol Optional
   - Easy to Batch
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

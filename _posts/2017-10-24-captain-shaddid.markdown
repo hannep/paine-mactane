@@ -20,7 +20,7 @@ tags:
   - Hot Drink
   - Easy to Batch
   - Spicy
-
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

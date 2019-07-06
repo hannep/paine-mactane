@@ -18,6 +18,7 @@ tags:
   - Bit Part
   - Coupe
   - Bitter
+  - Expanse Cocktails Project
 ingredients:
   - amount: 4
     unit: parts

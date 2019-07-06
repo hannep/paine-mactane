@@ -19,6 +19,7 @@ tags:
   - Spirit-Forward
   - Easy to Batch
   - Spicy
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

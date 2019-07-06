@@ -17,6 +17,7 @@ tags:
   - Bit Part
   - Brandy Snifter
   - Dessert
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

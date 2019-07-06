@@ -19,6 +19,7 @@ tags:
   - Coupe
   - Fruity
   - Refreshing
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

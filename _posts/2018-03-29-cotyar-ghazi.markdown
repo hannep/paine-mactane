@@ -18,6 +18,7 @@ tags:
   - Secondary
   - Rocks
   - Sour
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

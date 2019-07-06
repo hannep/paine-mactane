@@ -19,6 +19,7 @@ tags:
   - Rocks
   - Egg White
   - Sour
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

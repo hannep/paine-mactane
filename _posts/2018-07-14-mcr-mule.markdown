@@ -15,6 +15,7 @@ tags:
   - Faction Drink
   - Martian
   - Tumbler
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

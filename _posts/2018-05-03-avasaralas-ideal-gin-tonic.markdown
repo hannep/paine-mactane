@@ -16,6 +16,7 @@ tags:
   - Earther
   - Rocks
   - Refreshing
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

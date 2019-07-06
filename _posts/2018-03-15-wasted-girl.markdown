@@ -16,6 +16,7 @@ tags:
   - Belter
   - Bit Part
   - Cocktail Glass
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

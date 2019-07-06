@@ -19,6 +19,7 @@ tags:
   - Coupe
   - Spirit-Forward
   - Egg White
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

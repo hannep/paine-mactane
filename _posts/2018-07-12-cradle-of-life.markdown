@@ -17,6 +17,7 @@ tags:
   - Champagne Flute
   - Refreshing
   - Easy to Batch
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

@@ -17,6 +17,7 @@ tags:
   - Bit Part
   - Nick & Nora
   - Spirit-Forward
+  - Expanse Cocktails Project
 ingredients:
   - amount: 4
     unit: parts

@@ -18,6 +18,7 @@ tags:
   - Secondary
   - Coupe
   - Spicy
+  - Expanse Cocktails Project
 ingredients:
   - amount: ½
     unit: inch

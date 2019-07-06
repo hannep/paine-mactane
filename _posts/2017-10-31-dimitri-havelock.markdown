@@ -17,7 +17,7 @@ tags:
   - Secondary
   - Coupe
   - Fall/Winter
-
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

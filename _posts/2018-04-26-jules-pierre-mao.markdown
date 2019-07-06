@@ -16,6 +16,7 @@ tags:
   - Earther
   - Secondary
   - Nick & Nora
+  - Expanse Cocktails Project
 ingredients:
   - amount: 6
     unit: parts

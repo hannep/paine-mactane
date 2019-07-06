@@ -17,6 +17,7 @@ tags:
   - Secondary
   - Rocks
   - Refreshing
+  - Expanse Cocktails Project
 ingredients:
   - amount: 4
     unit: parts

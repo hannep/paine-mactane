@@ -17,6 +17,7 @@ tags:
   - Main
   - Rocks
   - Sweet
+  - Expanse Cocktails Project
 ingredients:
   - amount: 6
     unit: parts

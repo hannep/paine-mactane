@@ -18,6 +18,7 @@ tags:
   - Bit Part
   - Cocktail Glass
   - Fruity
+  - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part

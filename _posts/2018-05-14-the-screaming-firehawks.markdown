@@ -13,6 +13,7 @@ tags:
   - Save The Expanse
   - Shot
   - Easy to Batch
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

@@ -18,6 +18,7 @@ tags:
   - Villian
   - Cocktail Glass
   - Spirit-Forward
+  - Expanse Cocktails Project
 ingredients:
   - amount: 5
     unit: parts

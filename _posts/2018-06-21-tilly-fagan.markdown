@@ -19,6 +19,7 @@ tags:
   - Cocktail Glass
   - Fruity
   - Tiki
+  - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts

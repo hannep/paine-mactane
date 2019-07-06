@@ -17,7 +17,7 @@ tags:
   - Ensemble
   - Coupe
   - Fruity
-
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

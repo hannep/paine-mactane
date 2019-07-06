@@ -17,7 +17,7 @@ tags:
   - Belter
   - Cocktail Glass
   - Fruity
-
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts

@@ -20,6 +20,7 @@ tags:
   - Fruity
   - Spicy
   - Egg White
+  - Expanse Cocktails Project
 ingredients:
   - amount: 3
     unit: parts
