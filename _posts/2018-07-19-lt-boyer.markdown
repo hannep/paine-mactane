@@ -1,0 +1,47 @@
+---
+layout: post
+number: 47
+name: Lt. Boyer
+date: 2018-07-19
+short_text: Smarmy and condescending, he obeys only Admiral Nguyễn.
+tweet_text: The devoted and loyal aide of Admiral Nguyễn, who knows his past and understands his motives.
+hero: /assets/images/047-LtBoyer-card.jpg
+drink_crop: /assets/images/047-LtBoyer-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1020025374967762945"
+author: Paine×Mactane
+tags: 
+  - "Difficulty: Medium"
+  - Grand Marnier
+  - Character Drink
+  - Earther
+  - Bit Part
+  - Coupe
+
+ingredients:
+  - amount: 1
+    unit: part
+    name: Grand Marnier
+  - amount: ½
+    unit: part
+    name: amaretto
+  - amount: ½
+    unit: part
+    name: lemon juice
+  - amount: 1
+    unit: part
+    name: egg white
+  - amount: 1
+    unit: dash
+    name: chamomile-citrus bitters
+
+---
+
+Lieutenant Boyer is Admiral  Nguyễn’s aide when he comes aboard the UNN Agatha King. Boyer justifies Nguyễn’s antipathy toward Mars to other UNN officers, reminding them of Nguyễn’s  combat experience. Even when Nguyễn orders an illegal war and fires on UNN ships, Boyer remains loyal.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Put all ingredients into an empty cocktail shaker. Dry shake for 15 seconds, add ice and shake again. Strain into a chilled coupe. No garnish.
+
+{% include tags.html %}
