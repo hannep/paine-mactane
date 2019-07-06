@@ -49,12 +49,13 @@ The ¿Y Qué? was a slingshot racing pod, Manéo Jung-Espinoza’s pride and joy
 
 We enjoyed thinking a lot about the presentation for this drink. It's served in a coupe, which has graceful curves, reminiscent of the orbital curves of a slingshotter's course. The raspberry is also symbolic: it represents Manéo's ultimate fate. (Sorry, Néo.)
 
-![Picture of instructions (text below this image)](/assets/images/064-065-Instructions.jpg)
-
 {% include ingredients.html %}
 
 #### Instructions:
 
-Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into a chilled coupe. Garnish with a fresh raspberry.
+<strong>Cinnamon-Infused Bourbon:</strong> Roughly chop 3 cinnamon sticks. Infuse in 1 cup bourbon for 3 hours and strain well.
+
+<strong>Cocktail:</strong> Pour all ingredients into a mixing glass and stir with ice until cold. Strain into a rocks glass over ice. Twist an orange peel over the drink to express 
+its oils, then drop it into the glass.
 
 {% include tags.html %}
