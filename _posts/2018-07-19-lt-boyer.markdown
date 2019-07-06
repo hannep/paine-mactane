@@ -11,11 +11,13 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1020025374967762945"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
-  - Grand Marnier
+  - Liqueur
   - Character Drink
   - Earther
   - Bit Part
   - Coupe
+  - Sweet
+  - Egg White
 
 ingredients:
   - amount: 1
@@ -37,6 +39,8 @@ ingredients:
 ---
 
 Lieutenant Boyer is Admiral  Nguyễn’s aide when he comes aboard the UNN Agatha King. Boyer justifies Nguyễn’s antipathy toward Mars to other UNN officers, reminding them of Nguyễn’s  combat experience. Even when Nguyễn orders an illegal war and fires on UNN ships, Boyer remains loyal.
+
+For those who are looking for chamomile-citrus bitters, Bittermens Boston Bittahs is our preferred type.
 
 {% include ingredients.html %}
 
