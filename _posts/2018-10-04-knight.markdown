@@ -11,40 +11,37 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1049505199243649024"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Genever
+  - Fernet
   - Ship Drink
-  - Earther
-  - Support Ship
-  - Coupe
-  - Sweet
+  - Belter
+  - Shuttle
+  - Pebble Ice
+  - Collins
+  - Refreshing
   - Expanse Cocktails Project
 ingredients:
-  - amount: 2
-    unit: ounces
-    name: genever (jonge)
+  - amount: 1
+    unit: ounce
+    name: brown créme de cacao
   - amount: ½
-    unit: cup
-    name: peeled, finely diced apple (2 oz. by weight)
-  - amount: 2
-    unit: tsp
-    name: sugar
+    unit: ounce
+    name: fernet
+  - amount: 3-4
+    unit: ounces
+    name: seltzer water
 
 ---
 
-The UNN Seung Un was a support ship assigned to the Earth fleet sent to inves-tigate the Ring. An auxiliary vessel, its security was low, and its technical needs were handled by civilian contractors —which allowed an infiltrator to sneak an explosive charge aboard and sacrifice the ship in a plot to frame a personal enemy.
+The Knight was one of the Canterbury’s shuttles, which was in sufficiently good condition when the Cant received the Scopuli’s distress call to take five crewmembers to investigate. After the Cant’s destruction, the Knight barely weathered the debris field and was eventually captured by the Donnager.
 
-See also the *Hammurabi's* wise, restrained captain, [Sandrine Kirino](/cocktails/2018/06/07/sandrine-kirino/).
+Note that, just like the *Cant*, this drink has brown crème de cacao as an ingredient. 
+
+We think a low ABV rating is appropriate for a little, bitty shuttle with no Epstein Drive and not much power.
 
 {% include ingredients.html %}
 
 #### Instructions:
 
-Pour bourbon and Cynar into a cocktail shaker with ice and shake until chilled. Strain into a rocks glass over ice and top up with ginger ale. Garnish with a twist of lemon peel.
-
-We're going to be using gin for UNN ships (more on why later - or feel free to try to guess!); for a support vessel, genever is nicely related. Also, genever's generally "earthy" tones help it feel like "grounding, support".
-
-For the apples here, we used Braeburns and Honeycrisps, but any sweet-tart, flavorful apple will do. The ones we'd recommend avoiding are Red Delicious (not flavorful enough), Granny Smith (too tart), and similar cultivars.
-
-This is the ship [Ren](/cocktails/2018/08/30/ren-hazuki/) met his terrible, unlucky fate on. 
+Pour crème de cacao and Fernet into a rocks glass and stir. Add ice, then pour seltzer water in to fill up glass and stir briefly again.
 
 {% include tags.html %}
