@@ -1,0 +1,65 @@
+---
+layout: post
+number: 63
+name: Scopuli
+date: 2018-11-15
+short_text: The undercover OPA freighter for Julie Mao's final mission.
+tweet_text: The undercover OPA freighter Julie Mao served aboard on its final mission to hijack a secret Mao-Kwikowski weapons shipment. The Canterbury responded to its falsified distress call. 
+hero: /assets/images/063-Scopuli-card.jpg
+drink_crop: /assets/images/063-Scopuli-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1063909882728984576"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Hard"
+  - Cachaça
+  - Ship Drink
+  - Belter
+  - Cargo Freighter
+  - Coupe
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1½
+    unit: ounces
+    name: cachaça
+  - amount: ½
+    unit: centimeter
+    name: peeled, sliced ginger
+  - amount: 1
+    unit: tsp
+    name: sugar
+  - amount: ¼
+    unit: ounce
+    name: elderflower liqueur
+  - amount: ⅛
+    unit: ounce
+    name: dry curaçao
+  - amount: 2
+    unit: dashes
+    name: lemon juice
+  - amount: 1
+    unit: dash
+    name: chamomile-citrus bitters
+
+---
+
+The Scopuli was a cargo freighter used by the Ceres faction of the OPA for clandestine missions. When it was sent to intercept a Mao-Kwikowski vessel carrying an unknown weapon from Phoebe, it was boarded and its crew taken prisoner by the Anubis, then set adrift with a Martian-made distress beacon as part of Protogen’s gambit to start a war.
+
+In our hint, we emphasized the confidence and brashness of the *Scopuli’s* crew of OPA recruits (including Julie), and the deceptive nature of the Scopuli’s wreck after the Anubis killed and planted it. So we decided to make a drink with bright flavors that wasn’t what it seemed.
+
+We often use rum for ships involved in OPA operations, like the *Guy Molinari*, and for hardcore Belter ships like the Xinglong. The Scopuli is an undercover OPA ship so we used cachaça, Brazil’s famous favorite that is derived from sugar, like rum, but tastes distinctly different.
+
+We used ginger and sugar as bold flavors to symbolize the *Scopuli* crew’s confidence that they can take down the Protogen ship. These also mask the taste of alcohol, so you may be surprised by how hard the drink will hit you.
+
+The elderflower liqueur is usually an Earth-oriented ingredient for us, but in this case it reflects Julie's presence on the ship and the crew's hopeful, slightly naïve mission and plans. The flavor also lends a little sweetness that goes well with the ginger.
+
+The making of this cocktail was a great example of bitters bringing a drink together. It tasted fine without the chamomile-citrus bitters, but once they were added it became much more unified, balanced, and complete.
+
+The final drink is somewhat cloudy, which suits the *Scopuli's* many types of murkiness: its OPA connections are hidden; its mission is a secret; and in the end, its "distress call" is a double deception - the crew is already gone, and the beacon's Martian origin is a ruse.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Muddle ginger and sugar in the bottom of a mixing glass. Pour in the other ingredients and stir with ice until cold. Double strain into a chilled coupe. Garnish with lemon peel.
+
+{% include tags.html %}
