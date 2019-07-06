@@ -16,7 +16,7 @@ tags:
   - Martian
   - Bit Part
   - Shot
-  - Spirit Forward
+  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

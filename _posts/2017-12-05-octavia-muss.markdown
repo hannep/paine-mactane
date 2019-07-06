@@ -10,48 +10,38 @@ drink_crop: /assets/images/014-OctaviaMuss-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/938105787292975104"
 author: Paine×Mactane
 tags: 
-  - "Difficulty: Medium"
-  - Vodka
+  - "Difficulty: Easy"
+  - Bourbon
   - Character Drink
   - Belter
-  - Bit Part
-  - Villian
+  - Secondary
   - Coupe
   - Spirit-Forward
-  - Egg White
   - Expanse Cocktails Project
 ingredients:
-  - amount: 1
-    unit: part
-    name: vodka
-  - amount: 1
-    unit: part
-    name: peach schnapps
-  - amount: 1½
+  - amount: 4
     unit: parts
-    name: Aperol
+    name: bourbon
   - amount: 1
     unit: part
-    name: egg white
-  - amount: ½
+    name: kahlúa
+  - amount: 1
     unit: part
-    name: Cointreau
-  - amount: ½
-    unit: part
-    name: lemon juice
+    name: Cherry Heering
+  - amount: 1
+    unit: dash
+    name: orange bitters
 
 ---
 
-Though he can appear friendly and even harmless when he wants to, Kenzo has a hidden side. He is a spy, highly skilled in infiltration, corporate espionage, electronic sabotage, and tracking others. Kenzo can talk his way out of almost any situation.
+Octavia Muss is a Star Helix officer with good detective skills and steady nerves. She can track people down even when they’ve been kidnapped by the OPA, and knows how to handle the situation afterward. Unlike some other officers, she tries to uphold the law and avoid abusing her power.
 
-This drink is "friendly" at first - sweet, fruity and dangerously easy to drink - but then has a suspiciously dark flavor once you start to notice it. The bitterness comes from the Aperol and from the smell of the lemon peel and bitters on top of the drink.
-
-1 egg white is typically 1 ounce in volume. Depending on the size of your coupe glass, using 1 part = 1 ounce may get you two drinks' worth. Share it with a friend... or an enemy. 
+We started with Kahlúa for Muss' alertness & dedication to her job, then added bourbon for the "hard-boiled cop" aspect. Cherry Heering just seemed to "fit" her, somehow, and rounded out the flavor nicely. The bitters complement the cherry & Kahlúa to make the cocktail complete. 
 
 {% include ingredients.html %}
 
 #### Instructions:
 
-Place all ingredients into a shaker and dry shake for 10-15 seconds. Add ice cubes and shake again to chill. Strain into a chilled coupe. Garnish by topping the egg-white foam with drops of aromatic bitters and a strip of lemon peel.  of lemon peel.
+Add all ingredients to a mixing glass over ice and stir until cold. Strain into a chilled coupe. Garnish with a blackberry on a cocktail pick. 
 
 {% include tags.html %}

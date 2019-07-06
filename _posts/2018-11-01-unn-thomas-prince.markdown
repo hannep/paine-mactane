@@ -14,7 +14,7 @@ tags:
   - Gin
   - Ship Drink
   - Earther
-  - Dreadnaught
+  - Dreadnought
   - Coup
   - Egg White
   - Expanse Cocktails Project
@@ -36,7 +36,7 @@ ingredients:
 
 ---
 
-The UNN Thomas Prince is a dreadnought that was the main ship of the Earth fleet and carried a multi-functional civilian delegation of scientists, cultural figures, and religious leaders to investigate the Ring. It eventually followed the Martian and Belter vessels into the Ring, despite its crew’s fears and misgivings.
+The UNN *Thomas Prince* is a dreadnought that was the main ship of the Earth fleet and carried a multi-functional civilian delegation of scientists, cultural figures, and religious leaders to investigate the Ring. It eventually followed the Martian and Belter vessels into the Ring, despite its crew’s fears and misgivings.
 
 {% include ingredients.html %}
 
