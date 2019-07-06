@@ -1,0 +1,47 @@
+---
+layout: post
+number: 60
+name: Xinglong
+date: 2018-10-25
+short_text: A poor rockhopping miner can still be a home, and the site of tragic resistance.
+tweet_text: Diogo's Uncle Mateo's rock hopper, where Diogo went after failing as a water thief on Ceres. 
+hero: /assets/images/060-Xinglong-card.jpg
+drink_crop: /assets/images/060-Xinglong-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1055543230765416449"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Rum
+  - Tequila
+  - Ship Drink
+  - Belter
+  - Rockhopper
+  - Rock
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: banana-infused black rum
+  - amount: ½
+    unit: ounce
+    name: tequila (plata)
+  - amount: ¼
+    unit: ounce
+    name: mezcal (joven)
+  - amount: 2
+    unit: dashes
+    name: black mission fig bitters
+
+---
+
+The Xinglong was a prospecting rock hopper owned by Diogo Harari’s uncle Mateo. Though messy inside, it was Mateo’s pride and joy, as well as his home. When the Martian Navy boarded and ordered Mateo to divert onto a course that would leave them stranded without fuel, Mateo instead slung his load of rocks at the Martian cruiser - which retaliated by destroying the Xinglong.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+<strong>Banana-Infused Black Rum:</strong> Cut 15 ¼-inch slices from a ripe banana. Infuse in ½ cup dark rum for 24 hours and strain well.
+
+<strong>Recipe:</strong> Pour all ingredients into a rocks glass over a single large ice cube and stir briefly to combine them. No garnish.
+
+{% include tags.html %}
