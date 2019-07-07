@@ -1,0 +1,47 @@
+---
+layout: post
+number: 82
+name: Egan
+date: 2019-04-20
+short_text: Loyal to the Belter cause, even in the most terrifying and confusing situation.
+tweet_text: The guard in the Behemoth who helps in the reactor-shutdown mission. Obssa Ahmed shows us with just a few words how dependable & loyal he is, and also gives us insight into how OPA members feel about Holden.
+hero: /assets/images/082-Egan-card.jpg
+drink_crop: /assets/images/082-Egan-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1119771207233097733"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Jamaican rum
+  - Character Drink
+  - Scene Stealers Series
+  - Belter
+  - Bit Part
+  - Rock
+  - Tiki
+  - Spicy
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1½
+    unit: ounces
+    name: Jamaican rum
+  - amount: 1½
+    unit: ounces
+    name: mango nectar
+  - amount: ¾
+    unit: ounce
+    name: pineapple juice
+  - amount: ⅜
+    unit: dash
+    name: Ancho Reyes Verde
+
+---
+
+Egan is an OPA soldier in the [*Behemoth*](/cocktails/2018/11/29/opas-behemoth/)’s brig, responsible for guarding [Holden](/cocktails/2018/04/12/james-holden/). When [Drummer](/cocktails/2017/11/14/camina-drummer) leads a mission to shut down the [*Behemoth*](/cocktails/2018/11/29/opas-behemoth/)’s reactor, he refuses to be left behind, declaring his loyalty and reminding her of what they’ve been through together. He doesn’t flinch even when [Diogo](/cocktails/2017/09/12/diogo-harari/) barrels down on him in stolen MMC power armor.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all ingredients into a mixing glass with ice and stir until cold. Strain into a rocks glass over one large ice cube and garnish with a mango slice dipped in Aleppo pepper flakes.
+
+{% include tags.html %}
