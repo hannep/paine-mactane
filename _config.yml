@@ -5,15 +5,15 @@ permalink: /cocktails/:year/:month/:day/:title/
 google_analytics: 
   id: "UA-143299729-1"
 
-title: Paine×MacTane
+title: Paine × MacTane
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Paine × MacTane: a transcontinental pair of sci-fi fans, language enthusiasts, cocktail creators, and perpetual learners and teachers.
 url: https://www.painemactane.com
-twitter_username: paine_mactane
+twitter_username: Paine_MacTane
 default_img: /assets/images/favicon.ico
 social:
   - name: twitter
-    url: https://twitter.com/paine_mactane
+    url: https://twitter.com/Paine_MacTane
 
 # Contact settings
 # contact_img: /assets/images/placeholder-28.jpg
@@ -51,7 +51,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: ':tag'
     permalink: '/tag/:tag'
     slugify:
       mode: default
