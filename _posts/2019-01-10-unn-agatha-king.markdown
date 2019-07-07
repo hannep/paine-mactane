@@ -2,7 +2,7 @@
 layout: post
 number: 69
 name: UNN Agatha King
-date: 2019-01-04
+date: 2019-01-10
 short_text: Even a U.N. flagship can't repel weaponized Protomolecule. 
 tweet_text: The Jupiter fleet flagship that Admiral Souther respected, despite her electrical problems, when reassigned there after his departure form the Joint Chiefs.
 hero: /assets/images/069-UNNAgathaKing-card.jpg

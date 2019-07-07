@@ -1,0 +1,44 @@
+---
+layout: post
+number: 93
+name: Longbone
+date: 2019-06-25
+short_text: Tall, skinny, mean, and an artist with Belter curses.
+tweet_text: Tall, skinny, and mean, he educates Havelock about Miller's Belter "tell". The actor antagonizes Miller believably, then spews a beautiful string of Belter curses as he is dragged off. Wish we knew his name!
+hero: /assets/images/093-Longbone-card.jpg
+drink_crop: /assets/images/093-Longbone-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1143695930211864576"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Beer
+  - Aquavit
+  - Character Drink
+  - Scene Stealers Series
+  - Belter
+  - Bit Part
+  - Pint Glass
+  - Bomb Drink
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1
+    unit: pint
+    name: lager
+  - amount: ¾
+    unit: ounce
+    name: aquavit
+  - amount: ½
+    unit: ounce
+    name: Amaro Ciociaro
+
+---
+
+The only name we have for the man who gets up in [Havelock](/cocktails/2017/10/31/dimitri-havelock/) and [Miller](/cocktails/2018/05/31/josephus-miller/)’s faces in a Ceres bar is “Longbone” — normally an epithet for spindly Belters, attenuated from a lifetime in low-G. He interrupts them to tell [Havelock](/cocktails/2017/10/31/dimitri-havelock/) about the spurs at the top of [Miller](/cocktails/2018/05/31/josephus-miller/)’s spine. The conversation then goes rapidly downhill from there.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour aquavit and ciociaro into a shot glass and stir gently to mix. Pour lager into a pint glass. Drop the shot glass into the lager as a bomb drink.
+
+{% include tags.html %}
