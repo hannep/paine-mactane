@@ -11,8 +11,8 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1120801309970583552"
 author: Paine×Mactane
 tags:
   - "Difficulty: Hard"
-  - gold rum
-  - tequila
+  - Gold Rum
+  - Tequila (Añejo)
   - Character Drink
   - Scene Stealers Series
   - Belter

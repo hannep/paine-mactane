@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/930531802287968256"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
-  - Tequila
+  - Tequila (Blanco)
   - Character Drink
   - Belter
   - Ensemble

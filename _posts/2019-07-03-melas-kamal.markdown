@@ -17,6 +17,7 @@ tags:
   - Bit Part
   - Rocks
   - Non-Alcoholic
+  - Sweet
   - Expanse Cocktails Project
   - Sweet
   - Sour

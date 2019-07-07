@@ -12,7 +12,7 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Black Rum
-  - Tequila
+  - Tequila (Reposado)
   - Character Drink
   - April Fool's
   - Belter

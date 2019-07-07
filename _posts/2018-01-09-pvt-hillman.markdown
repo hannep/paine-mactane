@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/950796909727363072"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
-  - Tequila
+  - Tequila (Reposado)
   - Character Drink
   - Martian
   - Secondary

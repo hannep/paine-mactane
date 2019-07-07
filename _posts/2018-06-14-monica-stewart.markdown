@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1007305853001662465"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Tequila
+  - Tequila (Plata)
   - Character Drink
   - Earther
   - Secondary

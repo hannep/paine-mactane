@@ -12,7 +12,7 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Black Rum
-  - Tequila
+  - Tequila (Plata)
   - Character Drink
   - Scene Stealers Series
   - Belter
