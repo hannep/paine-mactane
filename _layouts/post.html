@@ -4,6 +4,14 @@ layout: default
 <div class="post">
   <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="post__header section-padding--double">
+      <div class="PageNavigation">
+        {% if page.previous.url %}
+          <a class="post__nav-link post__prev-nav-link" href="{{page.previous.url}}"></a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="post__nav-link post__next-nav-link" href="{{page.next.url}}"></a>
+        {% endif %}
+      </div>
       <div class="grid-small">
         <h2 itemprop="name headline">Expanse Cocktail #{{page.number}}<br> {{ page.name }}</h2>
 

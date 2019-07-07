@@ -7,6 +7,44 @@
   //   background-color: $color-white;
   // }
 
+  &__nav-link {
+    // Only show on larger devices
+    background-repeat: no-repeat;
+    background-image: url("/assets/images/next.svg");
+    height: 40px;
+    width: 32px;
+    margin-top: 30px;
+
+  }
+
+  &__prev-nav-link {
+    float: left;
+    transform: scaleX(-1);
+  }
+  &__next-nav-link {
+    float: right;
+  }
+
+
+  @media (min-width: $mq-small) {
+    &__nav-link {
+      display: block;
+      height: 80px;
+      width: 64px;
+    }
+  }
+  
+  @media (min-width: $mq-med) {
+    &__prev-nav-link {
+      margin-left: 140px;
+    }
+    
+    &__next-nav-link {
+      margin-right: 140px;
+    }
+  }
+
+
   &__header {
     @extend %text-center;
 
