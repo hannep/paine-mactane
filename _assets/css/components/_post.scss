@@ -47,8 +47,6 @@
 
   &__header {
     @extend %text-center;
-
-    border-bottom: $border;
   }
 
   &__date {
@@ -79,18 +77,12 @@
 
       height: 100%;
       width: 100%;
-
-      background-color: $color-lightgrey;
     }
   }
 
   // &__amp-img {
   //   padding: 1em;
   // }
-
-  &__content {
-    border-top: $border;
-  }
 
   &__social {
     @extend %flex-center;
