@@ -7,7 +7,7 @@ layout: about
 
 We are Paine × MacTane: a transcontinental pair of sci-fi fans, language enthusiasts, cocktail creators, and perpetual learners and teachers.
 
-<img src="/assets/images/circular-dual-profile.png" alt="" style="float: right; width: 200px;" />Hanne Madeleine Gates Paine ([@ItReachesOut](https:twitter.com/ItReachesOut)) lives in Brooklyn, Kagan D. MacTane ([@kmactane](https://twitter.com/kmactane)) in San Francisco. We were brought together by an online community for _The Expanse_, the award-winning show now on Amazon, based on the acclaimed novel series by James S.A. Corey. We quickly found many shared interests, and have been collaborating on projects ever since.
+<img src="/assets/images/circular-dual-profile.png" alt="" style="float: right; width: 200px;" />Hanne Madeleine ("Iro") Gates Paine ([@ItReachesOut](https:twitter.com/ItReachesOut)) lives in Brooklyn, Kagan D. MacTane ([@kmactane](https://twitter.com/kmactane)) in San Francisco. We were brought together by an online community for _The Expanse_, the award-winning show now on Amazon, based on the acclaimed novel series by James S.A. Corey. We quickly found many shared interests, and have been collaborating on projects ever since.
 
 We have taught classes in Lang Belta, _The Expanse_'s "Belter Creole" language, at conventions from Montréal’s Congrès Boréal to Italy's DeepCon to Baltimore's ChessieCon, and at Worldcons in Helsinki and San José, California. We will be teaching again at [Worldcon in Dublin](http://dublin2019.com/) in August.
 
