@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/981924110665166848"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Overproof Rum
+  - Overproof White Rum
   - Character Drink
   - Belter
   - Secondary
@@ -22,7 +22,7 @@ tags:
 ingredients:
   - amount: 3
     unit: parts
-    name: overproof rum
+    name: overproof white rum
   - amount: 1
     unit: part
     name: cinnamon-flavored whiskey

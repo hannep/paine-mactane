@@ -10,17 +10,18 @@ drink_crop: /assets/images/095-MelasKamal-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1146651786687725569"
 author: Paine×Mactane
 tags:
-  - "Difficulty: Hard"
-  - Character Drink
   - Scene Stealers Series
-  - Martian
-  - Bit Part
+  - "Difficulty: Hard"
   - Rocks
   - Non-Alcoholic
+  - Refreshing
   - Sweet
+  - Homemade Ingredient
+  - Food Science
+  - Character Drink
+  - Martian
+  - Bit Part
   - Expanse Cocktails Project
-  - Sweet
-  - Sour
 ingredients:
   - amount: 2
     unit: ounces

@@ -10,14 +10,15 @@ drink_crop: /assets/images/092-HaggardBelter-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1142302423190507520"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Tequila (Añejo)
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Rocks
   - Fruity
+  - Homemade Ingredient
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1060667303136759809"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Rum
+  - White Rum
   - Ship Drink
   - Belter
   - Cargo Freighter

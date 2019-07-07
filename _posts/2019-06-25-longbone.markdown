@@ -10,15 +10,16 @@ drink_crop: /assets/images/093-Longbone-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1143695930211864576"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Beer
   - Aquavit
+  - Pint Glass
+  - Refreshing
+  - Bomb Drink
   - Character Drink
-  - Scene Stealers Series
   - Belter
   - Bit Part
-  - Pint Glass
-  - Bomb Drink
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

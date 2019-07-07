@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/974311952498479107"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Rum
+  - Overproof White Rum
   - Character Drink
   - Belter
   - Bit Part

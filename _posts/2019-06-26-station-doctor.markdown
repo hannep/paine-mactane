@@ -10,14 +10,17 @@ drink_crop: /assets/images/094-StationDoctor-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1144420197689896960"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Genever
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Coupe
   - Refreshing
+  - Fruity
+  - Spring/Summer
+  - Shrub
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

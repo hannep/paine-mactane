@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/953327254016348162"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Dark Rum
+  - Black Rum
   - Character Drink
   - Belter
   - Bit Part
@@ -21,7 +21,7 @@ tags:
 ingredients:
   - amount: 4
     unit: parts
-    name: dark rum
+    name: black rum
   - amount: 1
     unit: part
     name: Aperol

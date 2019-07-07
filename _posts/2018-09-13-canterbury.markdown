@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1040284728883138561"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Rum
+  - Gold Rum
   - Ship Drink
   - Belter
   - Ice Hauler
@@ -22,7 +22,7 @@ tags:
 ingredients:
   - amount: 2
     unit: ounces
-    name: aged rum
+    name: gold rum
   - amount: ½
     unit: ounce
     name: brown créme de cacao

@@ -11,8 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1055543230765416449"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Rum
-  - Tequila (Plata)
+  - Black Rum
   - Ship Drink
   - Belter
   - Rockhopper
