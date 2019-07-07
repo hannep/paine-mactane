@@ -1,0 +1,51 @@
+---
+layout: post
+number: 80
+name: Roma
+date: 2019-03-28 
+short_text: A hacker lowlife. He likes chicken. 
+tweet_text: The Ganymede hacker who helps the Roci crew trace Mei Meng. No one can forget how [@StevenYaffee](https://twitter.com/StevenYaffee) delivered his signature line ("I like chicken.") or showed his sleazy, slimy, self-interestedness.
+hero: /assets/images/080-Roma-card.jpg
+drink_crop: /assets/images/080-Roma-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1111504709762859010"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Medium"
+  - White Rum
+  - Character Drink
+  - Scene Stealers Series
+  - Belter
+  - Bit Part
+  - Rocks
+  - Spicy
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1
+    unit: ounce
+    name: white rum
+  - amount: 1
+    unit: ounce
+    name: tequila (añejo)
+  - amount: 1
+    unit: ounce
+    name: finely strained tomato juice
+  - amount: ¼
+    unit: ounce
+    name: amaro montenegro
+  - amount: 1
+    unit: dash
+    name: lemon juice
+
+---
+
+After the Battle of Ganymede, everyone wants to find their loved ones. For that, you need a hacker. Someone who can trace every camera image and find people wherever they’ve gone. Roma is one such hacker. He doesn’t work for cheap — after the colony’s collapse, money isn’t worth much, so he wants canned chicken. How much have you got?
+
+We knew we wanted a fresh hot pepper and gave a lot of thought to what kind of pepper to use. After testing, the habanero was exactly what we wanted to go with the other ingredients in the drink, all of which play well with its especially fruity (while still being spicy!) flavor.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Slice a habanero pepper and use the juice to rim a rocks glass with granulated chicken bouillon. Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into the the prepared rocks glass over ice. Garnish with the whole habanero pepper. 
+
+{% include tags.html %}
