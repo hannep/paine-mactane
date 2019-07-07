@@ -6,8 +6,8 @@
 </description>
     <link>https://www.painemactane.com</link>
     <atom:link href="https://www.painemactane.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 19:03:32 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 19:03:32 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2019 19:27:02 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 19:27:02 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -3259,7 +3259,7 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       </item>
     
       <item>
-        <title>Mcrn Donnager</title>
+        <title>MCRN Donnager</title>
         <description>&lt;p&gt;The flagship of Mars’ Jupiter fleet, the MCRN &lt;em&gt;Donnager&lt;/em&gt; was a dreadnought half a kilometer long and the pinnacle of Martian military technology and power. After taking the Knight aboard in the aftermath of the Canterbury’s destruction, it was attacked by Protogen stealth ships, and Captain Theresa Yao scuttled the ship to keep it out of hostile hands.&lt;/p&gt;
 
 &lt;p&gt;This drink shares its Fernet with its indomitable captain, &lt;a href=&quot;/cocktails/2017/10/03/theresa-yao.&quot;&gt;Theresa Yao&lt;/a&gt;.&lt;/p&gt;
@@ -3312,6 +3312,14 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3321,14 +3329,6 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/dreadnought&quot;&gt;Dreadnought&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3346,15 +3346,15 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
         
         <category>Rye</category>
         
+        <category>Rock</category>
+        
+        <category>Spirit-Forward</category>
+        
         <category>Ship Drink</category>
         
         <category>Martian</category>
         
         <category>Dreadnought</category>
-        
-        <category>Rock</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -3413,18 +3413,6 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/unafiliated&quot;&gt;Unafiliated&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/medical-relief-ship&quot;&gt;Medical Relief Ship&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/cordial-glass&quot;&gt;Cordial Glass&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3434,6 +3422,26 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/hot-drink&quot;&gt;Hot Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/unafiliated&quot;&gt;Unafiliated&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/medical-relief-ship&quot;&gt;Medical Relief Ship&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3451,17 +3459,21 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
         
         <category>Escubac</category>
         
-        <category>Ship Drink</category>
-        
-        <category>Unafiliated</category>
-        
-        <category>Medical Relief Ship</category>
-        
         <category>Cordial Glass</category>
         
         <category>Sweet</category>
         
         <category>Hot Drink</category>
+        
+        <category>Homemade Ingredient</category>
+        
+        <category>Fall/Winter</category>
+        
+        <category>Ship Drink</category>
+        
+        <category>Unafiliated</category>
+        
+        <category>Medical Relief Ship</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -3469,7 +3481,7 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       </item>
     
       <item>
-        <title>Unn Agatha King</title>
+        <title>UNN Agatha King</title>
         <description>&lt;p&gt;The flagship of Earth’s Jupiter fleet, the UNN &lt;em&gt;Agatha King&lt;/em&gt; was aging and prone to malfunctions. Admiral Nguyễn’s attempts to start a war with Mars led to a mutiny by Admiral Souther and loyal forces, followed by a quick counter-mutiny before the ship was infected by protomolecule and finally destroyed for the safety of humanity.&lt;/p&gt;
 
 &lt;p&gt;This cocktail pulls in various directions, as befits a ship that was the site of 2 mutinies in quick succession. The blue, butterfly pea flower float naturally represents the protomolecule infection. But it’s still well balanced, despite the disparate elements.&lt;/p&gt;
@@ -3548,6 +3560,18 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3557,14 +3581,6 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/dreadnought&quot;&gt;Dreadnought&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3582,15 +3598,17 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
         
         <category>Pisco</category>
         
+        <category>Coupe</category>
+        
+        <category>Fruity</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Ship Drink</category>
         
         <category>Earther</category>
         
         <category>Dreadnought</category>
-        
-        <category>Coupe</category>
-        
-        <category>Fruity</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -3665,6 +3683,10 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3674,10 +3696,6 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/freighter&quot;&gt;Freighter&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3697,13 +3715,13 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
         
         <category>Gold Rum</category>
         
+        <category>Rock</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
         
         <category>Freighter</category>
-        
-        <category>Rock</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -3807,10 +3825,6 @@ Combine all ingredients in a large pitcher or punch bowl filled with ice and sti
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/special-firehawks-drink&quot;&gt;Special Firehawks Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/teacup&quot;&gt;Teacup&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3823,6 +3837,10 @@ Combine all ingredients in a large pitcher or punch bowl filled with ice and sti
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/made-to-share&quot;&gt;Made to Share&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3831,7 +3849,15 @@ Combine all ingredients in a large pitcher or punch bowl filled with ice and sti
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/special-firehawks-drink&quot;&gt;Special Firehawks Drink&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3851,19 +3877,23 @@ Combine all ingredients in a large pitcher or punch bowl filled with ice and sti
         
         <category>Rum</category>
         
-        <category>Special Firehawks Drink</category>
-        
         <category>Teacup</category>
         
         <category>Punch Bowl</category>
         
         <category>Punch</category>
         
+        <category>Fruity</category>
+        
         <category>Made to Share</category>
         
         <category>Easy to Batch</category>
         
+        <category>Homemade Ingredient</category>
+        
         <category>Fall/Winter</category>
+        
+        <category>Special Firehawks Drink</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -3941,10 +3971,6 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/special-firehawks-drink&quot;&gt;Special Firehawks Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/irish-coffee-glass&quot;&gt;Irish Coffee Glass&lt;/a&gt;
       &lt;/li&gt;
     
@@ -3973,7 +3999,15 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/special-firehawks-drink&quot;&gt;Special Firehawks Drink&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -3991,8 +4025,6 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
         
         <category>Wine</category>
         
-        <category>Special Firehawks Drink</category>
-        
         <category>Irish Coffee Glass</category>
         
         <category>Punch</category>
@@ -4007,7 +4039,11 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
         
         <category>Hot Drink</category>
         
+        <category>Homemade Ingredient</category>
+        
         <category>Fall/Winter</category>
+        
+        <category>Special Firehawks Drink</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4015,7 +4051,7 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
       </item>
     
       <item>
-        <title>Mcrn Kittur Chennamma</title>
+        <title>MCRN Kittur Chennamma</title>
         <description>&lt;p&gt;The MCRN &lt;em&gt;Kittur Chennamma&lt;/em&gt; was a patrol destroyer that was disabled by UNN forces. The &lt;em&gt;Roci&lt;/em&gt; crew scavenged it for supplies and found 3 surviving Martian ensigns. After their attempt to take over the &lt;em&gt;Roci&lt;/em&gt; was thwarted, the ensigns agreed to take the K.C. back to the Martian navy and convince Captain Kirino to pass a message about Errinwright’s plot to Admiral Souther.&lt;/p&gt;
 
 &lt;p&gt;This drink packs a surprising wallop for a small destroyer - much like its crew, who nearly managed to take over the &lt;em&gt;Roci&lt;/em&gt; when they were captured.&lt;/p&gt;
@@ -4080,18 +4116,6 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/martian&quot;&gt;Martian&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/destroyer&quot;&gt;Destroyer&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4101,6 +4125,22 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/martian&quot;&gt;Martian&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/destroyer&quot;&gt;Destroyer&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4118,17 +4158,19 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
         
         <category>Rye</category>
         
-        <category>Ship Drink</category>
-        
-        <category>Martian</category>
-        
-        <category>Destroyer</category>
-        
         <category>Rock</category>
         
         <category>Spirit-Forward</category>
         
         <category>Sweet</category>
+        
+        <category>Fall/Winter</category>
+        
+        <category>Ship Drink</category>
+        
+        <category>Martian</category>
+        
+        <category>Destroyer</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4214,6 +4256,22 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/tiki&quot;&gt;Tiki&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/smoky&quot;&gt;Smoky&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4227,14 +4285,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/racer&quot;&gt;Racer&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4254,6 +4304,14 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Gold Rum</category>
         
+        <category>Coupe</category>
+        
+        <category>Tiki</category>
+        
+        <category>Fruity</category>
+        
+        <category>Smoky</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
@@ -4262,17 +4320,13 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Racer</category>
         
-        <category>Coupe</category>
-        
-        <category>Fruity</category>
-        
         <category>Expanse Cocktails Project</category>
         
         
       </item>
     
       <item>
-        <title>Opas Behemoth</title>
+        <title>OPAS Behemoth</title>
         <description>&lt;p&gt;The OPAS Behemoth is the OPA’s enormous battlewagon - once the LDSS Nauvoo, but recovered by the Tycho faction and outfitted with weapons and a Belter crew.&lt;/p&gt;
 
 &lt;p&gt;The &lt;em&gt;Nauvoo&lt;/em&gt; (later the &lt;em&gt;Behemoth&lt;/em&gt;) is the most ambitious project Tycho Manufacturing has ever undertaken.  We decided to do something extra technically complex to honor it. Don’t forget to read all the instructions if you try to make these!&lt;/p&gt;
@@ -4353,6 +4407,22 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/jello-shot&quot;&gt;Jello Shot&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/food-science&quot;&gt;Food Science&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4362,14 +4432,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/dreadnought&quot;&gt;Dreadnought&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/jello-shot&quot;&gt;Jello Shot&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4389,15 +4451,19 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Gold Rum</category>
         
+        <category>Jello Shot</category>
+        
+        <category>Fruity</category>
+        
+        <category>Homemade Ingredient</category>
+        
+        <category>Food Science</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
         
         <category>Dreadnought</category>
-        
-        <category>Jello Shot</category>
-        
-        <category>Fruity</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4478,6 +4544,26 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/jello-shot&quot;&gt;Jello Shot&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/non-alcoholic&quot;&gt;Non-Alcoholic&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/food-science&quot;&gt;Food Science&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4494,18 +4580,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/jello-shot&quot;&gt;Jello Shot&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/non-alcoholic&quot;&gt;Non-Alcoholic&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/expanse-cocktails-project&quot;&gt;Expanse Cocktails Project&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4518,6 +4592,16 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Difficulty: Hard</category>
         
+        <category>Jello Shot</category>
+        
+        <category>Non-Alcoholic</category>
+        
+        <category>Fruity</category>
+        
+        <category>Homemade Ingredient</category>
+        
+        <category>Food Science</category>
+        
         <category>Ship Drink</category>
         
         <category>Earther</category>
@@ -4525,12 +4609,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
         <category>Colony Ship</category>
         
         <category>Generation Ship</category>
-        
-        <category>Jello Shot</category>
-        
-        <category>Non-Alcoholic</category>
-        
-        <category>Fruity</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4619,6 +4697,10 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4628,10 +4710,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/cargo-freighter&quot;&gt;Cargo Freighter&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4649,13 +4727,13 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Cachaça</category>
         
+        <category>Coupe</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
         
         <category>Cargo Freighter</category>
-        
-        <category>Coupe</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4728,6 +4806,14 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/tiki&quot;&gt;Tiki&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4737,14 +4823,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/cargo-freighter&quot;&gt;Cargo Freighter&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/tiki&quot;&gt;Tiki&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4762,15 +4840,15 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>White Rum</category>
         
+        <category>Rocks</category>
+        
+        <category>Tiki</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
         
         <category>Cargo Freighter</category>
-        
-        <category>Rocks</category>
-        
-        <category>Tiki</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4778,7 +4856,7 @@ its oils, then drop it into the glass.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Unn Thomas Prince</title>
+        <title>UNN Thomas Prince</title>
         <description>&lt;p&gt;The UNN &lt;em&gt;Thomas Prince&lt;/em&gt; is a dreadnought that was the main ship of the Earth fleet and carried a multi-functional civilian delegation of scientists, cultural figures, and religious leaders to investigate the Ring. It eventually followed the Martian and Belter vessels into the Ring, despite its crew’s fears and misgivings.&lt;/p&gt;
 
 &lt;section&gt;
@@ -4788,7 +4866,7 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;li&gt;
         2
         ounces
-        chamomile-infused black rum
+        chamomile-infused London Dry gin
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4837,6 +4915,18 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/egg-white&quot;&gt;Egg White&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4846,14 +4936,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/dreadnought&quot;&gt;Dreadnought&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coup&quot;&gt;Coup&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/egg-white&quot;&gt;Egg White&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4871,15 +4953,17 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Gin</category>
         
+        <category>Coupe</category>
+        
+        <category>Egg White</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Ship Drink</category>
         
         <category>Earther</category>
         
         <category>Dreadnought</category>
-        
-        <category>Coup</category>
-        
-        <category>Egg White</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4940,6 +5024,14 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -4949,10 +5041,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/rockhopper&quot;&gt;Rockhopper&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -4970,13 +5058,15 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Black Rum</category>
         
+        <category>Rock</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
         
         <category>Rockhopper</category>
-        
-        <category>Rock</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -4984,7 +5074,7 @@ its oils, then drop it into the glass.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Mcrn Scirocco</title>
+        <title>MCRN Scirocco</title>
         <description>&lt;p&gt;The MCRN Scirocco is an assault cruiser assigned to the outer system, with a platoon of Marines as well as weaponry. It prevented the UNN Nathan Hale from reaching Phoebe Station by destroying the entire moon. Under the command of Lieutenant Sutton, it was involved in the Ganymede Incident, where it sustained heavy damage and casualties.&lt;/p&gt;
 
 &lt;p&gt;This drink shares its rye base with &lt;a href=&quot;/cocktails/2017/11/07/lt-sutton/&quot;&gt;Lt. Sutton&lt;/a&gt;, its steadfast, restrained commander.&lt;/p&gt;
@@ -5035,6 +5125,14 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5044,10 +5142,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/assault-cruiser&quot;&gt;Assault Cruiser&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5067,13 +5161,15 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Cider</category>
         
+        <category>Rock</category>
+        
+        <category>Fall/Winter</category>
+        
         <category>Ship Drink</category>
         
         <category>Martian</category>
         
         <category>Assault Cruiser</category>
-        
-        <category>Rock</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5126,7 +5222,15 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/overproof-rum&quot;&gt;Overproof Rum&lt;/a&gt;
+        &lt;a href=&quot;/tag/overproof-white-rum&quot;&gt;Overproof White Rum&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/shot&quot;&gt;Shot&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5138,15 +5242,11 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/racing-pinnace-racer&quot;&gt;Racing Pinnace, Racer&lt;/a&gt;
+        &lt;a href=&quot;/tag/racing-pinnace&quot;&gt;Racing Pinnace&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/shot&quot;&gt;Shot&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+        &lt;a href=&quot;/tag/racer&quot;&gt;Racer&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5162,17 +5262,19 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Difficulty: Easy</category>
         
-        <category>Overproof Rum</category>
+        <category>Overproof White Rum</category>
+        
+        <category>Shot</category>
+        
+        <category>Spirit-Forward</category>
         
         <category>Ship Drink</category>
         
         <category>Mao-Kwikowski</category>
         
-        <category>Racing Pinnace, Racer</category>
+        <category>Racing Pinnace</category>
         
-        <category>Shot</category>
-        
-        <category>Spirit-Forward</category>
+        <category>Racer</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5229,18 +5331,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/belter&quot;&gt;Belter&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/shuttle&quot;&gt;Shuttle&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/pebble-ice&quot;&gt;Pebble Ice&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5250,6 +5340,18 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/refreshing&quot;&gt;Refreshing&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/belter&quot;&gt;Belter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/shuttle&quot;&gt;Shuttle&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5267,17 +5369,17 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Fernet</category>
         
-        <category>Ship Drink</category>
-        
-        <category>Belter</category>
-        
-        <category>Shuttle</category>
-        
         <category>Pebble Ice</category>
         
         <category>Collins</category>
         
         <category>Refreshing</category>
+        
+        <category>Ship Drink</category>
+        
+        <category>Belter</category>
+        
+        <category>Shuttle</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5285,7 +5387,7 @@ its oils, then drop it into the glass.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Unn Seung Un</title>
+        <title>UNN Seung Un</title>
         <description>&lt;p&gt;The UNN Seung Un was a support ship assigned to the Earth fleet sent to inves-tigate the Ring. An auxiliary vessel, its security was low, and its technical needs were handled by civilian contractors —which allowed an infiltrator to sneak an explosive charge aboard and sacrifice the ship in a plot to frame a personal enemy.&lt;/p&gt;
 
 &lt;p&gt;We’re going to be using gin for UNN ships (more on why later - or feel free to try to guess!); for a support vessel, genever is nicely related. Also, genever’s generally “earthy” tones help it feel like “grounding, support”.&lt;/p&gt;
@@ -5336,6 +5438,18 @@ its oils, then drop it into the glass.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fall-winter&quot;&gt;Fall/Winter&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5345,14 +5459,6 @@ its oils, then drop it into the glass.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/support-ship&quot;&gt;Support Ship&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5370,15 +5476,17 @@ its oils, then drop it into the glass.&lt;/p&gt;
         
         <category>Genever</category>
         
+        <category>Coupe</category>
+        
+        <category>Sweet</category>
+        
+        <category>Fall/Winter</category>
+        
         <category>Ship Drink</category>
         
         <category>Earther</category>
         
         <category>Support Ship</category>
-        
-        <category>Coupe</category>
-        
-        <category>Sweet</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5386,7 +5494,7 @@ its oils, then drop it into the glass.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Mcrn Hammurabi</title>
+        <title>MCRN Hammurabi</title>
         <description>&lt;p&gt;The MCRN Hammurabi is an assault cruiser, dispatched to the moons of Jupiter to fight against UNN incursions. Its commander, Sandrine Kirino, acting on intelligence from rescued crew from the MCRN Kittur Chennama, had the wisdom 
 to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
 
@@ -5434,6 +5542,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/refreshing&quot;&gt;Refreshing&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5443,14 +5559,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/assault-cruiser&quot;&gt;Assault Cruiser&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/refreshing&quot;&gt;Refreshing&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5468,15 +5576,15 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Bourbon</category>
         
+        <category>Rocks</category>
+        
+        <category>Refreshing</category>
+        
         <category>Ship Drink</category>
         
         <category>Martian</category>
         
         <category>Assault Cruiser</category>
-        
-        <category>Rocks</category>
-        
-        <category>Refreshing</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5541,6 +5649,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5554,14 +5670,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/colony-ship&quot;&gt;Colony Ship&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5579,6 +5687,10 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Gold Rum</category>
         
+        <category>Rock</category>
+        
+        <category>Spirit-Forward</category>
+        
         <category>Ship Drink</category>
         
         <category>Belter</category>
@@ -5586,10 +5698,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         <category>Ice Hauler</category>
         
         <category>Colony Ship</category>
-        
-        <category>Rock</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -5668,6 +5776,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/food-science&quot;&gt;Food Science&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/ship-drink&quot;&gt;Ship Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -5677,14 +5797,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/stealth-ship&quot;&gt;Stealth Ship&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -5702,15 +5814,17 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Rye</category>
         
+        <category>Coupe</category>
+        
+        <category>Spirit-Forward</category>
+        
+        <category>Food Science</category>
+        
         <category>Ship Drink</category>
         
         <category>Protogen</category>
         
         <category>Stealth Ship</category>
-        
-        <category>Coupe</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6148,7 +6262,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;li&gt;
         1
         part
-        green chartreuse
+        green Chartreuse
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6463,7 +6577,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Mcr Mule</title>
+        <title>MCR Mule</title>
         <description>&lt;p&gt;The Mars Congressional Republic was formed as Mars broke away from Earth, at the same time as Solomon Epstein invented his Drive. For the past 150 years, the MCR and UN have been engaged in a cold war diverting Mars’ resources away from its dreams of a habitable surface.&lt;/p&gt;
 
 &lt;p&gt;We had fun with food-safe luster dust (available at craft and cake decorating shops) to make this drink look like the surface of Mars.&lt;/p&gt;
