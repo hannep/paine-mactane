@@ -1,0 +1,52 @@
+---
+layout: post
+number: 70
+name: Marasmus
+date: 2019-01-17
+short_text: A medical aid ship whose crew is determined render aid, even the face of unknown dangers.
+tweet_text: The medical aid and relief ship that surprised the Roci crew with its presence at Eros.
+hero: /assets/images/070-Marasmus-card.jpg
+drink_crop: /assets/images/070-Marasmus-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1086077382006460419"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Medium"
+  - Escubac
+  - Ship Drink
+  - Unafiliated
+  - Medical Relief Ship
+  - Cordial Glass
+  - Sweet
+  - Hot Drink
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1½
+    unit: ounces
+    name: Escubac
+  - amount: ½
+    unit: ounce
+    name: earl grey syrup (recipe below)
+
+---
+
+The *Marasmus* was a ship rented by Aid Without Allegiance to bring medical help to Eros Station after the disaster that only the Rocinante escaped. Knowing nothing of the protomolecule, they were unprepared to avoid contamination, and Holden was forced to destroy the ship to maintain quarantine. 
+
+The *Marasmus* is a unique ship because it's adamantly unaffiliated with any faction. Aid Without Allegiance, the MSF of the future, exists to help Inners and Belters equally in case of disaster.
+
+We chose Escubac, which we've never used before, as the Marasmus's base spirit to reflect its neutrality and its medical focus. We like how its strong botanical component and complex flavor profile goes with the long history of herbal liqueurs as curatives.
+
+The drink, like the *Marasmus* and its crew, is small and focused. The heat brings out the flavors of the Escubac and tea, and also goes with the idea of hot drinks as healing or calming.
+
+Our recipe assumes fresh tea bags. If yours have been sitting around for ages, you may need to infuse for a bit longer, or just use 3. The syrup should taste noticeably of tea, but still be quite sweet, not bitter.
+
+If you have to infuse for a long time, you may need to reheat the syrup after infusing it and taking the tea bags out. The drink itself should come out nice and warm
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+<strong>Earl Grey Syrup:</strong> Infuse 2 Earl Grey tea bags in ½ cup of hot simple syrup for 10 minutes.
+
+<strong>Cocktail:</strong> Stir Escubac and hot syrup together in a warmed cordial glass. Twist a grapefruit peel over the drink to express its oils, then brush it around the rim of the glass and and drop it into the drink.  
+
+{% include tags.html %}
