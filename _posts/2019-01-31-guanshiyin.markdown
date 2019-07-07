@@ -12,10 +12,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Champagne
+  - Champagne Flute
+  - Refreshing
   - Ship Drink
   - Mao-Kwikowski
   - Yacht
-  - Champagne Flute
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
