@@ -1642,8 +1642,6 @@ main {
     margin-left: 140px; }
   .post__next-nav-link {
     margin-right: 140px; } }
-.post__header {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
 .post__date {
   display: block;
   margin-top: 0.25em;
@@ -1662,10 +1660,7 @@ main {
   .post__img > * {
     position: relative;
     height: 100%;
-    width: 100%;
-    background-color: #f8f8f8; }
-.post__content {
-  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+    width: 100%; }
 .post__social {
   margin-top: 2em;
   margin-bottom: 0;
