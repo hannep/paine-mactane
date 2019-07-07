@@ -12,14 +12,15 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Hard"
   - Rye
-  - Character Drink
-  - Belter
-  - Bit Part
   - Irish Coffee Glass
-  - Fall/Winter
   - Hot Drink
   - Easy to Batch
   - Spicy
+  - Homemade Ingredient
+  - Fall/Winter
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

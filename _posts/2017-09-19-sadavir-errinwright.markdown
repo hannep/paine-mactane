@@ -13,12 +13,13 @@ tags:
   - "Difficulty: Easy"
   - Scotch
   - Japanese whisky
+  - Rock
+  - Spirit-Forward
+  - Smoky
   - Character Drink
   - Earther
-  - Secondary
+  - Ensemble
   - Villian
-  - Rocks
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

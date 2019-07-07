@@ -13,12 +13,12 @@ tags:
   - "Difficulty: Medium"
   - Black Rum
   - Bourbon 
+  - Rocks
+  - Tiki
   - Egg White
   - Character Drink
   - Belter 
   - Bit Part
-  - Rocks
-  - Tiki
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

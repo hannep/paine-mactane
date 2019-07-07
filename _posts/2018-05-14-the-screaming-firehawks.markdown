@@ -11,6 +11,8 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/996127240525148162"
 author: Paine×Mactane
 tags: 
   - Difficulty: Easy
+  - Bourbon
+  - Black Rum
   - Shot
   - Easy to Batch
   - Alcohol Optional

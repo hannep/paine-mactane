@@ -12,12 +12,14 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Hard"
   - Mezcal
+  - Coupe
+  - Fruity
+  - Spicy
+  - Smoky
   - Bourbon 
   - Character Drink
   - Belter 
   - Secondary
-  - Coupe
-  - Spicy
   - Expanse Cocktails Project
 ingredients:
   - amount: ½
