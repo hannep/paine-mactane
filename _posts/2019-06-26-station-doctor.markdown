@@ -16,8 +16,9 @@ tags:
   - Coupe
   - Refreshing
   - Fruity
-  - Spring/Summer
   - Shrub
+  - Homemade Ingredient
+  - Spring/Summer
   - Character Drink
   - Belter
   - Bit Part

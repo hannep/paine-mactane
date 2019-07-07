@@ -10,14 +10,15 @@ drink_crop: /assets/images/088-SlingshotClubBookie-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1134683981948043265"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Gold Rum
   - Port
+  - Rock
+  - Sweet
   - Character Drink
-  - Scene Stealers Series
   - Belter
   - Bit Part
-  - Rock
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

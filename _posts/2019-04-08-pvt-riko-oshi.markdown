@@ -31,7 +31,7 @@ ingredients:
     name: hopped grapefruit bitters
   - amount: 1
     unit: dash
-    name: angostura bitters
+    name: Angostura bitters
 
 ---
 

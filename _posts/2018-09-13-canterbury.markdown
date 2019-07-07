@@ -34,7 +34,7 @@ ingredients:
     name: brown créme de cacao
   - amount: 2
     unit: dashes
-    name: angostura bitters
+    name: Angostura bitters
 
 ---
 

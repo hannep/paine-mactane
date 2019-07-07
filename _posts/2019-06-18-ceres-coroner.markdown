@@ -10,15 +10,16 @@ drink_crop: /assets/images/090-CeresCoroner-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1141188678926180353"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Cachaça
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Rocks
   - Refreshing
   - Botanical
+  - Spring/Summer
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
@@ -26,7 +27,7 @@ ingredients:
     name: cachaça
   - amount: ¼
     unit: ounce
-    name: Green Chartreuse
+    name: green Chartreuse
   - amount: ¼
     unit: ounce
     name: lime juice

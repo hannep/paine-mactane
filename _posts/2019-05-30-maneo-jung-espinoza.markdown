@@ -10,15 +10,16 @@ drink_crop: /assets/images/086-ManeoJungEspinoza-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1134277161567891461"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Black Rum
   - Tequila (Plata)
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Shot
   - Spirit-Forward
+  - Homemade Ingredient
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

@@ -45,7 +45,7 @@ ingredients:
     name: cranberry juice
   - amount: 10
     unit: dashes
-    name: angostura bitters
+    name: Angostura bitters
 
 ---
 

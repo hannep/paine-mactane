@@ -32,7 +32,7 @@ ingredients:
     name: grapefruit juice
   - amount: ¾
     unit: ounce
-    name: añejo tequila
+    name: tequila (añejo)
   - amount: ¾
     unit: ounce
     name: velvet falernum
@@ -41,7 +41,7 @@ ingredients:
     name: lime juce
   - amount: 1-2
     unit: dashes
-    name: angostura bitters
+    name: Angostura bitters
 
 ---
 

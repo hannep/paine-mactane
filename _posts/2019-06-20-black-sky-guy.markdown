@@ -10,22 +10,22 @@ drink_crop: /assets/images/091-BlackSkyGuy-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1141753278868414464"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Jamaican Rum
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Shot
   - Spirit-Forward
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: ounces
-    name: jamaican rum
+    name: Jamaican rum
   - amount: ¼
     unit: ounce
-    name: cynar
+    name: Cynar
   - amount: 1
     unit: dash
     name: hopped grapefruit bitters

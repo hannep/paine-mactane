@@ -26,7 +26,7 @@ ingredients:
     name: dark rum
   - amount: 1
     unit: part
-    name: reposado tequila
+    name: tequila (reposado)
   - amount: 1
     unit: dash
     name: Peychaud's bitters

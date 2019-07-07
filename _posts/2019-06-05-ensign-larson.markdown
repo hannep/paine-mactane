@@ -10,16 +10,16 @@ drink_crop: /assets/images/089-EnsignLarson-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1136473189876416513"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - Liqueur
   - Gin
   - Tequila
-  - Character Drink
-  - Scene Stealers Series
-  - Earther
-  - Bit Part
   - Rock
   - Fruity
+  - Character Drink
+  - Earther
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

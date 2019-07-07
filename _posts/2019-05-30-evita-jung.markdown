@@ -10,15 +10,16 @@ drink_crop: /assets/images/087-EvitaJung-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1134277194031751168"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Hard"
   - White Rum
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Pebble Ice
   - Collins
   - Tiki
+  - Homemade Ingredient
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
