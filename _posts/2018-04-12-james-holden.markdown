@@ -13,7 +13,7 @@ tags:
   - "Difficulty: Easy"
   - Overproof Rum
   - Character Drink
-  - Belter
+  - Earther
   - Secondary
   - Shot
   - Spirit-Forward

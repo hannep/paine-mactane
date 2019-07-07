@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1124414553369010176"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Whiskey
+  - Bourbon
   - Character Drink
   - Scene Stealers Series
   - Martian
