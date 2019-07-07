@@ -18,7 +18,7 @@ tags:
   - Bit Part
   - Rock
   - Spirit-Forward
-  - Dessert
+  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

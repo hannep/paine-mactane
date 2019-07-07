@@ -12,13 +12,14 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Non-Alcoholic
-  - Save The Expanse
-  - Protogen
   - Punch Bowl
   - Punch
   - Made to Share
   - Refreshing
   - Alcohol Optional
+  - Non-Alcoholic
+  - Save The Expanse
+  - Protogen
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

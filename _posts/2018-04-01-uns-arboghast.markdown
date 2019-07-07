@@ -1,7 +1,8 @@
 ---
 layout: post
 number: AF1
-name: The Arboghast
+name: UNS Arboghast
+title: UNS Arboghast
 date: 2018-04-01
 short_text: This science vessel was deconstructed by the Protomolecule.
 tweet_text: A science vessel sent to investigate the Eros crash site on Venus.
@@ -25,7 +26,7 @@ ingredients:
     name: Kahlúa
   - amount: 1
     unit: part
-    name: Irish cream
+    name: Irish Cream
   - amount: 1
     unit: part
     name: Grand Marnier

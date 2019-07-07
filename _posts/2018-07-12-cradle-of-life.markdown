@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Champagne
-  - Faction Drink
-  - Earther
   - Champagne Flute
   - Refreshing
   - Easy to Batch
+  - Faction Drink
+  - Earther
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

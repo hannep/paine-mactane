@@ -17,7 +17,7 @@ tags:
   - Bit Part
   - Rocks
   - Fruity
-  - Dessert
+  - After-Dinner
   - Sweet
   - Expanse Cocktails Project
 ingredients:
@@ -26,7 +26,7 @@ ingredients:
     name: cognac
   - amount: 1
     unit: part
-    name: pedro ximénez sherry
+    name: Pedro Ximénez sherry
   - amount: 1
     unit: part
     name: bourbon

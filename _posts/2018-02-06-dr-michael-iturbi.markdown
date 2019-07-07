@@ -17,7 +17,7 @@ tags:
   - Earther
   - Bit Part
   - Cordial
-  - Dessert
+  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 4
@@ -25,7 +25,7 @@ ingredients:
     name: cognac
   - amount: 1
     unit: part
-    name: pedro ximénez sherry
+    name: Pedro Ximénez sherry
   - amount: 1
     unit: part
     name: bourbon

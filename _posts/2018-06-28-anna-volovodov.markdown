@@ -12,13 +12,14 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Vodka
-  - Character Drink
-  - Earther
-  - Ensemble
   - Collins
   - Refreshing
   - Alcohol Optional
+  - Non-Alcoholic
   - Easy to Batch
+  - Character Drink
+  - Earther
+  - Ensemble
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

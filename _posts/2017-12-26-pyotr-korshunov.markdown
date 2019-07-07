@@ -16,7 +16,7 @@ tags:
   - Martian
   - Bit Part
   - Brandy Snifter
-  - Dessert
+  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

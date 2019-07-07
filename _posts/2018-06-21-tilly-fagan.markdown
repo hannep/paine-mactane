@@ -13,12 +13,13 @@ tags:
   - "Difficulty: Hard"
   - Gin
   - Champagne
+  - Cocktail Glass
+  - Tiki
+  - Fruity
+  - Homemade Ingredient
   - Character Drink
   - Earther
   - Secondary
-  - Cocktail Glass
-  - Fruity
-  - Tiki
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

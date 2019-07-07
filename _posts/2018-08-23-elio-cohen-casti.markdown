@@ -12,6 +12,7 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Gin
+  - Botanical
   - Character Drink
   - Earther
   - Secondary

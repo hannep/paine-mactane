@@ -14,7 +14,7 @@ tags:
   - "Difficulty: Easy"
   - Amaretto
   - Coupe
-  - Dessert
+  - After-Dinner
   - Egg White
   - Sweet
   - Fruity

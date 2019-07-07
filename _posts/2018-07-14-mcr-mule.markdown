@@ -13,9 +13,10 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
   - Bourbon
+  - Tumbler
+  - Homemade Ingredient
   - Faction Drink
   - Martian
-  - Tumbler
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 3
     unit: parts
-    name: london dry gin
+    name: London Dry Gin
   - amount: 3
     unit: parts
     name: lillet blanc

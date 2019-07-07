@@ -15,7 +15,7 @@ tags:
   - Bourbon
   - Vodka
   - Nick & Nora
-  - Dessert
+  - After-Dinner
   - Creamy
   - Spring/Summer
   - Character Drink

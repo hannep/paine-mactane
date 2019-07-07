@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Tequila (Plata)
+  - Rocks
+  - Sour
+  - Refreshing
   - Character Drink
   - Earther
   - Secondary
-  - Rocks
-  - Refreshing
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

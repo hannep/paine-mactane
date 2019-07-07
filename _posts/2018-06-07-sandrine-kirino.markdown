@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Rye
+  - Nick & Nora
+  - Spirit-Forward
   - Character Drink
   - Martian
   - Bit Part
-  - Nick & Nora
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

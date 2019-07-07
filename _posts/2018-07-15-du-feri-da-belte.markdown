@@ -13,12 +13,14 @@ tags:
   - "Difficulty: Medium"
   - Black Rum
   - Bourbon
-  - Faction Drink
-  - Belter
   - Rocks
   - Spirit-Forward
   - Easy to Batch
   - Spicy
+  - Smoky
+  - Homemade Ingredient
+  - Faction Drink
+  - Belter
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
@@ -38,7 +40,7 @@ ingredients:
 
 The Outer Planets Alliance is a loosely organized group of factions that come from all across the Asteroid Belt and the gas giants’ satellites. Its members range from peaceful progressives to nihilist anarchists, but all agree that the Belt must have freedom from the Inner Planets.
 
-This drink, with its combination of sweetness and fiery kick, has become a favorite at parties and the Belter Bar [link].
+This drink, with its combination of sweetness and fiery kick, has become a favorite at parties and the [Belter Bar](http://twitter.com/BelterBar).
 
 It's easy to modulate the level of heat in each individual drink by using a combination of plain black rum and infused black rum.
 

@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Genever
+  - Coupe
+  - Botanical
+  - Spring/Summer
   - Character Drink
   - Belter
   - Ensemble
-  - Coupe
-  - Botanical
   - Expanse Cocktails Project
 ingredients:
   - amount: 6

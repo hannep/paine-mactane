@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Bourbon
+  - Rock
+  - Spirit-Forward
+  - Homemade Ingredient
   - Character Drink
   - Belter
   - Main
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

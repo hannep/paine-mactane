@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Overproof Gold Rum
+  - Shot
+  - Spirit-Forward
   - Character Drink
   - Martian
   - Bit Part
-  - Shot
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 3
