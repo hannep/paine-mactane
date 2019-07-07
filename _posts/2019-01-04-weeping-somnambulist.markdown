@@ -13,10 +13,10 @@ tags:
   - "Difficulty: Medium"
   - Black Rum
   - Gold Rum
+  - Rock
   - Ship Drink
   - Belter
   - Freighter
-  - Rock
   - Expanse Cocktails Project
 ingredients:
   - amount: ¾

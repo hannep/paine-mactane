@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Rye
+  - Coupe
+  - Spirit-Forward
+  - Food Science
   - Ship Drink
   - Protogen
   - Stealth Ship
-  - Coupe
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

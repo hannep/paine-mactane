@@ -13,13 +13,15 @@ tags:
   - "Difficulty: Medium"
   - Bourbon
   - Rum
-  - Special Firehawks Drink
   - Teacup
   - Punch Bowl
   - Punch
+  - Fruity
   - Made to Share
   - Easy to Batch
+  - Homemade Ingredient
   - Fall/Winter
+  - Special Firehawks Drink
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

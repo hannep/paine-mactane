@@ -12,10 +12,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Black Rum
+  - Rock
+  - Homemade Ingredient
   - Ship Drink
   - Belter
   - Rockhopper
-  - Rock
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

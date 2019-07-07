@@ -1,6 +1,7 @@
 ---
 layout: post
 number: 45
+title: MCR Mule
 name: MCR Mule
 date: 2018-07-14
 short_text: Mars's people are uniquely unified in their common goal. 

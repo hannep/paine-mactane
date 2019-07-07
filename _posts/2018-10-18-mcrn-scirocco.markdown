@@ -2,6 +2,7 @@
 layout: post
 number: 59
 name: MCRN Scirocco
+title: MCRN Scirocco
 date: 2018-10-18
 short_text: Assigned to difficult, isolated duties on the brink of war. 
 tweet_text: The Martian assault cruiser Bobbie and her squad served on, which was involved in the Ganymede Incident that increased tensions between Earth and Mars.
@@ -13,10 +14,11 @@ tags:
   - "Difficulty: Easy"
   - Rye
   - Cider
+  - Rock
+  - Fall/Winter
   - Ship Drink
   - Martian
   - Assault Cruiser
-  - Rock
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

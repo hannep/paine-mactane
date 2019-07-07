@@ -27,7 +27,7 @@ ingredients:
     name: elderflower liqueur
   - amount: 1
     unit: part
-    name: green chartreuse
+    name: green Chartreuse
   - amount: 1
     unit: dash
     name: lime juice

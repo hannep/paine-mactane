@@ -12,12 +12,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Gold Rum
+  - Rock
+  - Spirit-Forward
   - Ship Drink
   - Belter
   - Ice Hauler
   - Colony Ship
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

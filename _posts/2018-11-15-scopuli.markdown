@@ -12,10 +12,10 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Hard"
   - Cachaça
+  - Coupe
   - Ship Drink
   - Belter
   - Cargo Freighter
-  - Coupe
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

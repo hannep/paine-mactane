@@ -12,12 +12,14 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Escubac
-  - Ship Drink
-  - Unafiliated
-  - Medical Relief Ship
   - Cordial Glass
   - Sweet
   - Hot Drink
+  - Homemade Ingredient
+  - Fall/Winter
+  - Ship Drink
+  - Unafiliated
+  - Medical Relief Ship
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

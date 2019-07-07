@@ -2,6 +2,7 @@
 layout: post
 number: 56
 name: UNN Seung Un
+title: UNN Seung Un
 date: 2018-09-27
 short_text: An aging, weak support ship, whose repair issues present an opportunity for trouble. 
 tweet_text: An aging and balky support ship assigned to the fleet investigating the Ring. Its low security is a boon to an undercover civilian with a grudge.
@@ -12,11 +13,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Genever
+  - Coupe
+  - Sweet
+  - Fall/Winter
   - Ship Drink
   - Earther
   - Support Ship
-  - Coupe
-  - Sweet
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

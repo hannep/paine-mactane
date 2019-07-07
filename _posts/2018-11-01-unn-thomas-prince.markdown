@@ -2,6 +2,7 @@
 layout: post
 number: 61
 name: UNN Thomas Prince
+title: UNN Thomas Prince
 date: 2018-11-01
 short_text: Flagship of Earth's cultural, scientific, and religious expedition to the Ring.
 tweet_text: The dreadnought that headed Earth's cultural, scientific, and religious expedition to the Ring, carrying Anna Volovodov and Tilly Fagan.
@@ -12,16 +13,17 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Gin
+  - Coupe
+  - Egg White
+  - Homemade Ingredient
   - Ship Drink
   - Earther
   - Dreadnought
-  - Coup
-  - Egg White
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: ounces
-    name: chamomile-infused black rum
+    name: chamomile-infused London Dry gin
   - amount: ¾
     unit: ounce
     name: lemon juice

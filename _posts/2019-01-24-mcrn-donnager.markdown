@@ -2,6 +2,7 @@
 layout: post
 number: 71
 name: MCRN Donnager
+title: MCRN Donnager
 date: 2019-01-24
 short_text: "\"I didn't think we could lose.\"" 
 tweet_text: The pride of the Martian Navy, the dreadnought that captured the Knight and its crew, but then freed them to clear Mars' name regarding the Canterbury's destruction.
@@ -12,11 +13,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Rye
+  - Rock
+  - Spirit-Forward
   - Ship Drink
   - Martian
   - Dreadnought
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

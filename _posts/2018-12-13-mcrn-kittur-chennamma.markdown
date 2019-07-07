@@ -2,6 +2,7 @@
 layout: post
 number: 67
 name: MCRN Kittur Chennamma
+title: MCRN Kittur Chennamma
 date: 2018-12-13
 short_text: Disabled quickly in conflict, but repaired to deliver an important message. 
 tweet_text: The Martian destroyer disabled by UN forces that the Roci scavenged for supplies, and then sent back to the Martian navy with a critical message for Admiral Souther.
@@ -12,12 +13,13 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Rye
-  - Ship Drink
-  - Martian
-  - Destroyer
   - Rock
   - Spirit-Forward
   - Sweet
+  - Fall/Winter
+  - Ship Drink
+  - Martian
+  - Destroyer
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

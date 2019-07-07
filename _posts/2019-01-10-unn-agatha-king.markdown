@@ -2,6 +2,7 @@
 layout: post
 number: 69
 name: UNN Agatha King
+title: UNN Agatha King
 date: 2019-01-10
 short_text: Even a U.N. flagship can't repel weaponized Protomolecule. 
 tweet_text: The Jupiter fleet flagship that Admiral Souther respected, despite her electrical problems, when reassigned there after his departure form the Joint Chiefs.
@@ -12,11 +13,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Hard"
   - Pisco
+  - Coupe
+  - Fruity
+  - Homemade Ingredient
   - Ship Drink
   - Earther
   - Dreadnought
-  - Coupe
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

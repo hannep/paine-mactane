@@ -2,6 +2,7 @@
 layout: post
 number: 65
 name: OPAS Behemoth
+title: OPAS Behemoth
 date: 2018-11-29
 short_text: The OPA's first official battleship, of questionable legality.
 tweet_text: The generation ship built by Tycho under contract to the Mormon church for a mission to a nearby star, and the OPA dreadnought it was transformed into.
@@ -13,11 +14,13 @@ tags:
   - "Difficulty: Hard"
   - Overproof Rum
   - Gold Rum
+  - Jello Shot
+  - Fruity
+  - Homemade Ingredient
+  - Food Science
   - Ship Drink
   - Belter
   - Dreadnought
-  - Jello Shot
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

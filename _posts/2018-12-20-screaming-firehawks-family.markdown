@@ -12,7 +12,6 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Wine
-  - Special Firehawks Drink
   - Irish Coffee Glass
   - Punch
   - Fruity
@@ -20,7 +19,9 @@ tags:
   - Made to Share
   - Easy to Batch
   - Hot Drink
+  - Homemade Ingredient
   - Fall/Winter
+  - Special Firehawks Drink
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

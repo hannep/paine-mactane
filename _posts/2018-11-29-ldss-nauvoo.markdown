@@ -11,13 +11,15 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1068423482537582592"
 author: Paine×Mactane
 tags:
   - "Difficulty: Hard"
+  - Jello Shot
+  - Non-Alcoholic
+  - Fruity
+  - Homemade Ingredient
+  - Food Science
   - Ship Drink
   - Earther
   - Colony Ship
   - Generation Ship
-  - Jello Shot
-  - Non-Alcoholic
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

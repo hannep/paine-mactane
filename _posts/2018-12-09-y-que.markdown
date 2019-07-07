@@ -13,12 +13,14 @@ tags:
   - "Difficulty: Easy"
   - Mezcal
   - Gold Rum
+  - Coupe
+  - Tiki
+  - Fruity
+  - Smoky
   - Ship Drink
   - Belter
   - Slingshotter
   - Racer
-  - Coupe
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

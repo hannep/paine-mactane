@@ -2,6 +2,7 @@
 layout: post
 number: 55
 name: MCRN Hammurabi
+title: MCRN Hammurabi
 date: 2018-09-20
 short_text: Commanded by wise, restrained Captain Kirino. 
 tweet_text: The Martian cruiser whose commander knows enough to let her enemies fight amongst themselves instead of engaging them.
@@ -12,11 +13,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
   - Bourbon
+  - Rocks
+  - Refreshing
   - Ship Drink
   - Martian
   - Assault Cruiser
-  - Rocks
-  - Refreshing
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

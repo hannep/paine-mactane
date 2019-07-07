@@ -11,12 +11,13 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1050504568717611008"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Overproof Rum
-  - Ship Drink
-  - Mao-Kwikowski
-  - Racing Pinnace, Racer
+  - Overproof White Rum
   - Shot
   - Spirit-Forward
+  - Ship Drink
+  - Mao-Kwikowski
+  - Racing Pinnace
+  - Racer
   - Expanse Cocktails Project
 ingredients:
   - amount: ½

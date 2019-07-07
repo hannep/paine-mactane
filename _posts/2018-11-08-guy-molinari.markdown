@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - White Rum
+  - Rocks
+  - Tiki
   - Ship Drink
   - Belter
   - Cargo Freighter
-  - Rocks
-  - Tiki
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
