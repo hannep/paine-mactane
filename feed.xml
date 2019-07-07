@@ -6,8 +6,8 @@
 </description>
     <link>https://www.painemactane.com</link>
     <atom:link href="https://www.painemactane.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 17:35:10 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 17:35:10 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2019 17:35:39 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 17:35:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -85,6 +85,10 @@
         &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
       &lt;/li&gt;
     
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/sour&quot;&gt;Sour&lt;/a&gt;
+      &lt;/li&gt;
+    
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
@@ -109,6 +113,8 @@
         <category>Expanse Cocktails Project</category>
         
         <category>Sweet</category>
+        
+        <category>Sour</category>
         
         
       </item>
