@@ -7,7 +7,7 @@ short_text: Her screen time is short, but she makes an impression on Holden and 
 tweet_text: The Cant's navigator. In just a few scenes, [@Kristen_Hager](https://twitter.com/Kristen_Hager) makes the character 3-dimensional by voicing real concerns with a nonchalant mask, showing us why Holden cares about her and why we should.
 hero: /assets/images/084-AdeNygaard-card.jpg
 drink_crop: /assets/images/084-AdeNygaard-drink.jpg
-twitter_url: "https://twitter.com/Paine_MacTane/status/1120801309970583552"
+twitter_url: "https://twitter.com/Paine_MacTane/status/1121523690653483015"
 author: Paine×Mactane
 tags:
   - "Difficulty: Medium"
