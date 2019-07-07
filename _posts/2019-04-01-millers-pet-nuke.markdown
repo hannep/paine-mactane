@@ -10,17 +10,17 @@ drink_crop: /assets/images/AF-6-MillersPetNuke-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1112947081587691520"
 author: Paine×Mactane
 tags:
+  - April Fool's
   - "Difficulty: Medium"
   - Bourbon
   - Rum
-  - Character Drink
-  - April Fool's
-  - Belter
-  - Bit Part
   - Can
+  - Spirit-Forward
   - Fruity
   - Spicy
-  - Spirit-Forward
+  - Homemade Ingredient
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

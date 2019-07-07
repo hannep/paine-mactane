@@ -10,16 +10,17 @@ drink_crop: /assets/images/084-AdeNygaard-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1121523690653483015"
 author: Paine×Mactane
 tags:
-  - "Difficulty: Medium"
-  - Vodka
-  - Bourbon
-  - Character Drink
   - Scene Stealers Series
-  - Earther
-  - Bit Part
+  - "Difficulty: Medium"
+  - Bourbon
+  - Vodka
   - Nick & Nora
   - Dessert
   - Creamy
+  - Spring/Summer
+  - Character Drink
+  - Earther
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

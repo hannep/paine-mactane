@@ -10,14 +10,14 @@ drink_crop: /assets/images/AF-4-McDowellsPetCatStatues-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1112851684206706689"
 author: Paine×Mactane
 tags:
+  - April Fool's
   - "Difficulty: Medium"
   - Gin
-  - Character Drink
-  - April Fool's
-  - Earther
-  - Bit Part
+  - Limoncello
   - Nick & Nora
   - Botanical
+  - Earther
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

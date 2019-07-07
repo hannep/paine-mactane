@@ -31,7 +31,7 @@ ingredients:
     name: egg white
   - amount: ½
     unit: ounce
-    name: luxardo syrup
+    name: Luxardo cherry syrup
   - amount: ¼
     unit: ounce
     name: lemon juice

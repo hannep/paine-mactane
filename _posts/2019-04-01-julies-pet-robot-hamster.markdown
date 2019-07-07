@@ -10,15 +10,14 @@ drink_crop: /assets/images/AF-5-JuliesPetRobotHamster-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1112862793005522945"
 author: Paine×Mactane
 tags:
+  - April Fool's
   - "Difficulty: Easy"
   - Vodka
   - Spiced Rum
-  - Character Drink
-  - April Fool's
-  - Belter
-  - Bit Part
   - Coupe
   - Fruity
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

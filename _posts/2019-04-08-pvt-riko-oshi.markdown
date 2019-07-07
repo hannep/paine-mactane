@@ -10,14 +10,14 @@ drink_crop: /assets/images/081-PvtRikoOshi-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1115393537087029248"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Rye
-  - Character Drink
-  - Scene Stealers Series
-  - Martian
-  - Bit Part
   - Rock
   - Spirit-Forward
+  - Character Drink
+  - Martian
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

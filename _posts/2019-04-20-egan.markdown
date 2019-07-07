@@ -10,15 +10,16 @@ drink_crop: /assets/images/082-Egan-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1119771207233097733"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Jamaican rum
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Rock
   - Tiki
   - Spicy
+  - Spring/Summer
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

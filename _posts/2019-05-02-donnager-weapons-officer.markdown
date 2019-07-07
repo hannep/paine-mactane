@@ -10,14 +10,15 @@ drink_crop: /assets/images/085-DonnagerWeaponsOfficer-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1124414553369010176"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Bourbon
-  - Character Drink
-  - Scene Stealers Series
-  - Martian
-  - Bit Part
   - Cocktail Glass
   - Spirit-Forward
+  - Smoky
+  - Character Drink
+  - Martian
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
