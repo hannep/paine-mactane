@@ -34,7 +34,7 @@ ingredients:
 
 ---
 
-The flagship of Mars’ Jupiter fleet, the MCRN Donnager was a dreadnought half a kilometer long and the pinnacle of Martian military technology and power. After taking the Knight aboard in the aftermath of the Canterbury’s destruction, it was attacked by Protogen stealth ships, and Captain Theresa Yao scuttled the ship to keep it out of hostile hands. 
+The flagship of Mars’ Jupiter fleet, the MCRN *Donnager* was a dreadnought half a kilometer long and the pinnacle of Martian military technology and power. After taking the Knight aboard in the aftermath of the Canterbury’s destruction, it was attacked by Protogen stealth ships, and Captain Theresa Yao scuttled the ship to keep it out of hostile hands. 
 
 This drink shares its Fernet with its indomitable captain, [Theresa Yao](/cocktails/2017/10/03/theresa-yao.). 
 
