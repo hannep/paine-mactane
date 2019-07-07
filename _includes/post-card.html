@@ -6,7 +6,7 @@
       </figure>
     {% endif %}
     <div>
-      <h2 class="posts__text"><strong itemprop="name">#{{post.number}} {{ post.name }}</strong> — {{post.short_text}}</h2>
+      <h2 class="posts__text"><strong itemprop="name">#{{post.number}} {{ post.name }}</strong> — {{post.short_text | markdownify }}</h2>
     </div>
   </a>
 </article>

@@ -12,16 +12,18 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Champagne
+  - Gin (London Dry)
+  - Flute
+  - Refreshing
+  - Easy to Batch
   - Character Drink
   - Belter
   - Secondary
-  - Flute
-  - Easy to Batch
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part
-    name: gin
+    name: London Dry Gin
   - amount: 1
     unit: part
     name: pear brandy

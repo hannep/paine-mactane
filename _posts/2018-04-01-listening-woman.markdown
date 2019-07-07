@@ -10,14 +10,15 @@ drink_crop: /assets/images/AF2-ListeningWoman-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/980576514248003590"
 author: Paine×Mactane
 tags: 
+  - April Fool's
   - "Difficulty: Easy"
   - Gold Rum
+  - Cocktail Glass
+  - Tiki
+  - Fruity
   - Character Drink
-  - April Fool's
   - Belter
   - Bit Part
-  - Cocktail Glass
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

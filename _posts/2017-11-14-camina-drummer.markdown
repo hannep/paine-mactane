@@ -12,11 +12,13 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
   - Tequila (Blanco)
+  - Coupe
+  - Fruity
+  - Sour
+  - Spring/Summer
   - Character Drink
   - Belter
   - Ensemble
-  - Coupe
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

@@ -45,7 +45,7 @@ We started thinking about the drinks someone might drink in their first apartmen
 
 To the basic Screwdriver (with fresh OJ, natch), we added a rum float. Rum is often connected to the Belt and the OPA in our drinks, because of its great diversity of varieties and flavors (like the Belt), and its cultural connections to colonialism, adventure, and the open sea.
 
-The word for liquor or alcohol in Lang Belta is "rowm", suggesting that rum is a central or primary liquor in the Belt. Plus, OPA big-shot Anderson Dawes orders dark rum at a bar in one of his earliest appearances, strengthening that connection.
+The word for liquor or alcohol in Lang Belta is "rowm", suggesting that rum is a central or primary liquor in the Belt. Plus, OPA big-shot Anderson Dawes orders "dark rum" at a bar in one of his earliest appearances, strengthening that connection.
 
 At this point, we'd worked with The Robot Hamster as part of Julie's lonely, spare Ceres hole, rented for her new life as an OPA operative. The Robot Hamster's second function was as a secret stash for very dangerous Protogen data. We wanted something in the drink to be hidden or not as it seemed.
 

@@ -11,11 +11,11 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/994014434082410496"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Gin
-  - Book Drink
-  - Earther
+  - Gin (London Dry)
   - Rocks
   - Refreshing
+  - Book Drink
+  - Earther
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

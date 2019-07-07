@@ -10,20 +10,20 @@ drink_crop: /assets/images/AF3-AngryDockworker-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/980609982868721665"
 author: Paine×Mactane
 tags: 
+  - April Fool's
   - "Difficulty: Easy"
   - Black Rum
   - Tequila (Reposado)
-  - Character Drink
-  - April Fool's
-  - Belter
-  - Bit Part
   - Shot
   - Spirit-Forward
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part
-    name: dark rum
+    name: black rum
   - amount: 1
     unit: part
     name: tequila (reposado)

@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Rye
+  - Rock
+  - Spirit-Forward
   - Character Drink
   - Martian
   - Secondary
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

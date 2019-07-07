@@ -11,13 +11,13 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/984458898127155200"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Overproof Rum
+  - Bourbon
+  - Rock
+  - After-Dinner
+  - Sweet
   - Character Drink
   - Earther
-  - Secondary
-  - Shot
-  - Spirit-Forward
-  - Spicy
+  - Main
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

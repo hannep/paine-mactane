@@ -13,12 +13,13 @@ tags:
   - "Difficulty: Easy"
   - Gold Rum
   - Liqueur
+  - Rock
+  - Spirit-Forward
+  - Sweet
+  - After-Dinner
   - Character Drink
   - Earther
   - Bit Part
-  - Rock
-  - Spirit-Forward
-  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

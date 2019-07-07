@@ -12,12 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Bourbon
-  - Dark Rum
+  - Rocks
+  - Sour
   - Character Drink
   - Earther
   - Secondary
-  - Rocks
-  - Sour
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

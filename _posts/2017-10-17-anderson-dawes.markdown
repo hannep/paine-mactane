@@ -13,11 +13,11 @@ tags:
   - "Difficulty: Easy"
   - Bourbon
   - Gold Rum
+  - Shot
+  - Spirit-Forward
   - Character Drink
   - Belter
   - Ensemble
-  - Shot
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

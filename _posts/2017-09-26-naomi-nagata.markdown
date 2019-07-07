@@ -11,14 +11,15 @@ drink_crop: /assets/images/004-NaomiNagata-drink.jpg
 author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
-  - Gin
-  - Character Drink
-  - Belter
-  - Main
+  - Gin (London Dry)
   - Collins
+  - Pebble Ice
   - Low Alcohol
   - Refreshing
   - Easy to Batch
+  - Character Drink
+  - Belter
+  - Main
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

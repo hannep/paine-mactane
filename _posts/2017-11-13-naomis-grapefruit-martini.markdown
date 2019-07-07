@@ -13,10 +13,11 @@ tags:
   - "Difficulty: Medium"
   - Vodka
   - Liqueur
-  - Book Drink
-  - Belter
   - Cocktail Glass
   - Fruity
+  - Sweet
+  - Book Drink
+  - Belter
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

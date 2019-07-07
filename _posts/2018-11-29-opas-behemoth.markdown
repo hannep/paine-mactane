@@ -16,6 +16,7 @@ tags:
   - Gold Rum
   - Jello Shot
   - Fruity
+  - Egg White
   - Homemade Ingredient
   - Food Science
   - Ship Drink

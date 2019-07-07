@@ -12,14 +12,15 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
   - Tequila (Reposado)
+  - Coupe
+  - Fruity
+  - Egg White
+  - Spicy
+  - Smoky
+  - Homemade Ingredient
   - Character Drink
   - Martian
   - Secondary
-  - Coupe
-  - Foam
-  - Fruity
-  - Spicy
-  - Egg White
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

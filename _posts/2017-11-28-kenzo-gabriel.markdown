@@ -12,13 +12,14 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
   - Vodka
+  - Coupe
+  - Spirit-Forward
+  - Fruity
+  - Egg White
   - Character Drink
   - Belter
   - Bit Part
   - Villian
-  - Coupe
-  - Spirit-Forward
-  - Egg White
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

@@ -11,14 +11,14 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/976866008450457600"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Medium"
-  - Gin
+  - Vodka
+  - Rocks
+  - Egg White
+  - Sour
   - Character Drink
   - Martian
   - Bit Part
   - Villian
-  - Rocks
-  - Egg White
-  - Sour
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

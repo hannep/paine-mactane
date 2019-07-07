@@ -12,12 +12,12 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Sherry
-  - Character Drink
-  - Villian
-  - Protogen
-  - Bit Part
   - Coupe
   - Bitter
+  - Character Drink
+  - Protogen
+  - Bit Part
+  - Villian
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

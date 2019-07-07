@@ -12,6 +12,7 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Champagne
+  - Gin (New World)
   - Champagne Flute
   - Refreshing
   - Easy to Batch
@@ -21,7 +22,7 @@ tags:
 ingredients:
   - amount: 3
     unit: parts
-    name: new world gin
+    name: New World Gin
   - amount: 2
     unit: parts
     name: elderflower liqueur
