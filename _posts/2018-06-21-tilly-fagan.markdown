@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1009862613201752066"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Hard"
-  - Gin
+  - Gin (London Dry)
   - Champagne
   - Cocktail Glass
   - Tiki
@@ -24,7 +24,7 @@ tags:
 ingredients:
   - amount: 2
     unit: parts
-    name: gin
+    name: London Dry Gin
   - amount: 1
     unit: part
     name: passionfruit liqueur

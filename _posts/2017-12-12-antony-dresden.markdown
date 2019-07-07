@@ -11,18 +11,19 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/940633816711954432"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Gin
+  - Gin (New World)
+  - Cocktail Glass
+  - Spirit-Forward
+  - Smoky
   - Character Drink
   - Protogen
   - Bit Part
   - Villian
-  - Cocktail Glass
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 5
     unit: parts
-    name: gin
+    name: New World Gin
   - amount: 1
     unit: part
     name: mezcal (joven)

@@ -25,7 +25,7 @@ ingredients:
     name: rice soju
   - amount: ¼
     unit: ounce
-    name: new world gin
+    name: New World gin
   - amount: ¼
     unit: ounce
     name: apricot liqueur

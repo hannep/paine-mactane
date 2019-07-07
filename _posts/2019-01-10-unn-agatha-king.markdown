@@ -41,7 +41,7 @@ ingredients:
     name: rich simple syrup
   - amount: ½
     unit: ounce
-    name: butterfly pea flower-infused gin (recipe below)
+    name: butterfly pea flower-infused New World Gin (recipe below)
 
 ---
 
@@ -51,7 +51,7 @@ This cocktail pulls in various directions, as befits a ship that was the site of
 
 "Rich" simple syrup means a 2:1 mixture of sugar and water instead of the standard 1:1. If you only have pre-mixed, standard-weight simple syrup, you can just use ¼ oz instead. It might make floating the flower-infused gin a bit harder, is all.
 
-The gin is because it's a UNN vessel, as per our usual theme, but we went for a New World gin instead of London dry - partly for flavor mixing (it just blended better with the other ingredients), and partly because Nguyễn isn't really quite loyal UNN anymore.
+The gin is because it's a UNN vessel, as per our usual theme, but we went for a New World Gin instead of London dry - partly for flavor mixing (it just blended better with the other ingredients), and partly because Nguyễn isn't really quite loyal UNN anymore.
 
 The umeshu is a fun ingredient! It's an interesting blend of sour and sweet. You can find it in Japanese or Chinese stores, or well-stocked liquor stores.
 
@@ -59,7 +59,7 @@ The umeshu is a fun ingredient! It's an interesting blend of sour and sweet. You
 
 #### Instructions:
 
-<strong>Butterfly Pea Flower-Infused Gin:</strong> Infuse ½ cup (10g) dried butterfly pea flowers in 1 cup gin for 5 minutes.
+<strong>Butterfly Pea Flower-Infused Gin:</strong> Infuse ½ cup (10g) dried butterfly pea flowers in 1 cup New World Gin for 5 minutes.
 
 <strong>Cocktail:</strong> Pour the first 6 ingredients into a mixing glass and stir with ice until cold. Strain into a coupe. Pouring over the back of a spoon, float the pea flower-infused gin on top.
 

@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1002372704182374401"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Gin
+  - Gin (New World)
   - Rock
   - Spirit-Forward
   - Homemade Ingredient
@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 3
     unit: parts
-    name: gin
+    name: New World Gin
   - amount: 1
     unit: part
     name: Searching Syrup

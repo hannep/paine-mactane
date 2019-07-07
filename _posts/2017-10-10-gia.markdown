@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 1
     unit: part
-    name: gin
+    name: London Dry Gin
   - amount: 1
     unit: part
     name: pear brandy

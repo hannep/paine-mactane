@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1032741464776658944"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Gin
+  - Gin (Hendrick's)
   - Botanical
   - Character Drink
   - Earther

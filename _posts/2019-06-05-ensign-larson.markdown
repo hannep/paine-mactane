@@ -13,7 +13,7 @@ tags:
   - Scene Stealers Series
   - "Difficulty: Medium"
   - Liqueur
-  - Gin
+  - Gin (New World)
   - Tequila
   - Rock
   - Fruity
@@ -30,7 +30,7 @@ ingredients:
     name: grapefruit juice
   - amount: ½
     unit: ounce
-    name: new world gin
+    name: New World Gin
   - amount: ½
     unit: ounce
     name: tequila (plata)

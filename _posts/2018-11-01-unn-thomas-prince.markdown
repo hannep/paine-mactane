@@ -12,7 +12,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/1058170468388294656"
 author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
-  - Gin
+  - Gin (London Dry)
   - Coupe
   - Egg White
   - Homemade Ingredient
@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 2
     unit: ounces
-    name: chamomile-infused London Dry gin
+    name: chamomile-infused London Dry Gin
   - amount: ¾
     unit: ounce
     name: lemon juice

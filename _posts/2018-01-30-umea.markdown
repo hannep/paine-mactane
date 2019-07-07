@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 5
     unit: parts
-    name: new world gin
+    name: New World Gin
   - amount: 1
     unit: part
     name: Bénédictine

@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/989625908683255809"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Gin
+  - Gin (New World)
   - Nick & Nora
   - Character Drink
   - Earther
@@ -21,7 +21,7 @@ tags:
 ingredients:
   - amount: 6
     unit: parts
-    name: new world gin
+    name: New World Gin
   - amount: 1
     unit: part
     name: white créme de menthe

@@ -11,7 +11,7 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/997128747953414144"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Gin
+  - Gin (London Dry)
   - Rocks
   - Refreshing
   - Character Drink

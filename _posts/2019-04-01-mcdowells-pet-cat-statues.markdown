@@ -12,7 +12,7 @@ author: Paine×Mactane
 tags:
   - April Fool's
   - "Difficulty: Medium"
-  - Gin
+  - Gin (Islay Dry)
   - Limoncello
   - Nick & Nora
   - Botanical
@@ -22,7 +22,7 @@ tags:
 ingredients:
   - amount: 1
     unit: ounce
-    name: Islay dry gin
+    name: Islay Dry Gin
   - amount: 1
     unit: ounce
     name: limoncello
