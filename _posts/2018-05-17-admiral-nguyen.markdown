@@ -12,10 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Gin
+  - Rocks
+  - Refreshing
   - Character Drink
   - Earther
   - Bit Part
-  - Rocks
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

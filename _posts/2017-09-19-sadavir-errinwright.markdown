@@ -38,7 +38,7 @@ ingredients:
 
 UN Undersecretary Sadavir Errinwright is smooth enough to glide through the highest echelons of power without anyone detecting his covert schemes and hidden alliances. His political acumen is a great asset to Earth’s diplomatic power in the Solar System. Beneath his cultured exterior is a ruthless and calculating mind capable of throwing away innocent lives for Earth’s benefit — or his own. 
 
-We started off with the idea of a Manhattan (home of the UN) with some international influences. Errinwright enjoys a lot of Scotch on The Expanse, including infamous 107-year mystery whisky. We wanted something subtle, like him. From a Scotch/Japanese (often very similar!) whisky plus cognac base, we added the Carpano Antica as an interesting vermouth take. The garnish is intended to highlight the fruit notes of the cognac. Initially we were looking at a fairly standard orange peel, but we found that the orange overwhelmed the drink. The pear is delicate and elegant, subtle like Errinwright himself, and worked perfectly. 
+We started off with the idea of a Manhattan (home of the UN) with some international influences. Errinwright enjoys a lot of Scotch on The Expanse, including infamous 107-year mystery whisky. We wanted something subtle, like him. From a Scotch/Japanese (often very similar!) whisky plus Cognac base, we added the Carpano Antica as an interesting vermouth take. The garnish is intended to highlight the fruit notes of the Cognac. Initially we were looking at a fairly standard orange peel, but we found that the orange overwhelmed the drink. The pear is delicate and elegant, subtle like Errinwright himself, and worked perfectly. 
 
 It was also fun to stab. 
 

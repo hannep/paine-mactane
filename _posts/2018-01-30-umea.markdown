@@ -11,13 +11,14 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/958383198282637312"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - New World Gin
+  - Gin (New World)
+  - Rock
+  - Sour
+  - Fall/Winter
   - Character Drink
   - Protogen
   - Bit Part
   - Villian
-  - Rock
-  - Sour
   - Expanse Cocktails Project
 ingredients:
   - amount: 5

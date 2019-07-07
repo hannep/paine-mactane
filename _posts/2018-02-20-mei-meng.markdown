@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 4
     unit: parts
-    name: cognac
+    name: Cognac
   - amount: 1
     unit: part
     name: Pedro Ximénez sherry

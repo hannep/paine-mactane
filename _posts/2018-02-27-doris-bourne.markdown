@@ -13,12 +13,13 @@ tags:
   - "Difficulty: Easy"
   - Champagne
   - Liqueur
+  - Coupe
+  - Refreshing
+  - Fruity
+  - Spicy
   - Character Drink
   - Belter
   - Bit Part
-  - Coupe
-  - Fruity
-  - Refreshing
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

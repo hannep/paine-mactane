@@ -12,16 +12,16 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Cognac
+  - Brandy Snifter
+  - After-Dinner
   - Character Drink
   - Martian
   - Bit Part
-  - Brandy Snifter
-  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 2
     unit: parts
-    name: cognac
+    name: Cognac
   - amount: 1
     unit: part
     name: muddled blackberries
@@ -45,7 +45,7 @@ Korshunov is elegant, self-aware, and well-spoken, so we used Cognac and a confi
 
 However, Korshunov is still a tough, realistic negotiator, so the Averna brought strength, balance, and a little bitterness to the drink.
 
-While making this, we pondered whether to include Scotch. There was some debate over how appropriate it would be, given Errinwright's gift to him. But always remember that the poison was never in the Scotch, it was on the opera program! In the end, cognac worked better.
+While making this, we pondered whether to include Scotch. There was some debate over how appropriate it would be, given Errinwright's gift to him. But always remember that the poison was never in the Scotch, it was on the opera program! In the end, Cognac worked better.
 
 Note: We found that 7 blackberries roughly equals 1 ounce of muddled result, though it will naturally depend slightly on the size of your blackberries.
 

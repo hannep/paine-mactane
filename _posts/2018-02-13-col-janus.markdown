@@ -12,10 +12,10 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Pisco
+  - Rocks
   - Character Drink
   - Earther
   - Bit Part
-  - Rocks
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

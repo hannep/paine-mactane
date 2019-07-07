@@ -14,6 +14,7 @@ tags:
   - Jello Shot
   - Non-Alcoholic
   - Fruity
+  - Egg White
   - Homemade Ingredient
   - Food Science
   - Ship Drink

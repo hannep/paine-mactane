@@ -12,11 +12,13 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Gin
+  - Rock
+  - Spirit-Forward
+  - Homemade Ingredient
+  - Food Science
   - Character Drink
   - Protomolecule
   - Secondary
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

@@ -13,11 +13,11 @@ tags:
   - "Difficulty: Easy"
   - Brandy
   - Liqueur
+  - Coupe
+  - Sweet
   - Character Drink
   - Earther
   - Bit Part
-  - Coupe
-  - Sweet
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

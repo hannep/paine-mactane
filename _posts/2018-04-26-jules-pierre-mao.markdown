@@ -12,11 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Gin
+  - Nick & Nora
   - Character Drink
   - Earther
   - Secondary
   - Villian
-  - Nick & Nora
   - Expanse Cocktails Project
 ingredients:
   - amount: 6
@@ -27,7 +27,7 @@ ingredients:
     name: white créme de menthe
   - amount: 1
     unit: part
-    name: cognac
+    name: Cognac
   - amount: 1
     unit: part
     name: Fernet
@@ -36,7 +36,7 @@ ingredients:
 
 Director of the Mao-Kwikowski mega-corp, Jules-Pierre Mao is rich, powerful, and cold as ice, barely batting an eye even when his own daughter is killed by his secret protomolecule project. He hardly balks at Dr. Strickland’s plans to mutate innocent children into fighting hybrids.
 
-For this drink, we wanted to start with something luxurious and beautiful, and add a sense of fear and danger. The crème de menthe is tasty against the cognac, but leaves you feeling chilled. 
+For this drink, we wanted to start with something luxurious and beautiful, and add a sense of fear and danger. The crème de menthe is tasty against the Cognac, but leaves you feeling chilled. 
 
 There is no edible garnish that would blend with this drink, but if you're rich enough (and Jules-Pierre certainly is), you could try garnishing with a sprinkling of gold leaf. Later, we would add gold leaf to the drink for Mao's opulent yacht, the *Guanshiyin.* 
 

@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Black Rum
+  - Rock
+  - Spirit-Forward
+  - Sour
   - Character Drink
   - Belter
   - Bit Part
-  - Rock
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 4

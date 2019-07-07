@@ -11,14 +11,14 @@ drink_crop: /assets/images/AF1-TheArboghast-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/980555398880137216"
 author: Paine×Mactane
 tags: 
+  - April Fool's
   - "Difficulty: Easy"
   - Liqueur
-  - Ship Drink
-  - April Fool's
-  - Earther
-  - Science Vessel
   - Shot
   - Sweet
+  - Ship Drink
+  - Earther
+  - Science Vessel
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

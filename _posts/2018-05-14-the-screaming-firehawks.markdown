@@ -10,9 +10,12 @@ drink_crop: /assets/images/STE-1-TheScreamingFirehawks-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/996127240525148162"
 author: Paine×Mactane
 tags: 
-  - Save The Expanse
+  - Difficulty: Easy
   - Shot
   - Easy to Batch
+  - Alcohol Optional
+  - Non-Alcoholic
+  - Save The Expanse
   - Expanse Cocktails Project
 ingredients:
   - amount: 3

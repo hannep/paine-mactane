@@ -12,16 +12,16 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Irish Whiskey
+  - Coupe
+  - Spirit-Forward
   - Character Drink
   - Martian
   - Bit Part
-  - Coupe
-  - Spirit-Forward
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
     unit: part
-    name: irish whiskey
+    name: Irish whiskey
   - amount: 1
     unit: part
     name: applejack

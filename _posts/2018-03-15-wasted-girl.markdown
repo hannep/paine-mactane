@@ -12,10 +12,11 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Overproof White Rum
+  - Cocktail Glass
+  - Food Science
   - Character Drink
   - Belter
   - Bit Part
-  - Cocktail Glass
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

@@ -13,16 +13,16 @@ tags:
   - "Difficulty: Easy"
   - Cognac
   - Sherry
+  - Cordial
+  - After-Dinner
   - Character Drink
   - Earther
   - Bit Part
-  - Cordial
-  - After-Dinner
   - Expanse Cocktails Project
 ingredients:
   - amount: 4
     unit: parts
-    name: cognac
+    name: Cognac
   - amount: 1
     unit: part
     name: Pedro Ximénez sherry

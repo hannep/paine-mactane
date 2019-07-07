@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Bourbon
+  - Rocks
+  - Sweet
+  - Homemade Ingredient
   - Character Drink
   - Martian
   - Main
-  - Rocks
-  - Sweet
   - Expanse Cocktails Project
 ingredients:
   - amount: 6

@@ -11,14 +11,16 @@ twitter_url: "https://twitter.com/Paine_MacTane/status/948231997381541890"
 author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
-  - Dark Rum
+  - Black Rum
   - Liqueur
+  - Rock
+  - Spirit-Forward
+  - After-Dinner
+  - Fruity
+  - Smoky
   - Character Drink
   - Belter
   - Bit Part
-  - Rock
-  - Spirit-Forward
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

@@ -12,12 +12,14 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Bourbon
-  - Character Drink
-  - Belter
-  - Bit Part
   - Shot
   - Spirit-Forward
   - Spicy
+  - Sweet
+  - Fall/Winter
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 4
