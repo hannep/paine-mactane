@@ -19,6 +19,7 @@ tags:
   - Non-Alcoholic
   - Expanse Cocktails Project
   - Sweet
+  - Sour
 ingredients:
   - amount: 2
     unit: ounces
