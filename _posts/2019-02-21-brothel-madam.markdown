@@ -10,15 +10,17 @@ drink_crop: /assets/images/076-BrothelMadam-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1102390217271664645"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Amaretto
+  - Coupe
+  - Dessert
+  - Egg White
+  - Sweet
+  - Fruity
   - Character Drink
-  - Scene Stealers Series
   - Belter
   - Bit Part
-  - Coupe
-  - Egg White
-  - Dessert
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

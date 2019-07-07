@@ -33,7 +33,7 @@ ingredients:
     name: umeshu
   - amount: ⅛
     unit: ounce
-    name: marachino liqueur
+    name: maraschino liqueur
   - amount: ⅛
     unit: ounce
     name: rich simple syrup

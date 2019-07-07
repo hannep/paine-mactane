@@ -24,7 +24,7 @@ ingredients:
     name: rye
   - amount: ½
     unit: ounce
-    name: campari
+    name: Campari
   - amount: ½
     unit: teaspoon
     name: red vermouth

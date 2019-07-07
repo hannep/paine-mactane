@@ -30,7 +30,7 @@ ingredients:
     name: cranberry juice drink
   - amount: ½
     unit: ounce
-    name: amaro nonino
+    name: Amaro Nonino
   - amount: ¼
     unit: ounce
     name: dry curaçao

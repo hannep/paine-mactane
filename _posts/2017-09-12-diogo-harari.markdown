@@ -34,7 +34,7 @@ ingredients:
     name: blood orange juice
   - amount: ½
     unit: part
-    name: amaro nonino
+    name: Amaro Nonino
   - amount: ½
     unit: part
     name: pomegranate liqueur

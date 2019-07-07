@@ -10,14 +10,15 @@ drink_crop: /assets/images/080-Roma-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1111504709762859010"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Medium"
   - White Rum
+  - Rocks
+  - Refreshing
+  - Spicy
   - Character Drink
-  - Scene Stealers Series
   - Belter
   - Bit Part
-  - Rocks
-  - Spicy
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

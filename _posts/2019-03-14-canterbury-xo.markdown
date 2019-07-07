@@ -10,16 +10,16 @@ drink_crop: /assets/images/077-CanterburyXO-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1106356953998086144"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Aquavit
   - Calvados
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Rocks
   - Spirit-Forward
   - Botanical
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1½

@@ -10,13 +10,14 @@ drink_crop: /assets/images/075-HeikkiSobong-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1096505479524769798"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Rice Shochu
+  - Rock
+  - Spirit-Forward
   - Character Drink
-  - Scene Stealers Series
   - Belter
   - Bit Part
-  - Rock
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

@@ -12,12 +12,13 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Bourbon
-  - Ship Drink
-  - Unafiliated
-  - Light Frigate
   - Rock
   - Spirit-Forward
   - Spicy
+  - Homemade Ingredient
+  - Ship Drink
+  - Unafiliated
+  - Light Frigate
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

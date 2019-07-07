@@ -10,15 +10,16 @@ drink_crop: /assets/images/079-GrimyBelter-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1109260609974136832"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Tequila (Reposado)
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Shot
+  - Spirit-Forward
   - Sour
   - Smoky
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1

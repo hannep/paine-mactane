@@ -10,14 +10,15 @@ drink_crop: /assets/images/078-BelterHottie-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/1109260376057757696"
 author: Paine×Mactane
 tags:
+  - Scene Stealers Series
   - "Difficulty: Easy"
   - Gold Rum
-  - Character Drink
-  - Scene Stealers Series
-  - Belter
-  - Bit Part
   - Cocktail Glass
   - Tiki
+  - Fruity
+  - Character Drink
+  - Belter
+  - Bit Part
   - Expanse Cocktails Project
 ingredients:
   - amount: 1
