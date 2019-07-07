@@ -3,7 +3,7 @@ layout: post
 number: 28
 name: Wasted Girl
 date: 2018-03-15
-short_text: “Why you pensa?” “Why you pensa?”
+short_text: “Why you pensa?” “Why *you* pensa?”
 tweet_text: "Miller encounters her outside Bizi Betiko's crib while chasing down a lead, and the two go all “Why you pensa?” - “Why YOU pensa?” at each other for a minute."
 video_hero: /assets/videos/028-WastedGirl-card.mp4
 drink_crop: /assets/images/028-WastedGirl-drink.jpg

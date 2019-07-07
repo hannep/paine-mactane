@@ -21,18 +21,13 @@ tags:
   - Sweet
   - Expanse Cocktails Project
 ingredients:
+  - amount: 1
+    unit: parts
+    name: hibiscus syrup (recipe below)
   - amount: 4
     unit: parts
-    name: Cognac
-  - amount: 1
-    unit: part
-    name: Pedro Ximénez sherry
-  - amount: 1
-    unit: part
-    name: bourbon
-  - amount: 1
-    unit: part
-    name: allspice dram
+    name: seltzer water
+  - name: whipped cream to taste
 
 ---
 
@@ -46,7 +41,7 @@ For us, the most fun thing about making cocktails is mixing & blending flavors, 
 
 <strong>Hibiscus Syrup:</strong> Bring 1 cup water and 1 cup sugar to a boil and remove from heat. Add 1 tsp each lemon & lime zests and 1 oz dried hibiscus flowers. Stir and allow to steep for 1 hour. Strain.
 
-<stong>Cocktail:</stong> Put syrup in tall glass full of ice and pour in seltzer, stirring if needed. Top with dollops of loosely whipped cream with lime zest and sugar; sprinkle more lime zest over whipped cream and garnish with a 
+<strong>Cocktail:</strong> Put syrup in tall glass full of ice and pour in seltzer, stirring if needed. Top with dollops of loosely whipped cream with lime zest and sugar; sprinkle more lime zest over whipped cream and garnish with a 
 lime wheel. 
 
 {% include tags.html %}
