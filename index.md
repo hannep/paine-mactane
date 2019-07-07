@@ -1,5 +1,6 @@
 ---
 layout: about
+description: "Paine × MacTane: a transcontinental pair of sci-fi fans, language enthusiasts, cocktail creators, and perpetual learners and teachers."
 ---
 <!-- The main content area -->
 # About Us
