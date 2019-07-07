@@ -6,8 +6,8 @@
 </description>
     <link>https://www.painemactane.com</link>
     <atom:link href="https://www.painemactane.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 19:32:55 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 19:32:55 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2019 19:53:00 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 19:53:00 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -1411,7 +1411,7 @@
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -1455,7 +1455,7 @@
         
         <category>Nick &amp; Nora</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Creamy</category>
         
@@ -2772,7 +2772,7 @@
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -2818,7 +2818,7 @@
         
         <category>Coupe</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Egg White</category>
         
@@ -6004,6 +6004,10 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/botanical&quot;&gt;Botanical&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6029,6 +6033,8 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         <category>Difficulty: Easy</category>
         
         <category>Gin</category>
+        
+        <category>Botanical</category>
         
         <category>Character Drink</category>
         
@@ -6091,6 +6097,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6100,14 +6114,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/bit-part&quot;&gt;Bit Part&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6125,15 +6131,15 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Pisco</category>
         
+        <category>Rock</category>
+        
+        <category>Fruity</category>
+        
         <category>Character Drink</category>
         
         <category>Earther</category>
         
         <category>Bit Part</category>
-        
-        <category>Rock</category>
-        
-        <category>Fruity</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6194,6 +6200,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/shot&quot;&gt;Shot&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6203,14 +6217,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/bit-part&quot;&gt;Bit Part&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/shot&quot;&gt;Shot&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6228,15 +6234,15 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Overproof Gold Rum</category>
         
+        <category>Shot</category>
+        
+        <category>Spirit-Forward</category>
+        
         <category>Character Drink</category>
         
         <category>Martian</category>
         
         <category>Bit Part</category>
-        
-        <category>Shot</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6297,6 +6303,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/botanical&quot;&gt;Botanical&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spring-summer&quot;&gt;Spring/Summer&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6306,14 +6324,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/ensemble&quot;&gt;Ensemble&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/botanical&quot;&gt;Botanical&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6331,15 +6341,17 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Genever</category>
         
+        <category>Coupe</category>
+        
+        <category>Botanical</category>
+        
+        <category>Spring/Summer</category>
+        
         <category>Character Drink</category>
         
         <category>Belter</category>
         
         <category>Ensemble</category>
-        
-        <category>Coupe</category>
-        
-        <category>Botanical</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6406,6 +6418,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/egg-white&quot;&gt;Egg White&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6415,18 +6439,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/bit-part&quot;&gt;Bit Part&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/coupe&quot;&gt;Coupe&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/sweet&quot;&gt;Sweet&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/egg-white&quot;&gt;Egg White&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6444,17 +6456,17 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Liqueur</category>
         
+        <category>Coupe</category>
+        
+        <category>Egg White</category>
+        
+        <category>Sweet</category>
+        
         <category>Character Drink</category>
         
         <category>Earther</category>
         
         <category>Bit Part</category>
-        
-        <category>Coupe</category>
-        
-        <category>Sweet</category>
-        
-        <category>Egg White</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6465,7 +6477,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         <title>Du Feri Da Belte</title>
         <description>&lt;p&gt;The Outer Planets Alliance is a loosely organized group of factions that come from all across the Asteroid Belt and the gas giants’ satellites. Its members range from peaceful progressives to nihilist anarchists, but all agree that the Belt must have freedom from the Inner Planets.&lt;/p&gt;
 
-&lt;p&gt;This drink, with its combination of sweetness and fiery kick, has become a favorite at parties and the Belter Bar [link].&lt;/p&gt;
+&lt;p&gt;This drink, with its combination of sweetness and fiery kick, has become a favorite at parties and the &lt;a href=&quot;http://twitter.com/BelterBar&quot;&gt;Belter Bar&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It’s easy to modulate the level of heat in each individual drink by using a combination of plain black rum and infused black rum.&lt;/p&gt;
 
@@ -6525,14 +6537,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/faction-drink&quot;&gt;Faction Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/belter&quot;&gt;Belter&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6546,6 +6550,22 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/spicy&quot;&gt;Spicy&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/smoky&quot;&gt;Smoky&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/faction-drink&quot;&gt;Faction Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/belter&quot;&gt;Belter&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6565,10 +6585,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Bourbon</category>
         
-        <category>Faction Drink</category>
-        
-        <category>Belter</category>
-        
         <category>Rocks</category>
         
         <category>Spirit-Forward</category>
@@ -6576,6 +6592,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         <category>Easy to Batch</category>
         
         <category>Spicy</category>
+        
+        <category>Smoky</category>
+        
+        <category>Homemade Ingredient</category>
+        
+        <category>Faction Drink</category>
+        
+        <category>Belter</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6632,15 +6656,19 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/tumbler&quot;&gt;Tumbler&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/faction-drink&quot;&gt;Faction Drink&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/martian&quot;&gt;Martian&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/tumbler&quot;&gt;Tumbler&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6658,11 +6686,13 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Bourbon</category>
         
+        <category>Tumbler</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Faction Drink</category>
         
         <category>Martian</category>
-        
-        <category>Tumbler</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6729,14 +6759,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/faction-drink&quot;&gt;Faction Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/earther&quot;&gt;Earther&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/champagne-flute&quot;&gt;Champagne Flute&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6746,6 +6768,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/easy-to-batch&quot;&gt;Easy to Batch&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/faction-drink&quot;&gt;Faction Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/earther&quot;&gt;Earther&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6763,15 +6793,15 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Champagne</category>
         
-        <category>Faction Drink</category>
-        
-        <category>Earther</category>
-        
         <category>Champagne Flute</category>
         
         <category>Refreshing</category>
         
         <category>Easy to Batch</category>
+        
+        <category>Faction Drink</category>
+        
+        <category>Earther</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6840,18 +6870,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/earther&quot;&gt;Earther&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/ensemble&quot;&gt;Ensemble&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/collins&quot;&gt;Collins&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6864,7 +6882,23 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/non-alcoholic&quot;&gt;Non-Alcoholic&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/easy-to-batch&quot;&gt;Easy to Batch&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/earther&quot;&gt;Earther&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/ensemble&quot;&gt;Ensemble&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -6882,19 +6916,21 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Vodka</category>
         
-        <category>Character Drink</category>
-        
-        <category>Earther</category>
-        
-        <category>Ensemble</category>
-        
         <category>Collins</category>
         
         <category>Refreshing</category>
         
         <category>Alcohol Optional</category>
         
+        <category>Non-Alcoholic</category>
+        
         <category>Easy to Batch</category>
+        
+        <category>Character Drink</category>
+        
+        <category>Earther</category>
+        
+        <category>Ensemble</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -6977,6 +7013,22 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/cocktail-glass&quot;&gt;Cocktail Glass&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/tiki&quot;&gt;Tiki&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -6986,18 +7038,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/secondary&quot;&gt;Secondary&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/cocktail-glass&quot;&gt;Cocktail Glass&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/fruity&quot;&gt;Fruity&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/tiki&quot;&gt;Tiki&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7017,17 +7057,19 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Champagne</category>
         
+        <category>Cocktail Glass</category>
+        
+        <category>Tiki</category>
+        
+        <category>Fruity</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Character Drink</category>
         
         <category>Earther</category>
         
         <category>Secondary</category>
-        
-        <category>Cocktail Glass</category>
-        
-        <category>Fruity</category>
-        
-        <category>Tiki</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -7092,6 +7134,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/sour&quot;&gt;Sour&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/refreshing&quot;&gt;Refreshing&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -7101,14 +7155,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/secondary&quot;&gt;Secondary&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rocks&quot;&gt;Rocks&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/refreshing&quot;&gt;Refreshing&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7126,15 +7172,17 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Tequila (Plata)</category>
         
+        <category>Rocks</category>
+        
+        <category>Sour</category>
+        
+        <category>Refreshing</category>
+        
         <category>Character Drink</category>
         
         <category>Earther</category>
         
         <category>Secondary</category>
-        
-        <category>Rocks</category>
-        
-        <category>Refreshing</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -7187,6 +7235,14 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/nick-nora&quot;&gt;Nick &amp;amp; Nora&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -7196,14 +7252,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/bit-part&quot;&gt;Bit Part&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/nick-nora&quot;&gt;Nick &amp;amp; Nora&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7221,15 +7269,15 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Rye</category>
         
+        <category>Nick &amp; Nora</category>
+        
+        <category>Spirit-Forward</category>
+        
         <category>Character Drink</category>
         
         <category>Martian</category>
         
         <category>Bit Part</category>
-        
-        <category>Nick &amp; Nora</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -7300,14 +7348,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/save-the-expanse&quot;&gt;Save The Expanse&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/protogen&quot;&gt;Protogen&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
         &lt;a href=&quot;/tag/punch-bowl&quot;&gt;Punch Bowl&lt;/a&gt;
       &lt;/li&gt;
     
@@ -7328,6 +7368,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/non-alcoholic&quot;&gt;Non-Alcoholic&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/save-the-expanse&quot;&gt;Save The Expanse&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/protogen&quot;&gt;Protogen&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/expanse-cocktails-project&quot;&gt;Expanse Cocktails Project&lt;/a&gt;
       &lt;/li&gt;
     
@@ -7342,10 +7394,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Non-Alcoholic</category>
         
-        <category>Save The Expanse</category>
-        
-        <category>Protogen</category>
-        
         <category>Punch Bowl</category>
         
         <category>Punch</category>
@@ -7355,6 +7403,12 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         <category>Refreshing</category>
         
         <category>Alcohol Optional</category>
+        
+        <category>Non-Alcoholic</category>
+        
+        <category>Save The Expanse</category>
+        
+        <category>Protogen</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -7506,6 +7560,18 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
+        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;a href=&quot;/tag/homemade-ingredient&quot;&gt;Homemade Ingredient&lt;/a&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
         &lt;a href=&quot;/tag/character-drink&quot;&gt;Character Drink&lt;/a&gt;
       &lt;/li&gt;
     
@@ -7515,14 +7581,6 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
     
       &lt;li&gt;
         &lt;a href=&quot;/tag/main&quot;&gt;Main&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/rock&quot;&gt;Rock&lt;/a&gt;
-      &lt;/li&gt;
-    
-      &lt;li&gt;
-        &lt;a href=&quot;/tag/spirit-forward&quot;&gt;Spirit-Forward&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7540,15 +7598,17 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
         
         <category>Bourbon</category>
         
+        <category>Rock</category>
+        
+        <category>Spirit-Forward</category>
+        
+        <category>Homemade Ingredient</category>
+        
         <category>Character Drink</category>
         
         <category>Belter</category>
         
         <category>Main</category>
-        
-        <category>Rock</category>
-        
-        <category>Spirit-Forward</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -7568,7 +7628,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;li&gt;
         3
         parts
-        london dry gin
+        London Dry Gin
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7840,7 +7900,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
 
 &lt;p&gt;As with all villain drinks, we worked hard to make a tasty drink - for each drink, we drink a full-sized one and if afterward we would immediately order and pay for a second one at a bar, the recipe can be published - that doesn’t let you forget that it’s a drink representing someone evil.&lt;/p&gt;
 
-&lt;p&gt;Similar to Captain Martens [link to his drink], Dr. Strickland hides his self-serving cruelty behind a sickly-sweet mask. Although he acts gentle with the children entrusted to his care, he’s really using them in Protogen’s scheme to infect them with Protomolecule and use them as weapons. He doesn’t waver in his enthusiasm for the “Project” when even Jules-Pierre Mao objects to its inhumanity.&lt;/p&gt;
+&lt;p&gt;Similar to &lt;a href=&quot;/cocktails/2018/03/22/cpt-martens/&quot;&gt;Captain Martens&lt;/a&gt;, Dr. Strickland hides his self-serving cruelty behind a sickly-sweet mask. Although he acts gentle with the children entrusted to his care, he’s really using them in Protogen’s scheme to infect them with Protomolecule and use them as weapons. He doesn’t waver in his enthusiasm for the “Project” when even Jules-Pierre Mao objects to its inhumanity.&lt;/p&gt;
 
 &lt;p&gt;This drink begins sweet, with &lt;em&gt;two&lt;/em&gt; types of sherry plus honey syrup, but evolves into bitter complexity with two bitter orange amari: Amer Picon, a French aperitif, and Campari, the Italian favorite for spritzes and sbagliati. Surprisingly drinkable while being obviously evil!&lt;/p&gt;
 
@@ -7857,7 +7917,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;li&gt;
         1
         part
-        pedro ximénez sherry
+        Pedro Ximénez sherry
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -7979,7 +8039,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
 
 &lt;p&gt;We made our version with Jack Rudy’s classic tonic syrup, but there are other good ones on the market.&lt;/p&gt;
 
-&lt;p&gt;“Mao’s private-label gin was excellent, even without the lime twist.” &lt;em&gt;Caliban’s War&lt;/em&gt; mentions that there were no limes on the Guanshiyin, leading us to believe Avasarala normally takes them with a twist.&lt;/p&gt;
+&lt;p&gt;“Mao’s private-label gin was excellent, even without the lime twist.” &lt;em&gt;Caliban’s War&lt;/em&gt; mentions that there were no limes on the &lt;em&gt;Guanshiyin&lt;/em&gt;, leading us to believe Avasarala normally takes them with a twist.&lt;/p&gt;
 
 &lt;section&gt;
   &lt;h4&gt;Ingredients:&lt;/h4&gt;
@@ -7988,7 +8048,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;li&gt;
         2
         parts
-        london dry gin
+        London Dry Gin
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -8471,7 +8531,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       </item>
     
       <item>
-        <title>The Arboghast</title>
+        <title>UNS Arboghast</title>
         <description>&lt;p&gt;The UNS Arboghast is a science vessel sent to Venus to unravel the mysteries of the Eros crash site. The Protomolecule decides to investigate the Arboghast instead. Its final fate is referred to as anything from deconstruction to disaggregation.&lt;/p&gt;
 
 &lt;p&gt;Is this just a deconstructed &lt;a href=&quot;https://en.wikipedia.org/wiki/B-52_(cocktail)&quot;&gt;B-52&lt;/a&gt;? Yes it is. Are we as clever as we think we are? Definitely not.&lt;/p&gt;
@@ -8491,7 +8551,7 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
       &lt;li&gt;
         1
         part
-        Irish cream
+        Irish Cream
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -8551,8 +8611,8 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
 &lt;/section&gt;
 </description>
         <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/01/the-arboghast/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/01/the-arboghast/</guid>
+        <link>https://www.painemactane.com/cocktails/2018/04/01/uns-arboghast/</link>
+        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/01/uns-arboghast/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9386,7 +9446,7 @@ Cocktail: Pour all ingredients into an ice-filled rocks glass and stir briefly t
       &lt;li&gt;
         1
         part
-        pedro ximénez sherry
+        Pedro Ximénez sherry
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -9445,7 +9505,7 @@ lime wheel.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -9477,7 +9537,7 @@ lime wheel.&lt;/p&gt;
         
         <category>Fruity</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Sweet</category>
         
@@ -9608,7 +9668,7 @@ lime wheel.&lt;/p&gt;
       &lt;li&gt;
         1
         part
-        pedro ximénez sherry
+        Pedro Ximénez sherry
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -9662,7 +9722,7 @@ lime wheel.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -9690,7 +9750,7 @@ lime wheel.&lt;/p&gt;
         
         <category>Cordial</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -10346,7 +10406,7 @@ lime wheel.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -10372,7 +10432,7 @@ lime wheel.&lt;/p&gt;
         
         <category>Brandy Snifter</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -10926,7 +10986,7 @@ Martian Marine.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;a href=&quot;/tag/dessert&quot;&gt;Dessert&lt;/a&gt;
+        &lt;a href=&quot;/tag/after-dinner&quot;&gt;After-Dinner&lt;/a&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
@@ -10956,7 +11016,7 @@ Martian Marine.&lt;/p&gt;
         
         <category>Spirit-Forward</category>
         
-        <category>Dessert</category>
+        <category>After-Dinner</category>
         
         <category>Expanse Cocktails Project</category>
         
@@ -11915,7 +11975,7 @@ Martian Marine.&lt;/p&gt;
       &lt;li&gt;
         3
         parts
-        london dry gin
+        London Dry Gin
       &lt;/li&gt;
     
       &lt;li&gt;
