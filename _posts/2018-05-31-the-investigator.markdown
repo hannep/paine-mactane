@@ -24,13 +24,13 @@ ingredients:
     name: gin
   - amount: 1
     unit: part
-    name: searching syrup
+    name: Searching Syrup
 
 ---
 
 It reaches out 113 times a second, but nothing answers. So it builds the Investigator and the Investigator looks, but he does not find, so it kills the Investigator. It reaches out. 
 
-We're particularly proud of the fact that the Josephus Miller [link] and the Investigator are the exact same drink, just with the base liquor swapped out - and that the swap works from a brown, solid-seeming liquor to a clear, ethereal one.
+We're particularly proud of the fact that the [Josephus Miller](/cocktails/2018/05/31/josephus-miller/) and the Investigator are the exact same drink, just with the base liquor swapped out - and that the swap works from a brown, solid-seeming liquor to a clear, ethereal one.
 
 The Investigator will work better if you make it with a New World gin, such as Ethereal, New York's Half Moon, or San Francisco's Bummer & Lazarus, rather than a standard London dry gin.
 

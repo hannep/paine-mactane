@@ -12,11 +12,12 @@ author: Paine×Mactane
 tags:
   - "Difficulty: Easy"
   - Irish Whiskey
+  - Rocks
+  - Fruity
+  - Sweet
   - Character Drink
   - Belter
   - Bit Part
-  - Rocks
-  - Fruity
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

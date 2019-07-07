@@ -24,13 +24,13 @@ ingredients:
     name: bourbon
   - amount: 1
     unit: part
-    name: searching syrup
+    name: Searching Syrup
 
 ---
 
 A cynical detective from Ceres assigned to find Julie Mao. His search leads him away from everything he’s known before, and ends with him finding things he never dreamed of.
 
-We're particularly proud of the fact that the Josephus Miller and the Investigator [link] are the exact same drink, just with the base liquor swapped out - and that the swap works from a brown, solid-seeming liquor to a clear, ethereal one. 
+We're particularly proud of the fact that the Josephus Miller and [The Investigator](/cocktails/2018/05/31/the-investigator/) are the exact same drink, just with the base liquor swapped out - and that the swap works from a brown, solid-seeming liquor to a clear, ethereal one. 
 
 {% include ingredients.html %}
 

@@ -25,7 +25,7 @@ ingredients:
     name: bourbon
   - amount: 1
     unit: part
-    name: Montenegro
+    name: Amaro Montenegro
   - amount: 1
     unit: part
     name: lemon juice

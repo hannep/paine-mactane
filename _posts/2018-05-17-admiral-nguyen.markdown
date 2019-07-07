@@ -26,7 +26,7 @@ ingredients:
     name: orange curaçao
   - amount: ¼
     unit: part
-    name: Montenegro
+    name: Amaro Montenegro
 
 ---
 
