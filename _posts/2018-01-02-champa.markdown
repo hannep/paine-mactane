@@ -28,7 +28,7 @@ ingredients:
     name: overproof rum
   - amount: 2
     unit: parts
-    name: dark rum
+    name: black rum
   - amount: 1
     unit: part
     name: passionfruit liqueur or syrup

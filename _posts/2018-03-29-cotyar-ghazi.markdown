@@ -12,7 +12,6 @@ author: Paine×Mactane
 tags: 
   - "Difficulty: Easy"
   - Bourbon
-  - Dark Rum
   - Rocks
   - Sour
   - Character Drink

@@ -50,7 +50,7 @@ It's easy to modulate the level of heat in each individual drink by using a comb
 
 #### Instructions:
 
-<strong>Chipotle-Infused Rum:</strong> Cut 3 dried chipotle peppers into quarters and soak in 1 cup dark rum for 10 minutes, then strain through a fine strainer.
+<strong>Chipotle-Infused Rum:</strong> Cut 3 dried chipotle peppers into quarters and soak in 1 cup black rum for 10 minutes, then strain through a fine strainer.
 
 <strong>Recipe:</strong> Stir all ingredients with ice, then strain into an ice-filled rocks glass. Garnish with a cinnamon stick.
 

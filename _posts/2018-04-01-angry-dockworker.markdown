@@ -23,7 +23,7 @@ tags:
 ingredients:
   - amount: 1
     unit: part
-    name: dark rum
+    name: black rum
   - amount: 1
     unit: part
     name: tequila (reposado)

@@ -39,7 +39,7 @@ ingredients:
 
 The Weeping Somnambulist was a Belt freighter carrying relief supplies and food to Ganymede after the battle there devastated the colony. Commandeered by the Rocinante crew to sneak them past Martian patrols, one of its crew was killed, but the other still helped refugees escape the station’s final collapse.
 
-The dark rum in this drink is also the main ingredient in the [Melissa Suputayaporn](/cocktails/2018/01/16/melissa-suputayaporn/), posted nearly a year ago.
+The gold rum in this drink is also the main ingredient in the [Melissa Suputayaporn](/cocktails/2018/01/16/melissa-suputayaporn/), posted nearly a year ago.
 
 As usual, we're using rum, and particularly non-white rums, for Belt ships. Partly because the world for liquor in LangBelta is "rowm", and partly because [Anderson Dawes](/cocktails/2017/10/17/anderson-dawes/) orders "Dark rum, Javier!" as he sits next to Miller in a bar in S1E05 at 20:20.
 

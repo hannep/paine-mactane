@@ -10,7 +10,7 @@ drink_crop: /assets/images/STE-1-TheScreamingFirehawks-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/996127240525148162"
 author: Paine×Mactane
 tags: 
-  - Difficulty: Easy
+  - "Difficulty: Easy"
   - Bourbon
   - Black Rum
   - Shot
@@ -25,7 +25,7 @@ ingredients:
     name: bourbon
   - amount: 2
     unit: parts
-    name: dark rum
+    name: black rum
   - amount: 1
     unit: part
     name: cranberry juice
