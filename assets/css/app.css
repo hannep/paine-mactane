@@ -1621,6 +1621,27 @@ main {
   .popup__exit:before, .zoom-overlay__exit:before {
     transform: rotate(-45deg); }
 
+.post__nav-link {
+  background-repeat: no-repeat;
+  background-image: url("/assets/images/next.svg");
+  height: 40px;
+  width: 32px;
+  margin-top: 30px; }
+.post__prev-nav-link {
+  float: left;
+  transform: scaleX(-1); }
+.post__next-nav-link {
+  float: right; }
+@media (min-width: 32em) {
+  .post__nav-link {
+    display: block;
+    height: 80px;
+    width: 64px; } }
+@media (min-width: 54em) {
+  .post__prev-nav-link {
+    margin-left: 140px; }
+  .post__next-nav-link {
+    margin-right: 140px; } }
 .post__header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
 .post__date {
