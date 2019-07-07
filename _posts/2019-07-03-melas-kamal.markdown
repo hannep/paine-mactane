@@ -18,6 +18,7 @@ tags:
   - Rocks
   - Non-Alcoholic
   - Expanse Cocktails Project
+  - Sweet
 ingredients:
   - amount: 2
     unit: ounces
