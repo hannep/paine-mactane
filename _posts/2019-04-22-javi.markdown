@@ -1,0 +1,59 @@
+---
+layout: post
+number: 83
+name: Javi
+date: 2019-04-22
+short_text: The suave, astute bouillotte dealer outside Miller's hole.
+tweet_text: The smooth bouillotte dealer outside Miller's Ceres hole. Craig Henry turns his lines, which are mostly exposition, into the thoughts of a perceptive Belter who cares passionately about his community.
+hero: /assets/images/083-Javi-card.jpg
+drink_crop: /assets/images/083-Javi-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1120801309970583552"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Hard"
+  - gold rum
+  - tequila
+  - Character Drink
+  - Scene Stealers Series
+  - Belter
+  - Bit Part
+  - Hurricane
+  - Tiki
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 1½
+    unit: ounces
+    name: gold rum
+  - amount: 1½
+    unit: ounces
+    name: mango nectar
+  - amount: 1½
+    unit: ounces
+    name: grapefruit juice
+  - amount: ¾
+    unit: ounce
+    name: añejo tequila
+  - amount: ¾
+    unit: ounce
+    name: velvet falernum
+  - amount: ⅜
+    unit: ounce
+    name: lime juce
+  - amount: 1-2
+    unit: dashes
+    name: angostura bitters
+
+---
+
+Also known as “the bouillotte dealer”, Javi is a fixture on Ceres Station, always ready to throw down some cards and engage someone in a little casual gambling action. At the same time, he’s very knowledgeable about politics, current events, and the social effects those events have on the people of the Belt.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+<strong>Rich Hibiscus Syrup:</strong> Bring 2 cups sugar and 1 cup water to a boil and remove from heat. Add 4 ounces dried hibiscus flowers and steep for 20 minutes. Strain, pressing the liquid through the saturated petals. Store in an airtight container up to 6 months.
+
+<strong>Cocktail:</strong>  Whip ¼ cup chilled, full-fat coconut milk with 2 tsp rich hibiscus syrup. Pour cocktail ingredients into a mixing glass with ice and stir until cold. Strain into a chilled hurricane glass with small ice cubes and garnish with hibiscus-coconut whipped cream. 
+
+
+{% include tags.html %}
