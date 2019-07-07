@@ -15,6 +15,7 @@ tags:
   - Ship Drink
   - Mao-Kwikowski
   - Yacht
+  - Champagne Flute
   - Expanse Cocktails Project
 ingredients:
   - amount: 2

@@ -1,0 +1,47 @@
+---
+layout: post
+number: 73
+name: Tachi
+date: 2019-02-07
+short_text: A Martian gunship with enough power to influence the future of the solar system - with the right crew. 
+tweet_text: The Martian gunship that escaped calamity and became a home for the four survivors of the Canterbury.
+hero: /assets/images/073-Tachi-card.jpg
+drink_crop: /assets/images/073-Tachi-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1094884436322136064"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Bourbon
+  - Ship Drink
+  - Martian
+  - Light Frigate
+  - Rock
+  - Spirit-Forward
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: bourbon
+  - amount: ½
+    unit: ounce
+    name: Calvados
+  - amount: ¼
+    unit: ounce
+    name: Bénédictine
+  - amount: 2
+    unit: dashes
+    name: orange bitters
+
+---
+
+The MCRN *Tachi* was a gunship on the *Donnager*, used by the survivors of the *Cant* to escape from its destruction by Protogen stealth ships. 
+
+This drink shares influences from Mars in general, and from [Lt. Lopez](/cocktails/2017/12/19/lt-lopez/), who gives his life to get the *Canterbury* survivors to its safety. Later, it keeps its base spirit, but undergoes a tremendous transformation to become a non-military home for 4 misfits. 
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all ingredients into a mixing glass and stir with ice until cold. Spritz the inside of a rocks glass with Fernet Branca, add one large ice cube, and strain drink into glass. Garnish with orange peel.
+
+{% include tags.html %}
