@@ -23,7 +23,7 @@ ingredients:
     unit: ounces
     name: Cognac
   - amount: ¼
-    name: slice ripe nectarine
+    name: sliced ripe nectarine
   - amount: ½
     unit: ounce
     name: Averna
