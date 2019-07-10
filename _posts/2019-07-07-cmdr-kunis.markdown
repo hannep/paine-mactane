@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 96
-name: Cmdr. Kunis
+name: Cdr. Kunis
 date: 2019-07-09
 short_text: The calm, cautious leader of UNN forces in the Slow Zone after the "speed limit" drops.
 tweet_text: Leader of UNN forces in the Slow Zone after the "speed limit" drops. He tells people when they're about to do something stupid & calmly deals with the aftermath when they don't listen. 
