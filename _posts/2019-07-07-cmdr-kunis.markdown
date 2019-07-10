@@ -1,0 +1,47 @@
+---
+layout: post
+number: 96
+name: Cmdr. Kunis
+date: 2019-07-09
+short_text: The calm, cautious leader of UNN forces in the Slow Zone after the "speed limit" drops.
+tweet_text: Leader of UNN forces in the Slow Zone after the "speed limit" drops. He tells people when they're about to do something stupid & calmly deals with the aftermath when they don't listen. 
+hero: /assets/images/096-CmdrKunis-card.jpg
+drink_crop: /assets/images/096-CmdrKunis-drink.jpg
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Cognac
+  - Coupe
+  - Fruity
+  - Spring/Summer
+  - Character Drink
+  - Earther
+  - Bit Part
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: Cognac
+  - amount: ¼
+    name: slice ripe nectarine
+  - amount: ½
+    unit: ounce
+    name: Averna
+  - amount: ½
+    unit: ounce
+    name: pomegranate juice
+  - amount: 2
+    unit: dashes
+    name: chamomile-citrus bitters
+
+---
+
+Commander Kunis is the highest-ranking UNN officer on the Thomas Prince after the catastrophic drop in the “speed limit” causes widespread casualties in the Slow Zone. He transfers to the Behemoth with composed caution, and tells Ashford and Koolvord plainly that their plans are too risky. He is overruled, but remains calm, candid, and decisive through the resulting crisis.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Muddle nectarine in a mixing glass. Add ice and other ingredients and stir until cold. Double strain into a chilled coupe and garnish with a twist of lemon peel.
+
+{% include tags.html %}
