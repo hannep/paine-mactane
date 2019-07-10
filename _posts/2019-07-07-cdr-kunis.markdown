@@ -36,7 +36,7 @@ ingredients:
 
 ---
 
-Commander Kunis is the highest-ranking UNN officer on the Thomas Prince after the catastrophic drop in the “speed limit” causes widespread casualties in the Slow Zone. He transfers to the Behemoth with composed caution, and tells Ashford and Koolvord plainly that their plans are too risky. He is overruled, but remains calm, candid, and decisive through the resulting crisis.
+Commander Kunis is the highest-ranking UNN officer on the _Thomas Prince_ after the catastrophic drop in the “speed limit” causes widespread casualties in the Slow Zone. He transfers to the _Behemoth_ with composed caution, and tells Ashford and Koolvord plainly that their plans are too risky. He is overruled, but remains calm, candid, and decisive through the resulting crisis.
 
 {% include ingredients.html %}
 

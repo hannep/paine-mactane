@@ -3,7 +3,7 @@ layout: post
 number: 95
 name: Melas Kamal
 date: 2019-07-03
-short_text: Alex's bright, sincere, patriotic young son. 
+short_text: Alex's bright, sincere, patriotic young son.
 tweet_text: Alex's son, who sends him a message outside in his pressure suit so his mom won't know. [@realchrisriver](https://twitter.com/realchrisriver)'s charm and earnestness pull our heartstrings as much as they do Alex's. This drink is nonalcoholic!
 hero: /assets/images/095-MelasKamal-card.jpg
 drink_crop: /assets/images/095-MelasKamal-drink.jpg
