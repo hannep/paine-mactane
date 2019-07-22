@@ -1,6 +1,6 @@
 ---
 layout: post
-number: 96
+number: 97
 name: Shed Garvey
 date: 2019-07-16
 short_text: What he lacks in ethics, he makes up for in compassion.
