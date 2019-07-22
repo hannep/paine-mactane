@@ -28,7 +28,7 @@ ingredients:
   - amount: 1
     unit: ounce
     name: pear brandy
-  - amount: ⅛
+  - amount: ¼
     unit: ounce
     name: lime juice
 
