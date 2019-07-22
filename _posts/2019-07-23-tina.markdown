@@ -1,0 +1,51 @@
+---
+layout: post
+number: 98
+name: Tina
+date: 2019-07-23
+short_text: She'll pour you a drink, but won't take any shit.
+tweet_text: The well-dressed and quick-tongued bartender at Tycho Station's Blauwe Blome, where many of the Roci crew and their associates go for fun.
+hero: /assets/images/098-Tina-card.jpg
+drink_crop: /assets/images/098-Tina-drink.jpg
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Overproof White Rum
+  - Cocktail
+  - Fruity
+  - Spring/Summer
+  - Character Drink
+  - Belter
+  - Bit Part
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: sweetened lychee juice
+  - amount: 1½
+    unit: ounces
+    name: overproof white rum
+  - amount: 1
+    unit: ounce
+    name: pear brandy
+  - amount: ⅛
+    unit: ounce
+    name: lime juice
+
+---
+
+The bartender at the Blauwe Blome bar on Tycho Station, Tina puts up with her customers' antics for awhile, taking shots as "tips", but has no qualms about kicking people out when she gets tired of them. She keeps rowdy Belters in line with everything from witty banter to a stun zapper. When Diogo becomes a hero in the Eros Incident, she gives him a special reward.
+
+In our hint for Tina, we described her as: stylish, fierce, long-suffering, streetwise, and saucy.
+
+{% include image.html url="/assets/images/098-tina-with-zapper.jpg" description="Tina cheerfully informs rowdy customers that their welcome is over." %}
+
+
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into a chilled cocktail glass and garnish with a piece of dragonfruit.
+
+{% include tags.html %}
