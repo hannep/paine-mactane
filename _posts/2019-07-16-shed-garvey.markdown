@@ -36,6 +36,7 @@ Shed Garvey is the _Canterbury_'s chief medic. He provides the best care he can 
 
 For this drink, we used a clear, fresh-tasting apple brandy from Gardiner Liquid Mercantile, a distillery Iro has visited. It has an especially clean apple flavor compared to most Calvados or applejack we've tried, and went well with the fresh cream taste of Bailey's. We sometimes make our own Irish Cream, which would be especially comforting and delicious here, but didn't have any on hand for this recipe and it turned out fine anyway.
 
+In our hint for Shed, we described him as: compassionate, reluctant, panicky, underqualified, and resourceful.
 
 {% include ingredients.html %}
 
