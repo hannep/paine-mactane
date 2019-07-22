@@ -2,9 +2,9 @@
 layout: post
 number: 98
 name: Tina
-date: 2019-07-23
+date: 2019-07-22
 short_text: She'll pour you a drink, but won't take any shit.
-tweet_text: The well-dressed and quick-tongued bartender at Tycho Station's Blauwe Blome, where many of the Roci crew and their associates go for fun.
+tweet_text: The well-dressed, fun-loving, but sharp-tongued bartender at Tycho Station's Blauwe Blome, where many of the Roci crew and their associates go for fun.
 hero: /assets/images/098-Tina-card.jpg
 drink_crop: /assets/images/098-Tina-drink.jpg
 author: Paine×Mactane
