@@ -9,7 +9,7 @@ hero: /assets/images/099-FranklinDeGraaf-card.jpg
 drink_crop: /assets/images/099-FranklinDeGraaf-drink.jpg
 author: Paine×Mactane
 tags:
-  - "Difficulty: Hard"
+  - "Difficulty: Medium"
   - Wine
   - Coupe
   - Fruity
@@ -45,6 +45,7 @@ The yellow rose can be a symbol of betrayal, and is appropriate for how he is tr
 #### Instructions:
 
 <strong>Infused Wine:</strong> Using a vegetable peeler, zest 3 blood oranges and 1 lemon, avoiding as much white pith as possible. Place zest in a bowl with ½ cup white sugar, muddle, and set aside for 30 minutes. Add the mixture to 1 bottle red wine along with 1 cup roughly chopped, pitted cherries, 1 cup dried hibiscus petals, and the juice of the oranges and lemon. Allow to infuse overnight in the refrigerator, then strain.
+
 <strong>Cocktail:</strong> Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into a chilled coupe and garnish with a rose petal.
 
 {% include tags.html %}
