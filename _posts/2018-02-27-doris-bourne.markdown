@@ -18,7 +18,7 @@ tags:
   - Fruity
   - Spicy
   - Character Drink
-  - Belter
+  - Martian
   - Bit Part
   - Expanse Cocktails Project
 ingredients:
