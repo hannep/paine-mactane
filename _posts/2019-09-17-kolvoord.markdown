@@ -1,0 +1,53 @@
+---
+layout: post
+number: 100
+name: Kolvoord
+date: 2019-09-17
+short_text: Science officer on the UNN _Thomas Prince_, with dangerous ideas.
+tweet_text: The Thomas Prince's chief science officer. Anna enjoys scientific exploration with him, before things go completely pear-shaped.
+hero: /assets/images/100-Kolvoord-card.jpg
+drink_crop: /assets/images/100-Kolvoord-drink.jpg
+author: Paine×Mactane
+tags:
+  - "Difficulty: Easy"
+  - Liqueur
+  - Wine Glass
+  - Refreshing
+  - Fruity
+  - Spicy
+  - Easy to Batch
+  - Spring/Summer
+  - Character Drink
+  - Earther
+  - Bit Part
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: Cherry Heering
+  - amount: 2
+    unit: ounces
+    name: lime juice
+  - amount: 1
+    unit: ounce
+    name: Bénédictine
+  - amount: 1
+    unit: ounce
+    name: Ancho Reyes Verde
+  - amount: 6
+    unit: ounces
+    name: seltzer water
+
+---
+
+Kolvoord is the chief science officer aboard the UNN _Thomas Prince_ on the expedition to the Ring, deeply curious about the mysterious artifact and the space beyond it. He persuades Ashford to authorize his explosive experiment to probe the Slow Zone and Ring Station, putting every human and ship in the Slow Zone in grave danger.
+
+In our hint for Kolvoord, we described him as: explorative, reckless, persuasive, shortsighted, and mediocre.
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+Pour all ingredients into a mixing glass with ice and stir until cold. Strain into a wine goblet over ice and garnish with a twist of lime peel.
+
+{% include tags.html %}
