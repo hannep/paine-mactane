@@ -1817,7 +1817,10 @@ main {
   .posts__next {
     position: relative;
     z-index: 1;
-    cursor: pointer; }
+    cursor: pointer;
+    color: #000; }
+    .posts__next:visited {
+      color: #000; }
     .posts__next:before, .posts__next:after {
       content: "";
       position: absolute;
