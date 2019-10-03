@@ -28,7 +28,8 @@ const InfiniteScroll = (() => {
     },
 
     bindEvents() {
-      s.next.on('click', () => {
+      s.next.on('click', (evt) => {
+        evt.preventDefault();
         s.next.addClass(s.class);
         this.fetchPosts();
       });
