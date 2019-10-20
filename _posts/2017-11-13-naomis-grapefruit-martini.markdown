@@ -38,7 +38,7 @@ ingredients:
 
 ---
 
-> “Naomi. Karaoke. Even considering everything that had happened to them over the past month, Naomi up onstage with a mic in one hand and some sort of fuchsia martini in the other, screaming out an angry Belt-pink anthem by the molder Filters, was the strangest thing he'd ever seen.”
+> “Naomi. Karaoke. Even considering everything that had happened to them over the past month, Naomi up onstage with a mic in one hand and some sort of fuchsia martini in the other, screaming out an angry Belt-punk anthem by the Moldy Filters, was the strangest thing he'd ever seen.”
 
 <cite> Leviathan Wakes, Chapter 19</cite>
 
