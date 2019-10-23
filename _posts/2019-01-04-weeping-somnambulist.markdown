@@ -3,7 +3,7 @@ layout: post
 number: 68
 name: Weeping Somnambulist
 date: 2019-01-04
-short_text: A relief ship for desperate Ganyemede.
+short_text: A relief ship for desperate Ganymede.
 tweet_text: The relief ship crewed by a husband-and-wife team who won't let setbacks or tragedy stop them from helping the people of Ganymede.
 hero: /assets/images/068-WeepingSomnambulist-card.jpg
 drink_crop: /assets/images/068-WeepingSomnambulist-drink.jpg
