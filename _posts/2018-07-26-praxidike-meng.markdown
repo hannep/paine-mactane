@@ -5,8 +5,8 @@ name: Praxidike Meng
 date: 2018-07-26
 short_text: An earnest, principled botanist who will do anything to save his daughter.
 tweet_text: A Ganymede botanist whose life is turned upside-down when his daughter Mei is taken by Protogen during the Battle of Ganymede.
-hero: /assets/images/048-Praxidike-card.jpg
-drink_crop: /assets/images/048-Praxidike-drink.jpg
+hero: /assets/images/048-PraxidikeMeng-card.jpg
+drink_crop: /assets/images/048-PraxidikeMeng-drink.jpg
 twitter_url: "https://twitter.com/Paine_MacTane/status/966060111948115970"
 author: Paine×Mactane
 tags:
