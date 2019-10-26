@@ -1,21 +1,20 @@
 ---
 layout: post
-number: 105
-name: Richard Travis
-date: 2019-10-26
-short_text: A first-generation immigrant Martian Marine, tough and loyal.
-tweet_text: The immigrant Martian marine who was treated unfairly by squadmates and the highest echelons of Martian government.
-hero: /assets/images/105-RichardTravis-card.jpg
-drink_crop: /assets/images/105-RichardTravis-drink.jpg
+number: 104
+name: Solomon Epstein
+date: 2019-10-19
+short_text: Driven to tinker, he created a drive that drove humanity farther than ever before.
+tweet_text: The cautious Martian commander who gives up her Marines' armor for diplomacy's sake, and remains the most skeptical of Ashford's self-destructive plans even as she enforces them.
+hero: /assets/images/104-SolomonEpstein-card.jpg
+drink_crop: /assets/images/104-SolomonEpstein-drink.jpg
 author: Paine×Mactane
 tags:
-  - "Difficulty: Easy"
+  - "Difficulty: Medium"
   - Bourbon
-  - Rock
+  - Cocktail
   - Spirit-Forward
   - Character Drink
   - Martian
-  - Military
   - Bit Part
   - Expanse Cocktails Project
 ingredients:
@@ -24,16 +23,11 @@ ingredients:
     name: bourbon
   - amount: ½
     unit: ounce
-    name: carrot eau de vie
-  - amount: ¼
+    name: cold-brew coffee liqueur
+  - amount: ½
     unit: ounce
-    name: sweet vermouth
-  - amount: ⅛
-    unit: ounce
-    name: Averna
-  - amount: ⅛
-    unit: ounce
-    name: Campari
+    name: Licor 43
+
 
 ---
 
