@@ -31,7 +31,7 @@ ingredients:
     name: maple syrup
   - amount: 1
     unit: dash
-    name: Bittermen's Burlesque Bitters
+    name: Bittermens Burlesque Bitters
 
 ---
 

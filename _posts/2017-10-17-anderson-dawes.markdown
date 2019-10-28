@@ -37,7 +37,7 @@ ingredients:
 
 The leader of the Ceres faction of the OPA, Anderson Dawes is smooth and polished, but conceals hidden complexity and a mysterious past. Despite his current power, Dawes grew up a dirt-poor rock-hopper and sacrificed his own sister’s life when she became ill. An idealist who considers all Belters his brothers and sisters, he is also a clever, ruthless pragmatist who doesn’t balk at using guile and betrayal to advance the Belt’s cause.
 
-We advise a spiced chocolate bitters, such as Bittermen's Xocolatl Mole, Fee Bros Aztec Chocolate, etc. Traditional chocolate bitters don't give the intricacy that Dawes needs.
+We advise a spiced chocolate bitters, such as Bittermens Xocolatl Mole, Fee Bros Aztec Chocolate, etc. Traditional chocolate bitters don't give the intricacy that Dawes needs.
 
 {% include ingredients.html %}
 
