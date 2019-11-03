@@ -4,7 +4,7 @@ number: 106
 name: Theo Simibelli
 date: 2019-11-02
 short_text: A junior electrician with big dreams.
-tweet_text: The immigrant Martian marine who was treated unfairly by squadmates and the highest echelons of Martian government.
+tweet_text: The Guanshiyin electrician who becomes an unlikely hero after convincing Bobbie Draper to rough him up and stuff him in a locker.
 hero: /assets/images/106-TheoSimibelli-card.jpg
 drink_crop: /assets/images/106-TheoSimibelli-drink.jpg
 author: Paine×Mactane
