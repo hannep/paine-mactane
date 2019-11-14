@@ -28,7 +28,7 @@ ingredients:
 
 A junior electrician with big dreams aboard the Guanshiyin, Theo Simibelli tries to stop Bobbie Draper from accessing a drop ship after Errinwright betrays Mao and Avasarala at the same time. Bobbie convinces him that Mao's company isn't worth laying down his life for, and he later aids Avasarala and escapes the ship's destruction with Cotyar.
 
-In our hint for Richard Travis, we said his favorite Broadway musical would be _How to Succeed in Business Without Really Trying_, and quoted the line "When I joined this firm as a brash young man, I said to myself... don't get any ideas!"
+In our hint for Theo Simibelli, we said his favorite Broadway musical would be _How to Succeed in Business Without Really Trying_, and quoted the line "When I joined this firm as a brash young man, I said to myself... don't get any ideas!"
 
 {% include ingredients.html %}
 
