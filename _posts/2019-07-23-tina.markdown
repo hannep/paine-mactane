@@ -36,6 +36,8 @@ ingredients:
 
 The bartender at the Blauwe Blome bar on Tycho Station, Tina puts up with her customers' antics for awhile, taking shots as "tips", but has no qualms about kicking people out when she gets tired of them. She keeps rowdy Belters in line with everything from witty banter to a stun zapper. When Diogo becomes a hero in the Eros Incident, she gives him a special reward.
 
+Tina's customer service is unique, and her bar is rowdy, but it's the place to hang out on Tycho Station. We combined sweet and sharp flavors to make a visually striking, intensely drinkable cocktail that will surprise you with its power. Tina will kick your ass, and so will this drink, if you don't treat them with respect.
+
 In our hint for Tina, we described her as: stylish, fierce, long-suffering, streetwise, and saucy.
 
 {% include image.html url="/assets/images/098-tina-with-zapper.jpg" description="Tina cheerfully informs rowdy customers that their welcome is over." %}

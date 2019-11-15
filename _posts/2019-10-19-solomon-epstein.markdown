@@ -32,6 +32,10 @@ ingredients:
 
 Solomon Epstein was a Martian engineer, tinkering with drive efficiency improvements on his second-hand yacht. When he stumbled on a massive power increase, he was unable to stop his own ship from speeding out of the system. Solomon's wife Katie reconstructed the drive from Solomon's notes, giving humanity access to the Asteroid Belt and beyond.
 
+What drove Epstein's inventive spirit? That was our question to ourselves when we set out to make his drink. He wasn't a scientist or explorer, or a businessman out to make a buck. He was a tinkerer at heart, experimenting to see if he could improve things just for the sake of it&nbsp;&mdash; and not always with the most foresight.
+
+We used bourbon for Mars's early frontier history, added cold brew liqueur (we use Mr. Black's) to symbolize his restlessness, and Licor 43 because of its interesting complexity and&nbsp;&mdash; to be honest&nbsp;&mdash; because it sounds like something to put in your fast car.
+
 In our hint for Solomon Epstein, we said his favorite Broadway musical would be _Grease_, and quoted the line "With a four speed on the floor they'll be waiting at the door..." from the song "Greased Lightning".
 
 {% include ingredients.html %}

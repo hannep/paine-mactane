@@ -28,6 +28,8 @@ ingredients:
 
 A junior electrician with big dreams aboard the Guanshiyin, Theo Simibelli tries to stop Bobbie Draper from accessing a drop ship after Errinwright betrays Mao and Avasarala at the same time. Bobbie convinces him that Mao's company isn't worth laying down his life for, and he later aids Avasarala and escapes the ship's destruction with Cotyar.
 
+When developing this drink, we wanted to make sure it didn't come on too strong. This is, after all, the guy who politely asked to be stuffed in a storage locker so he'd appear to have fought back against Bobbie Draper. So, instead of a strongly-flavored gin, which we often use for UN military types, we used Escubac, a fairly new, delicate botanical spirit that has great applications when you don't want your drink to scream "juniper!" We combined it with apple juice, classic drink of the young and possibly insipid, and the two play off each other to be a genuinely enjoyable, lightly sweet drink with slightly more complexity than you might expect. The thyme gives it just a little bit more sharpness, if you catch its scent as you're sipping, like Theo's small moments of bravery.
+
 In our hint for Theo Simibelli, we said his favorite Broadway musical would be _How to Succeed in Business Without Really Trying_, and quoted the line "When I joined this firm as a brash young man, I said to myself... don't get any ideas!"
 
 {% include ingredients.html %}

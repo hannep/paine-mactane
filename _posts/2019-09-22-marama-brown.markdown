@@ -45,6 +45,10 @@ When the workers of Anderson Station banded together to take action for their ch
 
 In our hint for Marama Brown, we described him as: determined, nurturing, respected, patient, and centered.
 
+We knew right away that his drink couldn't be based on the intense, funky rum of many proud, cocky Belters. Instead we picked mostly smooth spirits for his compassion and commitment to nonviolence wherever possible. A hint of poitín, drink of Irish rebels and rural farmers, punches it up&nbsp;&mdash; he'll do anything if it means protecting his child, out in deep space.
+
+To garnish, we juxtaposed bee pollen, a sweet symbol of hardworking unity, with a graphic splash of bitters to illustrate the cruel end of Marama Brown and everyone he cared about.
+
 {% include ingredients.html %}
 
 #### Instructions:

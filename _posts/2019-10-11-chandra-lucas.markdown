@@ -38,6 +38,10 @@ When the Slow Zone speed limit changes, Chandra Lucas is the highest-ranking MCR
 
 In our hint for Chandra Lucas, we described her as: diplomatic, vigilant, discerning, restrained, and decisive.
 
+To reflect these traits, we used spicy rye (whiskey has been a common ingredient in our Martian military drinks since proud, incisive [Captain Yao](/cocktails/2017/10/03/theresa-yao/) of the [Donnager](/cocktails/2019/01/24/mcrn-donnager/)), smooth Calvados, sharp Averna, and Bittermens black mission fig bitters to create a balanced, sippable drink.
+
+We took the photo for this one in weird circumstances, with a more frighteningly red cherry than we would normally use, but like the way it ended up mirroring her part as Mars's representative as the Slow Zone group's lives hung in the balance.
+
 {% include ingredients.html %}
 
 #### Instructions:
