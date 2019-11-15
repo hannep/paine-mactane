@@ -43,7 +43,17 @@ ingredients:
 
 Martian Marine Corps Gunnery Sergeant Bobbie Draper is one of the best the corps has to offer: brave, tough, disciplined, and highly skilled. She dreams of the day Mars will have an ocean. While she is unswervingly loyal to Mars, she sees the worth in Earthers and Belters too, and her alliances with them help humanity as a whole.
 
-In our hint for Bobbie Draper, we said her favorite musical would be _Mulan_, and quoted the line "Once you find your center, you are sure to win!"
+When coming up for the concept for this drink, we knew first off that we wanted it to be strong, intense, and complex, without being bitter. Bourbon is a classic base spirit for Martians, especially those in its military.
+
+We thought of persimmons to symbolize Bobbie's growing open-mindedness and her alliance with Avasarala, because they grow on Earth but are Mars's orange through and through. Including a purée in the drink gave it a smooth but substantial texture that fits Bobbie's character well.
+
+Persimmons taste lightly botanical, with a slight honey sweetness. Bobbie is compassionate and protective of others at her core, and can be vulnerable and gentle, but we also wanted to represent her strength and fire with more than just the burn of alcohol, so we added ancho chiles, spicy and bright instead of smoky like chipotles, to the bourbon float on top. This way, when you drink Bobbie's cocktail, you'll get a unique combination of her thoughtfulness and drive with each sip.
+
+To tie things together, we used Bittermens Orange Cream Citrate, a seriously zingy orange tincture they describe as "anti-bitters." It added more of her focused, efficient side to contrast with her contemplative persimmon moments, and made the whole drink balanced, like she is.
+
+We've been wondering when to release Bobbie's drink, since we know we haven't seen the end of her story yet. There's so much more out there to learn about her character. But all her heroism in the last rewatch episodes made this feel like the right time.
+
+In our hint for Bobbie Draper, we said her favorite musical would be _Mulan_, and quoted the line "Once you find your center, you are sure to win!" We really wanted to do the line "Anything you can do, I can do better!" from _Annie Get Your Gun_. But it would have given book readers an unfair advantage, since Bobbie actually **does** sing that line to herself when she's under stress in _Caliban's War_.
 
 {% include ingredients.html %}
 
