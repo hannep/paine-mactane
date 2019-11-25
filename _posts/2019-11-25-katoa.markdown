@@ -1,0 +1,50 @@
+---
+layout: post
+number: 110
+name: Katoa
+date: 2019-11-25
+short_text: Full of enthusiasm about his treatment. "Hey, you wanna see something cool?"
+tweet_text: Mei's friend who's so enthusiastic about the changes occurring in him… and the end result of those changes.
+hero: /assets/images/110-Katoa-card.jpg
+drink_crop: /assets/images/110-Katoa-drink.jpg
+twitter_url: "https://twitter.com/Paine_MacTane/status/1002372704182374401"
+author: Paine×Mactane
+tags:
+  - "Difficulty: Medium"
+  - Non-Alcoholic
+  - Rock
+  - Fruity
+  - Sweet
+  - Homemade Ingredient
+  - Character Drink
+  - Belter
+  - Bit Part
+  - Expanse Cocktails Project
+ingredients:
+  - amount: 2
+    unit: ounces
+    name: butterfly pea flower syrup
+  - amount: ¾
+    unit: ounce
+    name: pineapple juice
+  - amount: ½
+    unit: ounce
+    name: lemon juice
+  - amount: 3
+    unit: drops
+    name: vanilla extract
+
+---
+
+Katoa is a friend of Mei Meng's, sharing the same immune system disorder. He is excited by the effects of Protogen's experiment on his strength and agility.
+
+
+{% include ingredients.html %}
+
+#### Instructions:
+
+<strong>Butterfly Pea Flower Syrup:</strong> Add 1 cup dried butterfly pea flowers to 1 cup hot 1:1 simple syrup and steep for 15 minutes, then strain.
+
+<strong>Cocktail:</strong> Pour all ingredients into a cocktail shaker with ice and shake until cold. Strain into a tumbler over 1 large ice cube and garnish with a cherry.
+
+{% include tags.html %}
