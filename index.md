@@ -1,6 +1,8 @@
 ---
 layout: about
 description: "Paine × MacTane: a transcontinental pair of sci-fi fans, language enthusiasts, cocktail creators, and perpetual learners and teachers."
+title: Paine × MacTane
+title_override: Paine × MacTane
 ---
 <!-- The main content area -->
 # About Us

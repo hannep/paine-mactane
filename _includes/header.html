@@ -1,5 +1,5 @@
 <header class="header">
-  <a class="header__title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+  <a class="header__title" href="{{ '/' | absolute_url }}">{% if page.title_override %} {{page.title_override}} {% else %}{{ site.title }} {% endif %}</a>
 
   {% include navigation.html %}
 </header>
