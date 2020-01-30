@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 73
-name: Tachi
+name: MCRN Tachi
 date: 2019-02-07
 short_text: A Martian gunship with enough power to influence the future of the solar system - with the right crew. 
 tweet_text: The Martian gunship that escaped calamity and became a home for the four survivors of the Canterbury.
