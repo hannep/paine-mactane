@@ -39,11 +39,11 @@ Fueled by caffeine, cocktails, and boundless creativity, our beloved Writers Roo
 
 We were honored and thrilled to be asked to come up with a drink for the Writers Room! In addition to using our "characters'" personalities as inspiration the way we normally do, we decided there were a few extra rules this drink absolutely needed:
 
-* It had to be based on Scotch - Lagavulin, to be specific - the Writer's Room's tipple of choice.
+* It had to be based on Scotch - Lagavulin, to be specific - the Writers Room's tipple of choice.
 * It had to be easily customizable: Each writer brings their own personality to the story, and deserves their own perfect drink.
-* Finally, it had to be easy to mix in the legendary Writers Room itself, with a short but hardworking list of ingredients, no refrigerated components except ice, and a quick build-in-the-glass process.
+* Finally, it had to be easy to mix in the legendary Writers Room itself, with a short but hardworking list of ingredients, no refrigerated components except ice, and a build-in-the-glass process.
 
-To us, the defining character trait of the _Expanse_ writers is the way they create brilliant work, then feel just as passionate as their fans do about sharing and enjoying it. The way they use [their popular Twitter](https://twitter.com/TheExpanseWR/) to discuss the show alongside the Screaming Firehawks and highlight the work of departments we might not otherwise get to see feels both special and completely in-character for the show and its community. So this cocktail needed to be powerful, but with undeniable enthusiasm and friendliness.
+To us, the defining character trait of the _Expanse_ writers is the way they create brilliant work, then feel just as passionate as their fans do about sharing and enjoying it. The way they use [their popular Twitter account](https://twitter.com/TheExpanseWR/) to discuss the show alongside the Screaming Firehawks and highlight the work of departments we might not otherwise get to see feels both special and completely in-character for the show and its community. So this cocktail needed to be powerful, but with undeniable enthusiasm and friendliness.
 
 We never get tired of the ceremony of building a good Old Fashioned, and it seemed like a fitting starting point for such a distinguished writing team. Scotch is a fiery, intense base that's relatively uncommon in cocktails. Aged rum adds a little fun and quirkiness, and the fruit notes in it bring out those in the Scotch beautifully. Of course, coffee has extreme importance on _The Expanse_ and reminds us of the writing team's energy, but it's also the perfect flavor to round out the drink, adding depth and lingering sweetness.
 
