@@ -47,6 +47,8 @@ To us, the defining character trait of the _Expanse_ writers is the way they cre
 
 We never get tired of the ceremony of building a good Old Fashioned, and it seemed like a fitting starting point for such a distinguished writing team. Scotch is a fiery, intense base that's relatively uncommon in cocktails. Aged rum adds a little fun and quirkiness, and the fruit notes in it bring out those in the Scotch beautifully. Of course, coffee has extreme importance on _The Expanse_ and reminds us of the writing team's energy, but it's also the perfect flavor to round out the drink, adding depth and lingering sweetness.
 
+{% include image.html url="/assets/images/C1-WritersRoom-drink.jpg" description="" %}
+
 In this drink, the flavors of each element are very important, and you might have fun experimenting and developing your own perfect match of ingredients. Choose liquors you'd enjoy drinking on their own over ice and feel tempted to try putting in other things, so it never feels like the bottles are taking up space more space than they deserve. (If any of them are nifty shapes, don't forget to pass them onto the props department when they're empty!)
 
 Normally, we don't specify spirit brands in our recipes if we can help it, but the Lagavulin (famously described by Avasarala as "a proper Scotch") is the Writers Room's special favorite. We used the classic Lagavulin 16 Year. Another Islay would work as well, or even a Japanese whisky with plenty of smoke. We think this drink might be a pleasant surprise for those who normally aren't into smoke because of its many other flavors, but we also tried it with rye and Canadian whiskey just in case. It's tasty that way too, though we'd recommend reducing the sugar a bit.
@@ -59,6 +61,7 @@ If you're mixing this drink as a batch for a lucky group, making a quick brown s
 
 We envision the writers sipping this cocktail slowly as they're hard at work brainstorming story ideas, livetweeting with the Firehawks, or relaxing after a long day of writing. Always remember to flip and burn responsibly!
 
+{% include image.html url="/assets/images/C1-WritersRoom-extra.jpg" description="Photo: Hallie Lambert." %}
 
 {% include ingredients.html %}
 
