@@ -38,7 +38,7 @@ ingredients:
 
 The strangeness of the human-made environment on Ceres is easy to forget— until you see liquids affected by Coriolis forces or a bird’s easy bounding flight in low gravity. Seemingly thriving in its unique ecological niche, the pert Sparrow always urges Miller on when he’s at his lowest.
 
-To make this drink, we started with the idea of distinctly Earther flavors brought into a low-gravity environment. The sake and apple combine for a satisfyingly earthy taste and mouthfeel, and are lightened and brightened with lemon oil elderflower, and bubbles. When you add the sparkling water, look closely to see the different densities create swirls like the air currents in Ceres. This drink is gentle but lively, like the sparrow it's named for, and is very low in alcohol. 
+To make this drink, we started with the idea of distinctly Earther flavors brought into a low-gravity environment. The sake and apple combine for a satisfyingly earthy taste and mouthfeel, and are lightened and brightened with lemon oil, elderflower, and bubbles. When you add the sparkling water, look closely to see the different densities create swirls like the air currents in Ceres. This drink is gentle but lively, like the sparrow it's named for, and is very low in alcohol. 
 
 {% include ingredients.html %}
 
