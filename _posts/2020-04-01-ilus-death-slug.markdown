@@ -1,7 +1,7 @@
 ---
 layout: post
 number: AF-9
-name: Ilus Death SLug
+name: Ilus Death Slug
 date: 2020-04-01 07:20:00 # Third April Fools 2020
 short_text: They glow. They ooze. They'll kill you in seconds. Welcome to Ilus! 
 tweet_text: They glow. They ooze. They'll kill you in seconds. Welcome to Ilus! 
