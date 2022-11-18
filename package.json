@@ -52,7 +52,7 @@
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "webpack": "^4.35.2",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   },
   "license": "MIT"
 }
