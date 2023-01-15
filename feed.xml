@@ -4,10 +4,10 @@
     <title>The Expanse Cocktails Project</title>
     <description>Expanse Cocktails created by Paine × MacTane: a transcontinental pair of sci-fi fans, language enthusiasts, cocktail creators, and perpetual learners and teachers.
 </description>
-    <link>https://www.painemactane.com</link>
-    <atom:link href="https://www.painemactane.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Dec 2021 17:11:49 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Dec 2021 17:11:49 -0500</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Apr 2020 23:18:58 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2020 23:18:58 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -114,9 +114,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 01 Apr 2020 03:20:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2020/04/01/ilus-death-slug/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2020/04/01/ilus-death-slug/</guid>
+        <pubDate>Wed, 01 Apr 2020 00:20:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2020/04/01/ilus-death-slug/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2020/04/01/ilus-death-slug/</guid>
         
         <category>April Fool's</category>
         
@@ -233,9 +233,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 01 Apr 2020 03:10:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2020/04/01/ceres-sparrow/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2020/04/01/ceres-sparrow/</guid>
+        <pubDate>Wed, 01 Apr 2020 00:10:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2020/04/01/ceres-sparrow/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2020/04/01/ceres-sparrow/</guid>
         
         <category>April Fool's</category>
         
@@ -336,9 +336,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 01 Apr 2020 03:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2020/04/01/canterbury-space-rat/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2020/04/01/canterbury-space-rat/</guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2020/04/01/canterbury-space-rat/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2020/04/01/canterbury-space-rat/</guid>
         
         <category>April Fool's</category>
         
@@ -473,9 +473,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 07 Feb 2020 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2020/02/07/writers-room/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2020/02/07/writers-room/</guid>
+        <pubDate>Fri, 07 Feb 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2020/02/07/writers-room/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2020/02/07/writers-room/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -576,9 +576,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 25 Nov 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/25/the-hybrid/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/25/the-hybrid/</guid>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/25/the-hybrid/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/25/the-hybrid/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -691,9 +691,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 25 Nov 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/25/katoa/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/25/katoa/</guid>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/25/katoa/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/25/katoa/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -806,9 +806,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 16 Nov 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/16/lt-mancuso/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/16/lt-mancuso/</guid>
+        <pubDate>Sat, 16 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/16/lt-mancuso/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/16/lt-mancuso/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -913,9 +913,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 15 Nov 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/15/lt-shaffer/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/15/lt-shaffer/</guid>
+        <pubDate>Fri, 15 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/15/lt-shaffer/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/15/lt-shaffer/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -1058,9 +1058,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/12/bobbie-draper/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/12/bobbie-draper/</guid>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/12/bobbie-draper/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/12/bobbie-draper/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -1157,9 +1157,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/11/02/theo-simibelli/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/11/02/theo-simibelli/</guid>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/11/02/theo-simibelli/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/11/02/theo-simibelli/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -1270,9 +1270,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/10/26/richard-travis/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/10/26/richard-travis/</guid>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/10/26/richard-travis/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/10/26/richard-travis/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -1371,9 +1371,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 19 Oct 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/10/19/solomon-epstein/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/10/19/solomon-epstein/</guid>
+        <pubDate>Sat, 19 Oct 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/10/19/solomon-epstein/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/10/19/solomon-epstein/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -1479,9 +1479,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 12 Oct 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/10/12/victor-mesplede/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/10/12/victor-mesplede/</guid>
+        <pubDate>Sat, 12 Oct 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/10/12/victor-mesplede/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/10/12/victor-mesplede/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -1590,9 +1590,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 11 Oct 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/10/11/chandra-lucas/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/10/11/chandra-lucas/</guid>
+        <pubDate>Fri, 11 Oct 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/10/11/chandra-lucas/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/10/11/chandra-lucas/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -1719,9 +1719,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sun, 22 Sep 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/09/22/marama-brown/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/09/22/marama-brown/</guid>
+        <pubDate>Sun, 22 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/09/22/marama-brown/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/09/22/marama-brown/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -1848,9 +1848,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 17 Sep 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/09/17/kolvoord/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/09/17/kolvoord/</guid>
+        <pubDate>Tue, 17 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/09/17/kolvoord/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/09/17/kolvoord/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -1967,9 +1967,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 04 Sep 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/09/04/franklin-degraaf/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/09/04/franklin-degraaf/</guid>
+        <pubDate>Wed, 04 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/09/04/franklin-degraaf/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/09/04/franklin-degraaf/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -2083,9 +2083,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 22 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/07/22/tina/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/07/22/tina/</guid>
+        <pubDate>Mon, 22 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/07/22/tina/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/07/22/tina/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -2186,9 +2186,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 20 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/07/20/season-four/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/07/20/season-four/</guid>
+        <pubDate>Sat, 20 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/07/20/season-four/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/07/20/season-four/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -2295,9 +2295,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 16 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/07/16/shed-garvey/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/07/16/shed-garvey/</guid>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/07/16/shed-garvey/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/07/16/shed-garvey/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -2412,9 +2412,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 09 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/07/09/cdr-kunis/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/07/09/cdr-kunis/</guid>
+        <pubDate>Tue, 09 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/07/09/cdr-kunis/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/07/09/cdr-kunis/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -2527,9 +2527,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 03 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/07/03/melas-kamal/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/07/03/melas-kamal/</guid>
+        <pubDate>Wed, 03 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/07/03/melas-kamal/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/07/03/melas-kamal/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -2658,9 +2658,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/26/station-doctor/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/26/station-doctor/</guid>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/26/station-doctor/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/26/station-doctor/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -2775,9 +2775,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/25/longbone/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/25/longbone/</guid>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/25/longbone/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/25/longbone/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -2892,9 +2892,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 21 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/21/haggard-belter/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/21/haggard-belter/</guid>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/21/haggard-belter/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/21/haggard-belter/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -2995,9 +2995,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 20 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/20/black-sky-guy/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/20/black-sky-guy/</guid>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/20/black-sky-guy/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/20/black-sky-guy/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3114,9 +3114,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 18 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/18/ceres-coroner/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/18/ceres-coroner/</guid>
+        <pubDate>Tue, 18 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/18/ceres-coroner/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/18/ceres-coroner/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3245,9 +3245,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/06/05/ensign-larson/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/06/05/ensign-larson/</guid>
+        <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/06/05/ensign-larson/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/06/05/ensign-larson/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3360,9 +3360,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 31 May 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/05/31/slingshot-club-bookie/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/05/31/slingshot-club-bookie/</guid>
+        <pubDate>Fri, 31 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/05/31/slingshot-club-bookie/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/05/31/slingshot-club-bookie/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3483,9 +3483,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 30 May 2019 19:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/05/30/evita-jung/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/05/30/evita-jung/</guid>
+        <pubDate>Thu, 30 May 2019 16:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/05/30/evita-jung/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/05/30/evita-jung/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3620,9 +3620,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 30 May 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/05/30/maneo-jung-espinoza/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/05/30/maneo-jung-espinoza/</guid>
+        <pubDate>Thu, 30 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/05/30/maneo-jung-espinoza/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/05/30/maneo-jung-espinoza/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3741,9 +3741,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 02 May 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/05/02/donnager-weapons-officer/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/05/02/donnager-weapons-officer/</guid>
+        <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/05/02/donnager-weapons-officer/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/05/02/donnager-weapons-officer/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -3868,9 +3868,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 25 Apr 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/25/ade-nygaard/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/25/ade-nygaard/</guid>
+        <pubDate>Thu, 25 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/25/ade-nygaard/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/25/ade-nygaard/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4013,9 +4013,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 22 Apr 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/22/javi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/22/javi/</guid>
+        <pubDate>Mon, 22 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/22/javi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/22/javi/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4134,9 +4134,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 20 Apr 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/20/egan/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/20/egan/</guid>
+        <pubDate>Sat, 20 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/20/egan/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/20/egan/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4245,9 +4245,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/08/pvt-riko-oshi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/08/pvt-riko-oshi/</guid>
+        <pubDate>Mon, 08 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/08/pvt-riko-oshi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/08/pvt-riko-oshi/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4382,9 +4382,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 01 Apr 2019 04:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/01/millers-pet-nuke/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/01/millers-pet-nuke/</guid>
+        <pubDate>Mon, 01 Apr 2019 01:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/01/millers-pet-nuke/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/01/millers-pet-nuke/</guid>
         
         <category>April Fool's</category>
         
@@ -4509,9 +4509,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 01 Apr 2019 03:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/01/julies-pet-robot-hamster/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/01/julies-pet-robot-hamster/</guid>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/04/01/julies-pet-robot-hamster/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/04/01/julies-pet-robot-hamster/</guid>
         
         <category>April Fool's</category>
         
@@ -4624,9 +4624,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 01 Apr 2019 02:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/04/01/mcdowells-pet-cat-statues/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/04/01/mcdowells-pet-cat-statues/</guid>
+        <pubDate>Sun, 31 Mar 2019 23:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/03/31/mcdowells-pet-cat-statues/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/03/31/mcdowells-pet-cat-statues/</guid>
         
         <category>April Fool's</category>
         
@@ -4743,9 +4743,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 28 Mar 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/03/28/roma/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/03/28/roma/</guid>
+        <pubDate>Thu, 28 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/03/28/roma/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/03/28/roma/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4856,9 +4856,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 21 Mar 2019 19:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/03/21/grimy-belter/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/03/21/grimy-belter/</guid>
+        <pubDate>Thu, 21 Mar 2019 16:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/03/21/grimy-belter/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/03/21/grimy-belter/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -4979,9 +4979,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/03/21/belter-hottie/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/03/21/belter-hottie/</guid>
+        <pubDate>Thu, 21 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/03/21/belter-hottie/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/03/21/belter-hottie/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -5104,9 +5104,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 14 Mar 2019 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/03/14/canterbury-xo/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/03/14/canterbury-xo/</guid>
+        <pubDate>Thu, 14 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2019/03/14/canterbury-xo/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/03/14/canterbury-xo/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -5233,9 +5233,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 21 Feb 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/02/21/brothel-madam/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/02/21/brothel-madam/</guid>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/02/21/brothel-madam/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/02/21/brothel-madam/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -5340,9 +5340,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 14 Feb 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/02/14/heikki-sobong/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/02/14/heikki-sobong/</guid>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/02/14/heikki-sobong/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/02/14/heikki-sobong/</guid>
         
         <category>Scene Stealers Series</category>
         
@@ -5447,9 +5447,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 07 Feb 2019 18:00:10 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/02/07/rocinante/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/02/07/rocinante/</guid>
+        <pubDate>Thu, 07 Feb 2019 15:00:10 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/02/07/rocinante/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/02/07/rocinante/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -5554,9 +5554,9 @@
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 07 Feb 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/02/07/tachi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/02/07/tachi/</guid>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/02/07/tachi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/02/07/tachi/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -5662,9 +5662,9 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/01/31/guanshiyin/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/01/31/guanshiyin/</guid>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/01/31/guanshiyin/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/01/31/guanshiyin/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -5765,9 +5765,9 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 24 Jan 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/01/24/mcrn-donnager/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/01/24/mcrn-donnager/</guid>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/01/24/mcrn-donnager/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/01/24/mcrn-donnager/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -5878,9 +5878,9 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/01/17/marasmus/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/01/17/marasmus/</guid>
+        <pubDate>Thu, 17 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/01/17/marasmus/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/01/17/marasmus/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -6017,9 +6017,9 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 10 Jan 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/01/10/unn-agatha-king/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/01/10/unn-agatha-king/</guid>
+        <pubDate>Thu, 10 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/01/10/unn-agatha-king/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/01/10/unn-agatha-king/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -6132,9 +6132,9 @@ the champagne. Twist a lemon peel over the drink to express the oils, then disca
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2019/01/04/weeping-somnambulist/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2019/01/04/weeping-somnambulist/</guid>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2019/01/04/weeping-somnambulist/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2019/01/04/weeping-somnambulist/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -6294,9 +6294,9 @@ Combine all ingredients in a large pitcher or punch bowl filled with ice and sti
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 27 Dec 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/12/27/roci-crew-punch/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/12/27/roci-crew-punch/</guid>
+        <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/12/27/roci-crew-punch/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/12/27/roci-crew-punch/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -6444,9 +6444,9 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/12/20/screaming-firehawks-family/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/12/20/screaming-firehawks-family/</guid>
+        <pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/12/20/screaming-firehawks-family/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/12/20/screaming-firehawks-family/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -6577,9 +6577,9 @@ and 2 star anise. Using a vegetable peeler, zest the lemon and clementines, remo
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 13 Dec 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/12/13/mcrn-kittur-chennamma/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/12/13/mcrn-kittur-chennamma/</guid>
+        <pubDate>Thu, 13 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/12/13/mcrn-kittur-chennamma/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/12/13/mcrn-kittur-chennamma/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -6721,9 +6721,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sun, 09 Dec 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/12/09/y-que/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/12/09/y-que/</guid>
+        <pubDate>Sun, 09 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/12/09/y-que/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/12/09/y-que/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -6872,9 +6872,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 29 Nov 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/11/29/opas-behemoth/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/11/29/opas-behemoth/</guid>
+        <pubDate>Thu, 29 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/11/29/opas-behemoth/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/11/29/opas-behemoth/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -7023,9 +7023,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 29 Nov 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/11/29/ldss-nauvoo/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/11/29/ldss-nauvoo/</guid>
+        <pubDate>Thu, 29 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/11/29/ldss-nauvoo/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/11/29/ldss-nauvoo/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -7158,9 +7158,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 15 Nov 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/11/15/scopuli/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/11/15/scopuli/</guid>
+        <pubDate>Thu, 15 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/11/15/scopuli/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/11/15/scopuli/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -7271,9 +7271,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 08 Nov 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/11/08/guy-molinari/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/11/08/guy-molinari/</guid>
+        <pubDate>Thu, 08 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/11/08/guy-molinari/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/11/08/guy-molinari/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7384,9 +7384,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/11/01/unn-thomas-prince/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/11/01/unn-thomas-prince/</guid>
+        <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/11/01/unn-thomas-prince/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/11/01/unn-thomas-prince/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7489,9 +7489,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 25 Oct 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/10/25/xinglong/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/10/25/xinglong/</guid>
+        <pubDate>Thu, 25 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/10/25/xinglong/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/10/25/xinglong/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7590,9 +7590,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/10/18/mcrn-scirocco/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/10/18/mcrn-scirocco/</guid>
+        <pubDate>Thu, 18 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/10/18/mcrn-scirocco/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/10/18/mcrn-scirocco/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7695,9 +7695,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 11 Oct 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/10/11/razorback/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/10/11/razorback/</guid>
+        <pubDate>Thu, 11 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/10/11/razorback/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/10/11/razorback/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7800,9 +7800,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 04 Oct 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/10/04/knight/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/10/04/knight/</guid>
+        <pubDate>Thu, 04 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/10/04/knight/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/10/04/knight/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -7907,9 +7907,9 @@ its oils, then drop it into the glass.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/09/27/unn-seung-un/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/09/27/unn-seung-un/</guid>
+        <pubDate>Thu, 27 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/09/27/unn-seung-un/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/09/27/unn-seung-un/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8007,9 +8007,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/09/20/mcrn-hammurabi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/09/20/mcrn-hammurabi/</guid>
+        <pubDate>Thu, 20 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/09/20/mcrn-hammurabi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/09/20/mcrn-hammurabi/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -8118,9 +8118,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/09/13/canterbury/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/09/13/canterbury/</guid>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/09/13/canterbury/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/09/13/canterbury/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8245,9 +8245,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/09/06/anubis/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/09/06/anubis/</guid>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/09/06/anubis/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/09/06/anubis/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8354,9 +8354,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/08/30/ren-hazuki/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/08/30/ren-hazuki/</guid>
+        <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/08/30/ren-hazuki/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/08/30/ren-hazuki/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8465,9 +8465,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 23 Aug 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/08/23/elio-cohen-casti/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/08/23/elio-cohen-casti/</guid>
+        <pubDate>Thu, 23 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/08/23/elio-cohen-casti/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/08/23/elio-cohen-casti/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8562,9 +8562,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/08/09/namono-volovodov/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/08/09/namono-volovodov/</guid>
+        <pubDate>Thu, 09 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/08/09/namono-volovodov/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/08/09/namono-volovodov/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8665,9 +8665,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/08/02/ensign-loftis/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/08/02/ensign-loftis/</guid>
+        <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/08/02/ensign-loftis/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/08/02/ensign-loftis/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8772,9 +8772,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 26 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/07/26/praxidike-meng/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/07/26/praxidike-meng/</guid>
+        <pubDate>Thu, 26 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/07/26/praxidike-meng/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/07/26/praxidike-meng/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -8887,9 +8887,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 19 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/07/19/lt-boyer/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/07/19/lt-boyer/</guid>
+        <pubDate>Thu, 19 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/07/19/lt-boyer/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/07/19/lt-boyer/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -9014,9 +9014,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 14 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/07/14/du-feri-da-belte/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/07/14/du-feri-da-belte/</guid>
+        <pubDate>Sat, 14 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/07/14/du-feri-da-belte/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/07/14/du-feri-da-belte/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -9117,9 +9117,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sat, 14 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/07/14/mcr-mule/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/07/14/mcr-mule/</guid>
+        <pubDate>Sat, 14 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/07/14/mcr-mule/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/07/14/mcr-mule/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -9228,9 +9228,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/07/12/cradle-of-life/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/07/12/cradle-of-life/</guid>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/07/12/cradle-of-life/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/07/12/cradle-of-life/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9353,9 +9353,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/06/28/anna-volovodov/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/06/28/anna-volovodov/</guid>
+        <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/06/28/anna-volovodov/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/06/28/anna-volovodov/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9492,9 +9492,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 21 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/06/21/tilly-fagan/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/06/21/tilly-fagan/</guid>
+        <pubDate>Thu, 21 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/06/21/tilly-fagan/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/06/21/tilly-fagan/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -9609,9 +9609,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 14 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/06/14/monica-stewart/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/06/14/monica-stewart/</guid>
+        <pubDate>Thu, 14 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/06/14/monica-stewart/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/06/14/monica-stewart/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9706,9 +9706,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 07 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/06/07/sandrine-kirino/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/06/07/sandrine-kirino/</guid>
+        <pubDate>Thu, 07 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/06/07/sandrine-kirino/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/06/07/sandrine-kirino/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9831,9 +9831,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 05 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/06/05/protomolecule-punch/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/06/05/protomolecule-punch/</guid>
+        <pubDate>Tue, 05 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/06/05/protomolecule-punch/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/06/05/protomolecule-punch/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -9944,9 +9944,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/31/the-investigator/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/31/the-investigator/</guid>
+        <pubDate>Thu, 31 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/31/the-investigator/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/31/the-investigator/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10047,9 +10047,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/31/josephus-miller/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/31/josephus-miller/</guid>
+        <pubDate>Thu, 31 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/31/josephus-miller/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/31/josephus-miller/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10146,9 +10146,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 17 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/17/admiral-nguyen/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/17/admiral-nguyen/</guid>
+        <pubDate>Thu, 17 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/17/admiral-nguyen/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/17/admiral-nguyen/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10259,9 +10259,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 14 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/14/the-screaming-firehawks/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/14/the-screaming-firehawks/</guid>
+        <pubDate>Mon, 14 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/14/the-screaming-firehawks/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/14/the-screaming-firehawks/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10364,9 +10364,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 10 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/10/admiral-souther/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/10/admiral-souther/</guid>
+        <pubDate>Thu, 10 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/10/admiral-souther/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/10/admiral-souther/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10487,9 +10487,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 03 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/03/lawrence-strickland/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/03/lawrence-strickland/</guid>
+        <pubDate>Thu, 03 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/03/lawrence-strickland/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/03/lawrence-strickland/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10592,9 +10592,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 03 May 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/05/03/avasaralas-ideal-gin-tonic/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/05/03/avasaralas-ideal-gin-tonic/</guid>
+        <pubDate>Thu, 03 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/05/03/avasaralas-ideal-gin-tonic/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/05/03/avasaralas-ideal-gin-tonic/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10695,9 +10695,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/26/jules-pierre-mao/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/26/jules-pierre-mao/</guid>
+        <pubDate>Thu, 26 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/26/jules-pierre-mao/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/26/jules-pierre-mao/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10804,9 +10804,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 19 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/19/secretary-general-sorrento-gillis/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/19/secretary-general-sorrento-gillis/</guid>
+        <pubDate>Thu, 19 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/19/secretary-general-sorrento-gillis/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/19/secretary-general-sorrento-gillis/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -10911,9 +10911,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 12 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/12/james-holden/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/12/james-holden/</guid>
+        <pubDate>Thu, 12 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/12/james-holden/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/12/james-holden/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -11008,9 +11008,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 05 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/05/staz/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/05/staz/</guid>
+        <pubDate>Thu, 05 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/05/staz/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/05/staz/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -11113,9 +11113,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/01/uns-arboghast/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/01/uns-arboghast/</guid>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/01/uns-arboghast/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/01/uns-arboghast/</guid>
         
         <category>April Fool's</category>
         
@@ -11240,9 +11240,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/01/listening-woman/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/01/listening-woman/</guid>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/01/listening-woman/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/01/listening-woman/</guid>
         
         <category>April Fool's</category>
         
@@ -11357,9 +11357,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/04/01/angry-dockworker/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/04/01/angry-dockworker/</guid>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/04/01/angry-dockworker/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/04/01/angry-dockworker/</guid>
         
         <category>April Fool's</category>
         
@@ -11470,9 +11470,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 29 Mar 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/03/29/cotyar-ghazi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/03/29/cotyar-ghazi/</guid>
+        <pubDate>Thu, 29 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/03/29/cotyar-ghazi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/03/29/cotyar-ghazi/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -11579,9 +11579,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 22 Mar 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/03/22/cpt-martens/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/03/22/cpt-martens/</guid>
+        <pubDate>Thu, 22 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/03/22/cpt-martens/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/03/22/cpt-martens/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -11692,9 +11692,9 @@ to avoid firing on Earth ships, preventing all-out war.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 15 Mar 2018 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/03/15/wasted-girl/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/03/15/wasted-girl/</guid>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2018/03/15/wasted-girl/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/03/15/wasted-girl/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -11798,9 +11798,9 @@ Cocktail: Pour all ingredients into an ice-filled rocks glass and stir briefly t
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/03/08/alex-kamal/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/03/08/alex-kamal/</guid>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/03/08/alex-kamal/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/03/08/alex-kamal/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -11919,9 +11919,9 @@ Cocktail: Pour all ingredients into an ice-filled rocks glass and stir briefly t
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/02/27/doris-bourne/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/02/27/doris-bourne/</guid>
+        <pubDate>Tue, 27 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/02/27/doris-bourne/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/02/27/doris-bourne/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12033,9 +12033,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/02/20/mei-meng/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/02/20/mei-meng/</guid>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/02/20/mei-meng/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/02/20/mei-meng/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -12140,9 +12140,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 13 Feb 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/02/13/col-janus/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/02/13/col-janus/</guid>
+        <pubDate>Tue, 13 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/02/13/col-janus/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/02/13/col-janus/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12246,9 +12246,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/02/06/dr-michael-iturbi/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/02/06/dr-michael-iturbi/</guid>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/02/06/dr-michael-iturbi/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/02/06/dr-michael-iturbi/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12359,9 +12359,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 30 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/01/30/umea/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/01/30/umea/</guid>
+        <pubDate>Tue, 30 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/01/30/umea/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/01/30/umea/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12476,9 +12476,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/01/23/sematimba/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/01/23/sematimba/</guid>
+        <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/01/23/sematimba/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/01/23/sematimba/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12585,9 +12585,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 16 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/01/16/melissa-suputayaporn/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/01/16/melissa-suputayaporn/</guid>
+        <pubDate>Tue, 16 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/01/16/melissa-suputayaporn/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/01/16/melissa-suputayaporn/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12710,9 +12710,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 09 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/01/09/pvt-hillman/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/01/09/pvt-hillman/</guid>
+        <pubDate>Tue, 09 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/01/09/pvt-hillman/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/01/09/pvt-hillman/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -12847,9 +12847,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2018/01/03/champa/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2018/01/03/champa/</guid>
+        <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2018/01/03/champa/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2018/01/03/champa/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -12972,9 +12972,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 26 Dec 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/12/26/pyotr-korshunov/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/12/26/pyotr-korshunov/</guid>
+        <pubDate>Tue, 26 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/12/26/pyotr-korshunov/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/12/26/pyotr-korshunov/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -13097,9 +13097,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 19 Dec 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/12/19/lt-lopez/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/12/19/lt-lopez/</guid>
+        <pubDate>Tue, 19 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/12/19/lt-lopez/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/12/19/lt-lopez/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -13214,9 +13214,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 12 Dec 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/12/12/antony-dresden/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/12/12/antony-dresden/</guid>
+        <pubDate>Tue, 12 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/12/12/antony-dresden/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/12/12/antony-dresden/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -13321,9 +13321,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/12/05/octavia-muss/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/12/05/octavia-muss/</guid>
+        <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/12/05/octavia-muss/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/12/05/octavia-muss/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -13450,9 +13450,9 @@ lime wheel.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 28 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/11/28/kenzo-gabriel/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/11/28/kenzo-gabriel/</guid>
+        <pubDate>Tue, 28 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/11/28/kenzo-gabriel/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/11/28/kenzo-gabriel/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -13568,9 +13568,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 21 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/11/21/nico/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/11/21/nico/</guid>
+        <pubDate>Tue, 21 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/11/21/nico/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/11/21/nico/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -13697,9 +13697,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 14 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/11/14/camina-drummer/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/11/14/camina-drummer/</guid>
+        <pubDate>Tue, 14 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/11/14/camina-drummer/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/11/14/camina-drummer/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -13826,9 +13826,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Mon, 13 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/11/13/naomis-grapefruit-martini/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/11/13/naomis-grapefruit-martini/</guid>
+        <pubDate>Mon, 13 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/11/13/naomis-grapefruit-martini/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/11/13/naomis-grapefruit-martini/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -13937,9 +13937,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 07 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/11/07/lt-sutton/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/11/07/lt-sutton/</guid>
+        <pubDate>Tue, 07 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cocktails/2017/11/07/lt-sutton/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/11/07/lt-sutton/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14054,9 +14054,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/10/31/dimitri-havelock/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/10/31/dimitri-havelock/</guid>
+        <pubDate>Tue, 31 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/10/31/dimitri-havelock/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/10/31/dimitri-havelock/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14196,9 +14196,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/10/24/captain-shaddid/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/10/24/captain-shaddid/</guid>
+        <pubDate>Tue, 24 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/10/24/captain-shaddid/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/10/24/captain-shaddid/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -14311,9 +14311,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 17 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/10/17/anderson-dawes/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/10/17/anderson-dawes/</guid>
+        <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/10/17/anderson-dawes/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/10/17/anderson-dawes/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14444,9 +14444,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 10 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/10/10/gia/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/10/10/gia/</guid>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/10/10/gia/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/10/10/gia/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14547,9 +14547,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 03 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/10/03/theresa-yao/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/10/03/theresa-yao/</guid>
+        <pubDate>Tue, 03 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/10/03/theresa-yao/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/10/03/theresa-yao/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14676,9 +14676,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/09/26/naomi-nagata/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/09/26/naomi-nagata/</guid>
+        <pubDate>Tue, 26 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/09/26/naomi-nagata/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/09/26/naomi-nagata/</guid>
         
         <category>Difficulty: Medium</category>
         
@@ -14799,9 +14799,9 @@ Martian Marine.&lt;/p&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/09/19/sadavir-errinwright/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/09/19/sadavir-errinwright/</guid>
+        <pubDate>Tue, 19 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/09/19/sadavir-errinwright/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/09/19/sadavir-errinwright/</guid>
         
         <category>Difficulty: Easy</category>
         
@@ -14935,9 +14935,9 @@ in a shaker.  Rub the rim of a chilled coupe vigorously with a ¼” slice of fr
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 12 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/09/12/diogo-harari/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/09/12/diogo-harari/</guid>
+        <pubDate>Tue, 12 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/09/12/diogo-harari/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/09/12/diogo-harari/</guid>
         
         <category>Difficulty: Hard</category>
         
@@ -15064,9 +15064,9 @@ in a shaker.  Rub the rim of a chilled coupe vigorously with a ¼” slice of fr
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
-        <pubDate>Tue, 05 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.painemactane.com/cocktails/2017/09/05/gaunt-belter/</link>
-        <guid isPermaLink="true">https://www.painemactane.com/cocktails/2017/09/05/gaunt-belter/</guid>
+        <pubDate>Tue, 05 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/cocktails/2017/09/05/gaunt-belter/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocktails/2017/09/05/gaunt-belter/</guid>
         
         <category>Difficulty: Medium</category>
         

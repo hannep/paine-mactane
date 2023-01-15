@@ -1,1 +1,1 @@
-Sitemap: https://www.painemactane.com/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
